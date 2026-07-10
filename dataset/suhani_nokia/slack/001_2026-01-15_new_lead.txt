@@ -1,0 +1,16 @@
+#deal-nokia-networkops (channel created by marcus.chen)
+
+marcus.chen [9:41 AM]
+new lead, Nokia network ops. Director-level, Suhani Kapoor. replied to cold email same day which is a good sign
+
+terrence.wu [9:44 AM]
+nokia is a whale if it lands. what's the entry point — incident memory angle?
+
+marcus.chen [9:45 AM]
+yeah, repeat incidents / RCA reuse across their NOC teams. she mentioned leadership asking why an outage took 6hrs to diagnose something they'd already root-caused before
+
+terrence.wu [9:46 AM]
+that's a great wedge, get aisha on standby for technical validation. telecom buyers will grill on data residency, get ahead of it
+
+marcus.chen [9:47 AM]
+already flagged internally. call is 1/27

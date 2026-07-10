@@ -1,0 +1,15 @@
+From: Padma Krishnan <padma.krishnan@oracle.com>
+To: Diane Okafor <diane.okafor@memoryiq.ai>
+CC: Robert Chase <robert.chase@oracle.com>, Julie Tran <julie.tran@oracle.com>, Elaine Cross <elaine.cross@oracle.com>
+Subject: Signed
+Date: Thu, 9 Jul 2026 15:45:00 -0700
+
+Diane,
+
+Countersigned copy attached. Elaine signed off yesterday, Julie closed the last open redline item this morning.
+
+Seven months, a budget freeze, and what I think might be the longest legal review MemoryIQ has been through — but we're here. Let's get Robert's team scheduled for implementation. Nadia (the AE from the February demo) has already asked to be in the first rollout wave, for what it's worth — good sign.
+
+Padma
+
+[Attachment: memoryiq_oracle_msa_executed.pdf]

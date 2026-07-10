@@ -1,0 +1,27 @@
+MEETING NOTES
+
+Date: June 18, 2026
+Attendees: Suhani Kapoor, Rajiv Mehta — Nokia; Marcus Chen, Aisha Patel — MemoryIQ
+Type: Pre-Signature Implementation Scoping
+
+Agenda:
+- Scope rollout sequencing ahead of anticipated signature
+- Confirm technical prerequisites
+
+Discussion:
+Given signature was expected within weeks, team got ahead of implementation planning. Agreed Dallas and Frankfurt NOC teams go live first (both saw the March demo, already asking for access) followed by Singapore and Sao Paulo in a second wave roughly 4 weeks later.
+
+Aisha flagged that Nokia's ServiceNow instance will need an admin-level API credential provisioned — Rajiv to handle internally, expects no issue.
+
+Suhani raised a soft concern: NOC engineer adoption. Wants a short internal launch communication co-written with MemoryIQ CS team so it doesn't land as "another mandatory tool."
+
+Decisions:
+- Two-wave rollout: Dallas/Frankfurt first, Singapore/Sao Paulo second
+- CS (Nina) to be looped in pre-signature to prep launch comms
+
+Action Items:
+- Nokia: provision API credentials within first 2 weeks post-signature
+- MemoryIQ: Nina to draft launch communication template
+- MemoryIQ: begin sandbox-to-production migration planning
+
+Next Meeting: Kickoff call, pending signature

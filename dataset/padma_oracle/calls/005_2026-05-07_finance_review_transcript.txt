@@ -1,0 +1,20 @@
+CALL TRANSCRIPT
+Date: May 7, 2026
+Participants: Won Park, Padma Krishnan (Oracle), Diane Okafor (MemoryIQ)
+Duration: 25 min
+
+WON: Walk me through the 3-year lock math, I don't want to approve a number I can't defend if someone above me asks.
+
+DIANE: Sure — standard annual uplift is 6% year over year. Rolling annual over 3 years: $300K, then $318K, then roughly $337K, total $955K. The 3-year lock is $300K flat every year, total $900K. Real savings, $55K, plus you know your cost for three years instead of guessing.
+
+WON: [pause, typing] Okay, that math checks out on my end. Is the $300K the full cost or is there implementation billed separately?
+
+DIANE: $300K includes platform plus standard implementation — dedicated implementation team, 10 to 12 week rollout at your scale. Custom integration work beyond standard Salesforce and Gong ingestion would be separate, but based on what we've scoped, I don't expect that to be necessary.
+
+WON: What would trigger something being "custom" versus standard?
+
+DIANE: Mainly nonstandard data sources — if you had some proprietary internal tool you wanted ingested that isn't Salesforce, Gong, email, or Slack, that would likely need custom scoping. Nothing in what Padma and Robert have described so far falls into that category.
+
+WON: Good, that's what I needed. I'll take this to budget approval.
+
+PADMA: Thanks Won, appreciate the quick turn.

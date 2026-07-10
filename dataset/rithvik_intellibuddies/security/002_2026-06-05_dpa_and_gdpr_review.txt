@@ -1,0 +1,6 @@
+SECURITY REVIEW NOTES
+Date: June 5, 2026
+Participants: Wei Zhang (CTO, IntelliBuddies), Priya Nathan (MemoryIQ)
+Related: meetings/005, calls/005
+
+GDPR-specific review triggered by IntelliBuddies' growing EU customer base — Wei needed MemoryIQ properly documented as a subprocessor for IntelliBuddies' own downstream compliance obligations, rather than out of direct concern about MemoryIQ's security posture per se. Standard DPA reviewed and accepted without redlines. Closed same week.

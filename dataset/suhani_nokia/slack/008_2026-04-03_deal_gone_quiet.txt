@@ -1,0 +1,16 @@
+#deal-nokia-networkops
+
+marcus.chen [8:15 AM]
+2 weeks of silence from suhani since security docs went out. sent a check-in email yesterday, nothing yet
+
+terrence.wu [8:20 AM]
+what's your read, cold feet or just busy
+
+marcus.chen [8:21 AM]
+telecom NOC, my money's on an actual fire somewhere. she's not the type to ghost without reason based on everything so far
+
+terrence.wu [8:22 AM]
+agreed, don't panic-follow-up more than once a week, she'll resent it if she's genuinely underwater. keep it on the forecast as commit but flag the risk to me directly, not just in salesforce
+
+marcus.chen [8:23 AM]
+will do. moving to "upside" not "commit" in CRM until she resurfaces

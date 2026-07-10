@@ -1,0 +1,7 @@
+PROCUREMENT CONVERSATION NOTES
+Date: June 3, 2026
+Participants: Greg Simmons (NVIDIA), Jordan Ellis (MemoryIQ), Rayhan Ahmed (NVIDIA)
+
+Greg presented his independently-derived internal build cost estimate (0.75 FTE-year, based on Carlos Nunez's team input plus his own review), significantly below MemoryIQ's proposal framework assumption. This became the pivotal cost data point in the remainder of the evaluation.
+
+No further procurement-style activity (contract redlines, MSA negotiation, PO process) occurred on this deal, as the evaluation did not progress past the internal cost-comparison stage before the committee decided against purchase.

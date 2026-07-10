@@ -1,0 +1,7 @@
+PROPOSAL DISCUSSION — FINANCE VALIDATION
+Date: May 7, 2026
+Related: Won Park's TCO review
+
+Provided full breakdown of 3-year lock savings on request: $955K rolling-annual total (6% standard uplift) vs. $900K locked total, real savings of $55K plus predictability. Confirmed implementation costs included in headline figure; only non-standard data source integration would incur separate billing, assessed as unlikely to apply given scoped sources (Salesforce, Gong, email, Slack).
+
+Outcome: Finance approval secured without further pricing negotiation — Won's scrutiny was diligence-oriented, not adversarial, and the transparent math was sufficient.

@@ -1,0 +1,18 @@
+CALL TRANSCRIPT
+Date: June 5, 2026
+Participants: Wei Zhang (IntelliBuddies), Priya Nathan (MemoryIQ)
+Duration: 14 min
+
+WEI: we've picked up a couple EU customers, so now I need a real DPA on file, not just a handshake
+
+PRIYA: Makes sense, I'll send our standard one today, it's GDPR-compliant, includes the current subprocessor list.
+
+WEI: who's on the subprocessor list
+
+PRIYA: AWS for infrastructure, Pinecone for vector storage. That's it, we're not a company with fifteen subprocessors buried in a PDF nobody reads.
+
+WEI: [laughs] appreciate the small list honestly, easier to actually reason about
+
+PRIYA: Flag anything that looks off once you've read it, but for a deal this size I wouldn't expect much to negotiate.
+
+WEI: yeah probably not, I just need it on file for when our own customers ask

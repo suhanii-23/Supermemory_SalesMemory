@@ -1,0 +1,9 @@
+PROPOSAL DISCUSSION — TCO CHALLENGE RESPONSE
+Date: June 3, 2026
+Related: Greg Simmons' pushback on build-cost assumptions
+
+NVIDIA's finance team returned a materially lower internal build estimate (0.75 FTE-year vs. MemoryIQ's 2 FTE-year assumption), citing reusable ML/infrastructure investments not fully accounted for in the original framework.
+
+Strategic decision: rather than disputing NVIDIA's lower estimate (which was substantively legitimate given their existing infra), proposal strategy pivoted to emphasize ongoing maintenance/tuning cost as the more commonly underestimated component of build decisions — an argument grounded in observed patterns rather than NVIDIA-specific assumptions, preserving credibility.
+
+This reframing was later confirmed (via Rayhan's account of the internal decision meeting) to have meaningfully influenced the committee's deliberation, even though it did not change the final outcome.

@@ -1,0 +1,29 @@
+MEETING NOTES
+
+Date: March 10, 2026
+Attendees: Suhani Kapoor, Rajiv Mehta, two Regional NOC Leads (Dallas, Frankfurt) — Nokia; Marcus Chen, Aisha Patel — MemoryIQ
+Type: Sandbox Demo
+
+Agenda:
+- Live demo against anonymized Nokia incident data
+- Gather reactions from regional NOC leadership
+
+Discussion:
+Aisha ran a live query simulating an on-call engineer investigating a fiber transport degradation. Platform surfaced a March 2025 RCA for a near-identical issue in the Dallas region. The Dallas NOC lead recognized the incident immediately and reacted visibly — unplanned validation moment, noted as a strong positive signal.
+
+Aisha also ran an unplanted, unscripted query to show the tool wasn't rigged; results were noisier but still relevant, which the room seemed to find more credible than a clean result would have.
+
+Frankfurt lead asked about multi-language RCA support (some EU incident docs are in German) — flagged as an open question, not a blocker but needs follow-up.
+
+Rajiv's tone was noticeably warmer than the Feb 20 call.
+
+Decisions:
+- Suhani to take this internally to build momentum ahead of formal proposal
+- Security review (Klaus) to begin next — expected imminently
+
+Action Items:
+- MemoryIQ: confirm multi-language RCA ingestion support, report back
+- Nokia: Klaus to send formal security requirements list
+- Nokia: Rajiv to get pricing model clarity before proposal stage
+
+Next Meeting: Security review kickoff, TBD

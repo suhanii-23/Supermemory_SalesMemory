@@ -1,0 +1,10 @@
+From: Rayhan Ahmed <rahmed@nvidia.com>
+To: Jordan Ellis <jordan.ellis@memoryiq.ai>
+Subject: RE: Checking in
+Date: Wed, 13 May 2026 20:05:00 -0700
+
+Sorry Jordan, genuinely dropped the ball on communication, not on purpose. Quarter-end platform roadmap review ate the entire month of April, on top of a reorg announcement that had everyone (including me) unsure what team we'd even be on by June.
+
+Reorg dust has settled, I'm still on the same team, still want this. Security review with Hana is basically done on her end I believe. The build-vs-buy debate is still not resolved — Priyanka's asked finance (Greg Simmons) to weigh in on total cost comparison before she'll make a call either way. I'll get you connected to Greg, he's going to want real numbers from you, not just a proposal PDF.
+
+Rayhan

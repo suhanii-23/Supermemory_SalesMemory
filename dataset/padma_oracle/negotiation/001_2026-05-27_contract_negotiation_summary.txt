@@ -1,0 +1,16 @@
+CONTRACT NEGOTIATION SUMMARY
+Deal: Oracle — Enterprise Sales Intelligence Platform
+Negotiation period: May 19 – July 9, 2026
+Participants: Monica Sable, Julie Tran, Won Park (Oracle); Claire Dunmore, Diane Okafor (MemoryIQ)
+
+Summary of full negotiation arc:
+
+Opening position (Oracle, May 19): Six redline items — liability cap raised to 3x annual fees, mutual IP indemnification, 24-hour breach notification, explicit prohibition on use of Oracle data for MemoryIQ product development, termination for convenience with 90 days notice, Delaware governing law.
+
+MemoryIQ response (May 27): Accepted mutual IP indemnification, 24-hour breach notification, the data-use prohibition, and Delaware governing law outright as reasonable given deal size and data sensitivity. Countered on liability cap (proposed 2x instead of 3x). On termination for convenience, proposed a 20% price premium as an alternative to accepting full risk shift at standard pricing on a multi-year locked-rate contract — reframed as a customer choice rather than a refusal.
+
+Oracle response: Took both open items back for internal review. Won Park (Finance) modeled the termination-premium option against the base 3-year savings and found it still net-favorable for Oracle.
+
+Final agreement (July 9): Liability cap settled at 2x annual fees. Oracle elected the 20% termination-for-convenience premium (effective rate $360,000/year against the $300,000 base). All other terms accepted as originally proposed by Oracle.
+
+Outcome: Longest and most complex negotiation in MemoryIQ's customer history to date, resolved without either party abandoning a core position — MemoryIQ preserved margin protection via the premium mechanism rather than simply absorbing full risk, while Oracle secured stronger liability and termination protections than MemoryIQ's standard terms.

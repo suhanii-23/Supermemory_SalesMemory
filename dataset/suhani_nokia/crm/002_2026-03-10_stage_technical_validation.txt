@@ -1,0 +1,16 @@
+SALESFORCE OPPORTUNITY RECORD — UPDATE
+
+Opportunity: Nokia — Network Incident Memory Platform
+Stage: Technical Validation → Business Validation
+Amount: $180,000
+Probability: 45%
+Expected Close Date: 2026-06-30
+
+Champion: Suhani Kapoor — CONFIRMED, actively evangelizing internally post-demo
+Technical Buyer: Rajiv Mehta (VP Eng) — engaged, warming, precision/data-residency concerns addressed
+Economic Buyer: Not yet identified by name; Suhani indicated CIO sign-off required above $150K
+Competitor: Build-vs-buy is the primary alternative being weighed internally, not a named competitor product
+Next Action: Security review kickoff with Klaus Berger (Security Lead)
+Risk: None critical at this time. Watch security review timeline — telecom security reviews historically slow.
+
+Notes: Sandbox demo on 3/10 was a strong positive inflection point — regional NOC lead recognized a real historical incident live on the call, unscripted validation. Deal temperature clearly rising.

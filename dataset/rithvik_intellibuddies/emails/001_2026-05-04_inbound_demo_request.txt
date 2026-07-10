@@ -1,0 +1,15 @@
+From: Rithvik Suresh <rithvik@intellibuddies.ai>
+To: sales@memoryiq.ai
+Subject: demo request - support memory for a 12 person startup
+Date: Mon, 4 May 2026 22:41:00 -0700
+
+hey team,
+
+found you through the Zendesk integrations page, weirdly. we're a 12 person startup (customer support tooling, ironically), and our support memory is entirely in one very tired engineer's head plus a Notion doc nobody updates.
+
+we get the same bug reports re-litigated every few weeks because nobody remembers we already told a customer "known issue, fix coming" three months ago. wondering if your thing actually solves that or if it's built for bigger companies than us.
+
+can someone show me this live? i move fast, available literally any day this week.
+
+rithvik
+founder, intellibuddies

@@ -1,0 +1,19 @@
+From: Marcus Chen <marcus.chen@memoryiq.ai>
+To: Suhani Kapoor <suhani.kapoor@nokia.com>
+Subject: Recap + next steps from Tuesday
+Date: Tue, 3 Feb 2026 15:41:00 -0800
+
+Suhani,
+
+Thanks for the time today, and for being blunt about where this would actually break down (appreciated — most people don't tell me until month 3).
+
+Recapping what I heard:
+- ~40-50 P1/P2 incidents a month across RAN + transport, spread across 4 regional NOC teams that don't share tooling well
+- RCA docs live in Confluence but nobody searches them before starting a new investigation
+- Your ask: can this actually surface the right prior incident at 3am when someone's paging on-call, not just be "another dashboard nobody opens"
+
+Proposed next step: bring in your VP Eng (you mentioned Rajiv) and let our solutions engineer Aisha walk through the ingestion architecture against your actual stack — ServiceNow + PagerDuty + Slack, not the generic version. That's usually where technical buyers either get excited or find the dealbreaker, better to find out early.
+
+Let me know a couple windows that work for Rajiv's calendar.
+
+Marcus

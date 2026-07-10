@@ -1,0 +1,20 @@
+CALL TRANSCRIPT
+Date: January 27, 2026
+Participants: Robert Chase, Padma Krishnan (Oracle), Sam Rutledge, Diane Okafor (MemoryIQ)
+Duration: 35 min
+
+ROBERT: Straight up — we have Gong. My reps are already annoyed about how many tools they have to touch in a day. If this is 70% the same thing, I don't want it, doesn't matter how good the demo is.
+
+SAM: Fair question, and I'd rather answer it directly than dodge it. Gong's job is deal-cycle intelligence — call recording, signal detection, coaching, all within an active deal. What Gong doesn't do is persist across time and channels — it doesn't remember an account across an eighteen-month gap, doesn't connect a stakeholder concern from a Slack thread to a CRM note to an email that happened in three different tools.
+
+ROBERT: [pause] Okay, so you're saying you sit above Gong, not next to it.
+
+SAM: Exactly, and to make that concrete — for several of our other customers, Gong transcripts are literally one of our ingestion sources. We use Gong's output as an input to our memory layer, not compete with it for the same job.
+
+ROBERT: That's a better answer than I expected, not going to lie, I was ready to shut this down. What about Salesforce, are you going to become some shadow CRM my reps half-use and half-ignore?
+
+SAM: No — we write context back into Salesforce as enriched notes, we don't create a separate source of truth. Salesforce stays authoritative for pipeline, stage, amount. We're additive.
+
+ROBERT: [pause] Okay. I'm not sold yet, but I'm not opposed anymore either. Show me a real demo, with real account complexity, not a canned scenario.
+
+SAM: That's exactly what I want to do too.

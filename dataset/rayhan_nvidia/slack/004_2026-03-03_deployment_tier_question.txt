@@ -1,0 +1,10 @@
+#deal-nvidia-aiinfra
+
+derek.lin [2:00 PM]
+devon asked about dedicated/single-tenant deployment given the IP sensitivity (pre-release hardware discussion in their slack/github). confirmed we can do it but it's a different commercial tier
+
+terrence.wu [2:05 PM]
+right, make sure pricing reflects that from here on out, don't quote standard SaaS pricing and then have to walk it back later, that's a trust killer
+
+derek.lin [2:06 PM]
+agreed, flagging to jordan now

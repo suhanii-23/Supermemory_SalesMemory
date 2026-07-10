@@ -1,0 +1,10 @@
+#deal-nvidia-aiinfra
+
+jordan.ellis [4:10 PM]
+scale numbers came back: 40 repos to start, could go to 200+ engineers eventually. bigger than anything we've deployed
+
+derek.lin [4:15 PM]
+yeah that's genuinely past our largest current deployment's issue/PR volume. not a blocker architecturally but I don't want to overclaim proven-at-scale, going to be honest with them about that
+
+jordan.ellis [4:16 PM]
+appreciate that, this crowd will catch an oversell instantly

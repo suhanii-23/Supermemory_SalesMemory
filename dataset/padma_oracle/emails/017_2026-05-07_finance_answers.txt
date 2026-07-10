@@ -1,0 +1,15 @@
+From: Diane Okafor <diane.okafor@memoryiq.ai>
+To: Won Park <won.park@oracle.com>
+CC: Padma Krishnan <padma.krishnan@oracle.com>
+Subject: RE: Proposal — MemoryIQ Enterprise Sales Intelligence Platform
+Date: Thu, 7 May 2026 10:20:00 -0700
+
+Won,
+
+1. Standard annual uplift is 6% year over year. Over 3 years, that's $300K / $318K / $337K under a rolling annual structure, totaling $955K. The 3-year lock is $300K flat across all three years, totaling $900K — real savings of $55K, plus budget predictability, not a marketing number.
+
+2. $300K is platform + standard implementation (dedicated implementation team, ~10-12 week rollout for a deployment at this scale). Any custom integration work beyond standard Salesforce/Gong ingestion would be scoped and billed separately, but I don't anticipate that being necessary here based on what we've discussed.
+
+Let me know if you want this broken out further for your model.
+
+Diane

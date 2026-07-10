@@ -1,0 +1,10 @@
+#deal-nvidia-aiinfra
+
+jordan.ellis [4:00 PM]
+finance came back with a much lower internal build estimate than our framework assumed (0.75 FTE-year vs our 2), because they've got reusable ML infra we didn't fully account for. math looks bad for us now, TCO advantage shrinks a lot
+
+terrence.wu [4:10 PM]
+that's a legitimate point on their side, not just negotiating posture. don't overcorrect and start inflating our numbers to compensate, that's how you lose credibility on a deal that's already this fragile. stick to the maintenance-cost argument, that's the honest strongest point left
+
+jordan.ellis [4:12 PM]
+yeah that's what I pushed back with, no other angle left that isn't sales spin at this point

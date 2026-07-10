@@ -1,0 +1,32 @@
+CALL TRANSCRIPT
+Date: March 19, 2026
+Participants: Klaus Berger (Nokia, Security Lead), Ben Okoro (MemoryIQ, Head of Security)
+Duration: 40 min
+
+KLAUS: I want to focus specifically on item six from my list. Confirmation that customer data is not used to train models shared across other customers.
+
+BEN: Understood. Short answer: no, we do not train shared models on customer incident data. Architecture is multi-tenant with hard isolation — each customer's embeddings and any fine-tuning artifacts stay within their tenant boundary.
+
+KLAUS: "Any fine-tuning artifacts" — so there is some form of model adaptation happening on our data?
+
+BEN: There can be, yes, if you opt into it — it's not on by default. Some customers want the similarity matching tuned to their specific incident taxonomy over time. That tuning happens on a tenant-specific adapter layer, not the base model, and it never leaves your tenant.
+
+KLAUS: What if we don't opt in?
+
+BEN: Then it's pure retrieval, no adaptation at all. Base embedding model, no customer-specific training of any kind.
+
+KLAUS: [pause] I'll be direct — this is usually where vendors get cagey. You didn't get cagey, so I appreciate that. But I need this in writing, not verbal.
+
+BEN: Understood, that's fair. I'll have it added explicitly to the DPA addendum, not just implied by the architecture doc.
+
+KLAUS: Second question — subprocessors. I saw AWS and one other, a company called Pinecone, in your dataflow diagram. What does Pinecone actually have access to?
+
+BEN: Pinecone hosts our vector database infrastructure — so it has access to embeddings, not raw incident text. Raw text lives in our primary data store, also on AWS, region-pinned per your requirement.
+
+KLAUS: Does Pinecone have its own subprocessors I should be aware of?
+
+BEN: They do, it's in their published subprocessor list, I can forward that separately. I don't have it memorized.
+
+KLAUS: Send it over. I think we're close here, want to see it in writing before I sign off.
+
+BEN: Will do this week.

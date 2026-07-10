@@ -1,0 +1,12 @@
+SECURITY REVIEW MEETING NOTES
+Date: March 19, 2026
+Attendees: Klaus Berger (Nokia, Security Lead), Ben Okoro (MemoryIQ, Head of Security)
+Related transcript: calls/004
+
+Summary: Full review of MemoryIQ's security posture against Nokia's 6-item requirements list (SOC2, CAIQ, dataflow/subprocessors, encryption, IR policy, model training confirmation).
+
+Key outcome: Ben provided direct, non-evasive answers throughout, including disclosure of the opt-in tenant-specific fine-tuning capability that Klaus had not explicitly asked about but which Ben proactively surfaced rather than letting Klaus discover it later. This transparency was noted as a significant trust-building moment.
+
+Open item: Klaus requires written confirmation (not verbal) of the "no shared-model training" commitment, to be added to DPA addendum. Also requested full Pinecone (subprocessor) subprocessor list.
+
+Klaus's overall posture: cautiously positive, "close" to sign-off pending written documentation.

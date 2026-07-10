@@ -1,0 +1,13 @@
+From: Jordan Ellis <jordan.ellis@memoryiq.ai>
+To: Rayhan Ahmed <rahmed@nvidia.com>
+Subject: RE: Engineering knowledge memory — eval interest
+Date: Thu, 5 Feb 2026 09:15:00 -0800
+
+Rayhan,
+
+Appreciate the direct ask — I'll set you up with Derek Lin, one of our solutions engineers who came from an infra background himself (ex-Databricks), he can go as deep as you want technically without a sales layer in between.
+
+Quick gut-check before we schedule: what's the actual scale here — how many repos, how many Slack channels, roughly how many engineers would eventually touch this? Want Derek to come prepared with the right examples, not generic ones.
+
+Jordan Ellis
+Enterprise AE, MemoryIQ

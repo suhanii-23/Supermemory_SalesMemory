@@ -1,0 +1,14 @@
+From: Robert Chase <robert.chase@oracle.com>
+To: Diane Okafor <diane.okafor@memoryiq.ai>
+CC: Padma Krishnan <padma.krishnan@oracle.com>
+Subject: RE: Recap + next steps
+Date: Tue, 20 Jan 2026 08:45:00 -0800
+
+Diane,
+
+Before I take a call — we already use Gong for call recording and some deal intelligence. I need to understand where MemoryIQ starts and Gong stops, because if this is 70% overlapping, that's a hard no from me regardless of how good the demo looks. Adoption fatigue is real, my reps already complain about tool sprawl.
+
+Also — how does this integrate with Salesforce, that's our system of record and I won't support anything that creates a parallel source of truth.
+
+Robert Chase
+VP Sales, Cloud Applications

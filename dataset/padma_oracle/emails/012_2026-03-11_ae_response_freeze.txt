@@ -1,0 +1,12 @@
+From: Diane Okafor <diane.okafor@memoryiq.ai>
+To: Padma Krishnan <padma.krishnan@oracle.com>
+Subject: RE: Pausing — budget freeze
+Date: Wed, 11 Mar 2026 09:10:00 -0700
+
+Padma,
+
+Appreciate you telling me straight rather than letting it go quiet — genuinely, that's the right way to handle this. We'll keep the security review moving with Ahmed since you said that's unaffected, so we're not starting from zero whenever the freeze lifts.
+
+No expectation of updates from you unless something changes. I'll check in periodically, low-key, but won't chase.
+
+Diane

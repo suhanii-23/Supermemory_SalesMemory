@@ -1,0 +1,28 @@
+CALL TRANSCRIPT
+Date: February 10, 2026
+Participants: Padma Krishnan, Robert Chase, Nadia (AE) — Oracle; Sam Rutledge, Diane Okafor — MemoryIQ
+Duration: 55 min
+
+SAM: Okay, simulating a scenario — new AE inherits a strategic account, first thing they do is pull up the account memory before their first call.
+
+[typing, ~10 sec pause]
+
+SAM: Top surfaced item: a stakeholder comment from fourteen months prior, flagged as "churn risk signal," tied to a support escalation that was never fully resolved in the notes.
+
+NADIA: [long pause] ...okay that is eerily specific to something that happened to me. Almost exactly that, different account, but almost exactly that.
+
+SAM: Is that uncomfortable to hear or reassuring?
+
+NADIA: [laughs] Both, honestly. Mostly reassuring, I wish I'd had this eighteen months ago.
+
+ROBERT: [to Sam] How does it decide what counts as a "churn risk signal" versus just someone being annoyed in a meeting once?
+
+SAM: Not a hard rule, it's a combination of sentiment signal plus keyword/context pattern plus recency-weighting — genuinely not perfect, sometimes it'll flag something that turns out to be a one-off complaint, not a pattern. We show confidence indicators so the rep can judge, not just present it as gospel.
+
+ROBERT: Good, I'd be more suspicious if you said it was always right.
+
+PADMA: [to the group] I think we have enough here to move forward. Next step is real — security and legal review, that's going to take a while, I want to set that expectation clearly right now for everyone in this room.
+
+ROBERT: How long is "a while"?
+
+PADMA: Realistically, months, not weeks. I'd rather say that now than have people assume this is close when it isn't.

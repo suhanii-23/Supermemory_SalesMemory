@@ -1,0 +1,24 @@
+MEETING NOTES
+
+Date: January 6, 2026
+Attendees: Padma Krishnan (Oracle, VP Cloud Applications) — Diane Okafor (MemoryIQ, AE)
+Type: Discovery Call
+
+Agenda:
+- Understand strategic account management pain points
+
+Discussion:
+Padma described ~120 strategic accounts across Cloud Applications, each touched by multiple AEs, SEs, and CSMs over time. Central pain: context loss during rep handoffs (promotion, attrition, reassignment). Anchor story: a $2M renewal nearly churned when a new AE was unaware a key stakeholder had previously threatened to leave over an unresolved support issue.
+
+Current state: CRM note quality inconsistent, meeting notes scattered across personal tool preferences, no unified account view across time.
+
+Padma flagged early and directly that any tool touching CRM/customer data would face extensive security and legal review — set realistic timeline expectations from the outset.
+
+Decisions:
+- Loop in VP Sales (Robert Chase), whose org are the primary day-to-day users
+
+Action Items:
+- Padma: introduce Robert Chase
+- MemoryIQ: prepare for skepticism around tool adoption fatigue
+
+Next Meeting: Technical/positioning discussion with Robert Chase

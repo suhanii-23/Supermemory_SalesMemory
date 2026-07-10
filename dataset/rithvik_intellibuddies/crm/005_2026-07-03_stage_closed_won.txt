@@ -1,0 +1,14 @@
+SALESFORCE OPPORTUNITY RECORD — FINAL
+
+Opportunity: IntelliBuddies — Customer Support Memory Platform
+Stage: Closed Won
+Amount: $45,000 ARR (annual term, quarterly billing)
+Probability: 100%
+Close Date: 2026-07-03 (Actual)
+Original Expected Close: 2026-07-04 (essentially on target despite mid-cycle gap)
+
+Champion: Rithvik Suresh (Founder) — resurfaced after seed round closed, attempted further price reduction ($45K to $40K), held at $45K with added value instead
+Economic Buyer: Rithvik Suresh (sole budget authority)
+Contract Terms: $45,000 ARR, quarterly billing, 8 seats (grace room to 10), full white-glove onboarding, 60-day implementation SLA, standard DPA
+
+Notes: 2-month cycle as anticipated (May 4 – Jul 3), with a ~2.5 week unexplained gap mid-cycle attributed to founder fundraising activity, not deal risk. Held firm on price post-raise pushback — buyer explicitly credited this with increasing trust in the deal. Handed to CS (Nina Volkov) 7/6, accelerated onboarding underway.

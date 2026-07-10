@@ -1,0 +1,7 @@
+PROPOSAL DISCUSSION — INITIAL STRUCTURE
+Date: April 28, 2026
+Related: Proposal sent to Padma, Robert, Julie
+
+Pricing: $300,000 ARR standard annual, with an optional 3-year rate lock (flat $300K/year, no uplift) included proactively given Padma's stated need for multi-year budget predictability following the Q1 budget freeze experience. Scope: all ~150 Cloud Applications strategic accounts, unlimited account-team seats, Salesforce bi-directional integration, Gong transcript ingestion, dedicated implementation team, named enterprise CSM.
+
+Rationale for including the 3-year option unprompted: given the deal had just survived a company-wide spend freeze, anticipated finance would specifically value budget certainty — proactive inclusion assessed as more credible than waiting to be asked.

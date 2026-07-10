@@ -1,0 +1,8 @@
+SECURITY REVIEW MEETING NOTES
+Date: March 31, 2026
+Attendees: Hana Yoshida (NVIDIA, Security Lead), Ben Okoro (MemoryIQ, Head of Security)
+Related transcript: calls/004
+
+Most rigorous security review encountered across MemoryIQ's customer base to date, driven by the sensitivity of pre-release hardware/architecture discussion potentially present in indexed engineering content. Requirements included custom contractual no-training language (stronger than standard DPA, no opt-in carve-out permitted), a right-to-audit clause, and a breach SLA specific to pre-release technical information.
+
+Ben confirmed all items could be accommodated but flagged the custom legal language as requiring direct legal-to-legal collaboration (Claire Dunmore) rather than standard documentation. Hana set explicit expectation of 4-6 week minimum review timeline.

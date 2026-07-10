@@ -1,0 +1,24 @@
+MEETING NOTES
+
+Date: March 17, 2026
+Attendees: Rayhan Ahmed, Devon Marsh, Priyanka Rao (Director), Carlos Nunez (Platform Team) — NVIDIA; Jordan Ellis, Derek Lin — MemoryIQ
+Type: Wider Team Demo
+
+Agenda:
+- Demo to full technical/decision-making audience
+- Surface build-vs-buy concerns directly
+
+Discussion:
+Derek led with the dedicated deployment and IP-exposure answers per Rayhan's pre-call guidance. Demo itself went reasonably well technically. Priyanka's core question, stated directly: why is this meaningfully better than an internal retrieval layer built on existing NVIDIA tooling? This was treated as a serious, not rhetorical, question.
+
+Carlos was notably quiet during the demo — asked technical questions about the re-ranking methodology but did not weigh in on build-vs-buy explicitly. Team read this as ambiguous rather than clearly negative.
+
+Decisions:
+- Proceed to security review (Hana Yoshida) as next gating step
+- Priyanka requested a cost comparison against an internal build estimate before further commitment
+
+Action Items:
+- NVIDIA: Hana to send security requirements
+- MemoryIQ: prepare TCO/build-cost comparison framework (deferred until later in cycle per subsequent emails)
+
+Next Meeting: Security review kickoff

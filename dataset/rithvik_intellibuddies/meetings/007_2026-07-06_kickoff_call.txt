@@ -1,0 +1,24 @@
+MEETING NOTES
+
+Date: July 6, 2026
+Attendees: Rithvik Suresh, Wei Zhang — IntelliBuddies; Priya Nathan, Nina Volkov (CS) — MemoryIQ
+Type: Kickoff Call
+
+Agenda:
+- Sales-to-CS handoff, implementation kickoff
+
+Discussion:
+Priya formally introduced Nina as CSM. Given the 60-day SLA commitment, Nina proposed an accelerated onboarding schedule: Zendesk + Slack ingestion live within 2 weeks, GitHub issues integration in week 3-4.
+
+Wei reiterated interest in export/portability being tested periodically, not just at initial evaluation — Nina noted this as an ongoing trust point to proactively address in QBRs rather than wait for him to ask.
+
+Rithvik, true to form, pushed for the fastest possible timeline and asked if week 1 was feasible for at least Zendesk ingestion alone — Nina agreed to prioritize that.
+
+Decisions:
+- Phased onboarding: Zendesk/Slack week 1-2, GitHub week 3-4
+
+Action Items:
+- MemoryIQ: begin Zendesk ingestion setup immediately
+- IntelliBuddies: provide API credentials for Zendesk and GitHub by July 8
+
+Next Meeting: Week 1 check-in, July 13

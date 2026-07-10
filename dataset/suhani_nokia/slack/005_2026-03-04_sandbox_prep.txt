@@ -1,0 +1,16 @@
+#deal-nokia-networkops
+
+aisha.patel [10:30 AM]
+nokia's IT sent over the scrubbed SNOW export for the sandbox demo. 90 days, decent volume. going to plant a couple of "twin" incidents so the similarity matching has something obvious to surface live
+
+marcus.chen [10:32 AM]
+nice. do NOT let this look too perfect, rajiv will smell a rigged demo from a mile away
+
+aisha.patel [10:33 AM]
+lol yeah, i'm planting 2 obvious matches and leaving the rest of the corpus untouched. if it surfaces noise on the untouched stuff that's actually good, shows it's not cherry picked
+
+marcus.chen [10:34 AM]
+smart. who's confirmed for the room?
+
+aisha.patel [10:36 AM]
+suhani, rajiv, and apparently 2 regional NOC leads she's dragging in. no security or procurement yet, that's the next gate

@@ -1,0 +1,14 @@
+SALESFORCE OPPORTUNITY RECORD — FINAL
+
+Opportunity: Oracle — Enterprise Sales Intelligence Platform
+Stage: Closed Won
+Amount: $300,000 ARR, 3-year term, locked rate
+Probability: 100%
+Close Date: 2026-07-09 (Actual)
+Original Expected Close: 2026-08-01 (effectively on-time despite budget freeze delay, due to parallel-track execution post-freeze)
+
+Champion: Padma Krishnan — champion throughout entire 7-month cycle, transparent communication even through the budget freeze
+Economic Buyer: Elaine Cross (CFO's office) — final sign-off
+Contract Terms: $300,000 ARR flat across 3 years, 2x liability cap (negotiated down from Oracle's initial 3x ask), 20% premium accepted by Oracle for full termination-for-convenience rights, mutual IP indemnification, 24hr breach notification, Delaware governing law, explicit prohibition on MemoryIQ using customer data for own product development
+
+Notes: Full-cycle deal, Dec 8 2025 – Jul 9 2026 (7 months, in line with expected cycle length despite a ~4 week budget freeze in the middle). Key inflection points: Gong-overlap objection resolved cleanly in first technical call (Jan 27); strong unscripted demo validation from senior AE (Feb 10); transparent, trust-preserving communication through the budget freeze (Mar-Apr); efficient parallel-track contracting (security/legal/finance simultaneously, not sequentially) once freeze lifted. Handed to CS (Nina Volkov) 7/14. Largest deal in MemoryIQ history to date.

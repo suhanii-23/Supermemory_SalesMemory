@@ -1,0 +1,14 @@
+SALESFORCE OPPORTUNITY RECORD — UPDATE
+
+Opportunity: NVIDIA — Engineering Knowledge Memory Platform
+Stage: Technical Validation
+Amount: $240,000 (dedicated deployment tier)
+Probability: 35%
+Expected Close Date: 2026-07-15
+
+Champion: Rayhan Ahmed — confirmed, actively advocating
+Technical Buyer: Devon Marsh (EM) — satisfied post technical walkthrough
+Economic Buyer: Priyanka Rao (Director) — engaged directly, explicitly raised build-vs-buy as her central evaluation question
+Competitor: Internal build (Carlos Nunez, Platform Team) — CONFIRMED live alternative, not hypothetical
+Next Action: Security review (Hana Yoshida) + cost comparison request from Priyanka
+Risk: HIGH — build-vs-buy is now the central deal risk, not a side consideration. Carlos notably non-committal in demo, reading as neutral-to-cautious rather than positive.

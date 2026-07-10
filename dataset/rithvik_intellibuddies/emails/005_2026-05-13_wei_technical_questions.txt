@@ -1,0 +1,17 @@
+From: Wei Zhang <wei@intellibuddies.ai>
+To: Priya Nathan <priya.nathan@memoryiq.ai>
+CC: Rithvik Suresh <rithvik@intellibuddies.ai>
+Subject: RE: Great session — recap + next steps
+Date: Wed, 13 May 2026 16:20:00 -0700
+
+Priya,
+
+Went through the API docs. Couple things before I sign off internally:
+
+1. If we ever leave, can we get a full export in a format that's actually usable (not just a JSON dump of raw text), including the relationships/links between tickets and resolutions?
+2. What's your uptime/SLA situation? We're small but our customers aren't — if MemoryIQ is down, does that affect our support team's ability to work tickets, or is it purely additive?
+3. SOC2? We get asked about our own subprocessors by enterprise customers now, need to know what to tell them about you.
+
+Not trying to be difficult, just been burned by vendor lock-in before at a previous company.
+
+Wei

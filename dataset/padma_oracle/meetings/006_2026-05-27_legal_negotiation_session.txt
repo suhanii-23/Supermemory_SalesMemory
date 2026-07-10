@@ -1,0 +1,22 @@
+MEETING NOTES
+
+Date: May 27, 2026
+Attendees: Monica Sable (Oracle, Senior Counsel), Julie Tran — Oracle; Claire Dunmore (MemoryIQ, Legal), Diane Okafor
+Type: Legal Negotiation Session
+
+Agenda:
+- Negotiate Oracle's MSA redlines
+
+Discussion:
+Went through Oracle's six major redline items point by point. MemoryIQ accepted mutual IP indemnification and 24-hour breach notification outright as reasonable. Countered on liability cap (Oracle requested 3x annual fees; MemoryIQ proposed 2x as a middle ground). On termination-for-convenience with 90 days notice, MemoryIQ proposed an optional 20% price premium as an alternative to accepting the full risk shift on a multi-year contract at standard pricing — reframed as customer choice rather than outright refusal.
+
+Governing law (Delaware vs. California) and the prohibition on using Oracle data for MemoryIQ's own product development/benchmarking were both accepted without pushback — assessed internally as reasonable asks given the data sensitivity.
+
+Decisions:
+- Liability cap and termination-for-convenience premium option to be finalized in next round
+
+Action Items:
+- MemoryIQ: send formal counter-redline within one week
+- Oracle: Monica to review counter-proposal with internal stakeholders
+
+Next Meeting: Follow-up legal session, pending Oracle's response

@@ -1,0 +1,16 @@
+From: Diane Okafor <diane.okafor@memoryiq.ai>
+To: Padma Krishnan <padma.krishnan@oracle.com>
+Subject: Recap + next steps
+Date: Tue, 6 Jan 2026 14:15:00 -0800
+
+Padma,
+
+Good start to the year. Recapping what I heard:
+
+- ~120 strategic accounts across your Cloud Applications org, each with multiple account executives, SEs, and CSMs touching them over time
+- Handoffs between reps (promotion, attrition, account reassignment) routinely lose context — you specifically mentioned a $2M renewal that nearly went sideways because a new AE didn't know a key stakeholder had previously threatened to churn over a support issue
+- Current state: CRM notes are inconsistent in quality, meeting notes live in whatever tool the individual rep prefers, no unified view
+
+You mentioned your VP of Sales (Robert) would need to be involved given this touches his org more directly than yours in day-to-day usage. Worth looping him in for the next conversation?
+
+Diane

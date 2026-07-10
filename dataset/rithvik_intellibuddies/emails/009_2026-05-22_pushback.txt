@@ -1,0 +1,10 @@
+From: Rithvik Suresh <rithvik@intellibuddies.ai>
+To: Priya Nathan <priya.nathan@memoryiq.ai>
+Subject: RE: Proposal — MemoryIQ for IntelliBuddies
+Date: Fri, 22 May 2026 09:18:00 -0700
+
+yeah no, 58k is not happening for a 12 person company, that's more than our AWS bill. we're a seed-stage startup, not nokia.
+
+for context we also got a pitch from Fin (intercom's AI thing) that's bundled into intercom pricing we're already paying for. i don't want to switch our whole helpdesk to get this, but it does mean the bar for "worth paying extra for" is higher than it'd otherwise be.
+
+if you've got a real startup tier, show me the real number, don't waste my time with a 10% "special discount just for you" thing, i've done enough of these calls to know that trick

@@ -1,0 +1,16 @@
+From: Rayhan Ahmed <rahmed@nvidia.com>
+To: Jordan Ellis <jordan.ellis@memoryiq.ai>
+Subject: quick update
+Date: Tue, 7 Apr 2026 19:22:00 -0700
+
+Jordan,
+
+Wanted to give you an honest read since I know it affects your forecasting. Carlos put together a rough internal proposal for building a lighter-weight version of this ourselves — basically a RAG layer over our existing Confluence/GitHub/Slack exports using internal infra we already have for other ML workloads.
+
+I don't think it'll be as good as what you have, I've said this to Priyanka directly, but "good enough and free" is a real competitor to "better but $240K/year" in this org's current budget mood. There's been a broader push from finance this quarter to justify any new vendor spend against internal build alternatives, not specific to us.
+
+Security review with Hana is still ongoing in parallel, that part isn't stalled, this is a separate track.
+
+I'm still pushing for buy, for what it's worth. Wanted you to have the real picture.
+
+Rayhan

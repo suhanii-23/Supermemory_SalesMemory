@@ -1,0 +1,13 @@
+SALESFORCE OPPORTUNITY RECORD — UPDATE
+
+Opportunity: NVIDIA — Engineering Knowledge Memory Platform
+Stage: Security Review (stalled)
+Amount: $240,000
+Probability: 15% (downgraded from 35%)
+Expected Close Date: 2026-07-15 (at risk)
+
+Risk: CRITICAL — 4 weeks total silence from champion (last contact 4/7). Internal build effort (Carlos's team) confirmed actively underway during this period per champion's last update, not just discussed. Two follow-up attempts unanswered.
+Champion: Rayhan Ahmed — unresponsive, cause unknown at time of entry (later attributed to reorg + quarter-end review)
+Next Action: One further check-in sent; no further pursuit planned absent response
+
+Notes: Security review track (Hana Yoshida / Ben Okoro) continued to progress independently during this stall — a positive sign the account hasn't fully deprioritized MemoryIQ, but commercial track is effectively dead until champion resurfaces.

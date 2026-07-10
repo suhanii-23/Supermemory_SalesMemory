@@ -1,0 +1,20 @@
+CALL TRANSCRIPT
+Date: July 6, 2026
+Participants: Rithvik Suresh, Wei Zhang (IntelliBuddies), Priya Nathan, Nina Volkov (MemoryIQ)
+Duration: 24 min
+
+NINA: Hi both, I've read through the full deal history so you don't need to re-explain anything — I know Wei, export/portability is a big deal to you, I want to flag now that we'll revisit that proactively in QBRs, not just wait for you to ask.
+
+WEI: [pause] okay that's — yeah, that's the right move actually, most CS people wait for me to bring it up
+
+NINA: Figured it'd build more trust to be upfront about it.
+
+RITHVIK: can we go live in week 1, at least on zendesk
+
+NINA: Zendesk and Slack, yes, week 1-2. GitHub issues integration is a bit more involved on the mapping side, that's week 3-4.
+
+RITHVIK: fine, i'll take it, i was going to push for everything in week 1 but that's reasonable
+
+NINA: [laughs] I appreciate you not pushing, most founders do anyway
+
+RITHVIK: give me a minute, i'll probably still ask again next week

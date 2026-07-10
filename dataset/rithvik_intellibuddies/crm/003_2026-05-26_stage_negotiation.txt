@@ -1,0 +1,14 @@
+SALESFORCE OPPORTUNITY RECORD — UPDATE
+
+Opportunity: IntelliBuddies — Customer Support Memory Platform
+Stage: Negotiation
+Amount: $45,000 (revised from $58K anchor to genuine startup tier)
+Probability: 55%
+Expected Close Date: 2026-06-15 (later slipped, see stalled entry)
+
+Champion: Rithvik Suresh — pushed back hard on initial price, responded well to direct/transparent pricing conversation rather than discount theater
+Competitor: Fin (Intercom) — positioned as adjacent, not displacing this deal
+Next Action: Resolve billing cadence (monthly vs quarterly ask) and DPA review
+Risk: Price sensitivity confirmed as real, not a negotiating tactic — company is genuinely budget constrained pre-fundraise close
+
+Notes: Buyer explicitly rejected "fake discount" framing — responded to being given the real number directly. Worth remembering for future startup-tier deals with founder buyers.

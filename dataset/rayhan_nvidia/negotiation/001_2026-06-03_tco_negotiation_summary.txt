@@ -1,0 +1,13 @@
+CONTRACT NEGOTIATION SUMMARY
+Deal: NVIDIA — Engineering Knowledge Memory Platform
+Note: This deal did not reach formal contract redlining — negotiation activity centered entirely on total-cost-of-ownership framing versus an internal build alternative, not standard commercial/legal terms.
+
+Summary of the "negotiation" that did occur:
+
+Opening position (MemoryIQ, May 27): $240,000 ARR proposal with TCO framework assuming 2 FTE-years for a comparable internal build.
+
+NVIDIA counter (Greg Simmons, June 3): Presented a materially lower internal build cost estimate (0.75 FTE-year) based on NVIDIA-specific reusable infrastructure, substantially narrowing the perceived value gap in favor of buying.
+
+MemoryIQ response (June 5): Did not dispute NVIDIA's lower estimate (assessed as legitimate for their specific situation). Redirected argument to ongoing maintenance/tuning cost as the more commonly underestimated component of build decisions — the strongest remaining honest argument available.
+
+Outcome: No further concessions were possible or offered on MemoryIQ's side, as the deciding factor was an internal committee judgment call (NVIDIA's June 17 decision meeting) rather than a negotiable commercial term. MemoryIQ's maintenance-cost argument was later confirmed to have influenced the internal debate but did not change the final decision, which favored the internal build.

@@ -1,0 +1,14 @@
+From: Priya Nathan <priya.nathan@memoryiq.ai>
+To: Rithvik Suresh <rithvik@intellibuddies.ai>
+Subject: RE: Proposal — MemoryIQ for IntelliBuddies
+Date: Tue, 2 Jun 2026 11:20:00 -0700
+
+Rithvik,
+
+Makes sense on the cash flow concern, mid-raise is a real constraint. I checked with our finance team — we can do quarterly payments instead of full annual prepay (still an annual contract term, just billed quarterly), that's the most flexible we can go without going to a full month-to-month structure, which we don't offer below the enterprise tier honestly because of how much churn risk it introduces on our side.
+
+On seats — happy to scope to 8 seats at $45K flat (not reducing the price further for 2 fewer seats, but also not making you pay more if you grow into 9 or 10 later this year, I'll build in some grace room).
+
+Let me know if quarterly billing works and I'll get updated paperwork out.
+
+Priya

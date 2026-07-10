@@ -1,0 +1,18 @@
+From: Suhani Kapoor <suhani.kapoor@nokia.com>
+To: Marcus Chen <marcus.chen@memoryiq.ai>
+CC: Rajiv Mehta <rajiv.mehta@nokia.com>, Aisha Patel <aisha.patel@memoryiq.ai>
+Subject: RE: Wider team demo
+Date: Tue, 10 Mar 2026 16:47:00 -0800
+
+Marcus,
+
+Demo landed better than I expected, honestly. When it pulled up the March 2025 fiber cut RCA against the sample incident Aisha planted, two of the regional leads on the call actually said "oh, that's the thing that happened in Dallas." That's the reaction we need more of internally.
+
+Couple of things before I take this further up:
+- Klaus (security) is going to want the full security review before this touches production ServiceNow data, you should expect that email soon
+- Rajiv wants to understand the pricing model before we invest more time — is it per-seat, per-ingested-source, something else?
+- I want a rough sense of implementation timeline if we moved forward, our next planning cycle starts in June and I'd want this scoped before then
+
+Good session. Let's keep momentum.
+
+Suhani

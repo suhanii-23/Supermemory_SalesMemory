@@ -1,0 +1,11 @@
+Private AE notes — Marcus Chen
+Re: Nokia — closed won retro
+
+Six months, cold email to signature, right in line with expected cycle. A few things worth remembering for future telecom/network-ops deals like this:
+
+1. The unscripted demo moment (regional lead recognizing a real incident) was worth more than any deck slide we have. Whenever possible, get real or realistic customer data into the sandbox before the wider-audience demo.
+2. Suhani going quiet in April was NOT a red flag — it was a real outage. Glad I didn't over-chase during that gap, she mentioned later she appreciated that I gave her space.
+3. Rajiv and Klaus both responded well to "here's the honest limitation" framing rather than confident overselling. This buying committee specifically had been burned before — worth checking for that pattern earlier in future deals with skeptical technical buyers.
+4. CIO briefing was fast (15 min) because Terrence tailored it to Tomas's engineering background instead of a generic exec pitch. Worth doing LinkedIn/background research on economic buyers before exec calls going forward, not just technical buyers.
+
+Handing to Nina for CS now. Good account, good champion, worth protecting the relationship for expansion into other regions/business units later.

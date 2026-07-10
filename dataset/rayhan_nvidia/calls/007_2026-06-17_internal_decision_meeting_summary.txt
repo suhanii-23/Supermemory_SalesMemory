@@ -1,0 +1,12 @@
+CALL TRANSCRIPT
+Date: June 17, 2026
+Participants: Priyanka Rao, Carlos Nunez, Greg Simmons, Rayhan Ahmed (NVIDIA — internal, MemoryIQ not present)
+Note: MemoryIQ was not invited to this meeting. Transcript reconstructed from Rayhan's account relayed to Jordan Ellis on June 24 (see meetings/006 and emails/019). Included here as the best available record of the deciding conversation.
+
+RAYHAN (recounting): Priyanka opened by acknowledging Greg's point about maintenance cost being separate from build cost — said it "actually changed how I was thinking about this" but that in NVIDIA's specific case, given how much shared infra already exists, even accounting for ongoing ownership, the marginal cost still looked low enough to justify build.
+
+RAYHAN (recounting): Carlos made the case that his team could own ongoing maintenance as roughly 0.25 FTE ongoing, folded into work they're already doing on the shared ML platform, not a new dedicated cost.
+
+RAYHAN (recounting): I made the case for buy — argued that "roughly 0.25 FTE ongoing" tends to become more in practice, and that build quality typically starts behind a mature product and takes time to close the gap, time during which the org still has the original problem. Priyanka said she found this compelling but not compelling enough to outweigh the recurring $240K given current budget scrutiny.
+
+RAYHAN (recounting): Final call: proceed with internal build. Priyanka said explicitly this was closer than she expected going in.

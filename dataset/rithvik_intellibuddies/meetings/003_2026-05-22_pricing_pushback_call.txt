@@ -1,0 +1,21 @@
+MEETING NOTES
+
+Date: May 22, 2026
+Attendees: Rithvik Suresh (Founder) — IntelliBuddies; Priya Nathan (AE) — MemoryIQ
+Type: Pricing Discussion (ad hoc call following email pushback)
+
+Agenda:
+- Address pricing objection from Rithvik's May 22 email
+
+Discussion:
+Rithvik reiterated $58K anchor was unrealistic for a 12-person, seed-stage company. Raised Fin (Intercom's bundled AI feature) as a lower-cost adjacent alternative already available to them. Priya drew a clear distinction between Fin (customer-facing, doc-based) and MemoryIQ (internal team memory) rather than dismissing the comparison outright.
+
+Rithvik was explicit that he did not want a "fake discount" — wanted the real startup-tier number directly. Priya committed to following up in writing with the genuine startup tier pricing rather than negotiating live on the call.
+
+Decisions:
+- Priya to send real startup-tier proposal ($45K) via email, not continue live negotiation
+
+Action Items:
+- MemoryIQ: send revised proposal within 48 hours
+
+Next Meeting: N/A — continued via email

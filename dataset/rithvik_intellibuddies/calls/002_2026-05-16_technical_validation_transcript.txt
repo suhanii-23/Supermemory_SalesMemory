@@ -1,0 +1,22 @@
+CALL TRANSCRIPT
+Date: May 16, 2026
+Participants: Wei Zhang (IntelliBuddies), Leo Kim (MemoryIQ)
+Duration: 22 min
+
+LEO: Alright, I gave you sandbox access this morning — did you get a chance to actually try the export?
+
+WEI: yeah, ran it about an hour ago. [pause] okay, this is actually what you said it would be. relational structure's intact, tickets link to resolutions, resolutions link to the github issues. that's better than I expected honestly
+
+LEO: Good, that's the point of giving you access instead of just telling you.
+
+WEI: SLA — what's uptime commitment
+
+LEO: 99.9%. And to be straight with you — if we're down, the memory surfacing feature is down, but your team keeps working tickets normally in Zendesk, this doesn't sit in the critical path of actually responding to a customer.
+
+WEI: right, that's what I wanted to hear, additive not load bearing
+
+LEO: Exactly. SOC2 Type II report I'll get to you under NDA today.
+
+WEI: [pause] okay, i think i'm good. this is more than i expected out of a — no offense — smaller vendor pitch
+
+LEO: none taken, we get that a lot actually

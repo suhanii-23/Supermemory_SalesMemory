@@ -1,0 +1,18 @@
+From: Rajiv Mehta <rajiv.mehta@nokia.com>
+To: Marcus Chen <marcus.chen@memoryiq.ai>
+CC: Suhani Kapoor <suhani.kapoor@nokia.com>
+Subject: RE: Recap + next steps from Tuesday
+Date: Wed, 18 Feb 2026 13:10:00 -0800
+
+Marcus,
+
+Before we schedule, a few questions so we don't waste a call:
+
+1. How does ingestion handle ServiceNow custom fields? We've heavily modified our incident schema over the years, it's not vanilla ITSM.
+2. Where does data live at rest — we have contractual restrictions on some incident data leaving EU/US boundaries depending on the network segment.
+3. Is the "similar incident" matching semantic or keyword-based? We've been burned by "AI search" that's really just Elasticsearch with a marketing budget.
+
+Happy to do the call regardless, just want your SE prepped for the real questions instead of the happy path.
+
+Rajiv Mehta
+VP Engineering, Network Operations Platform

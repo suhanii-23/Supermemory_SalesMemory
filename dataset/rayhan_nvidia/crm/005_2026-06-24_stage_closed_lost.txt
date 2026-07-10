@@ -1,0 +1,15 @@
+SALESFORCE OPPORTUNITY RECORD — FINAL
+
+Opportunity: NVIDIA — Engineering Knowledge Memory Platform
+Stage: Closed Lost
+Amount: $240,000 (lost)
+Probability: 0%
+Close Date: 2026-06-24 (Actual)
+Original Expected Close: 2026-07-15
+
+Loss Reason: Internal build alternative selected. NVIDIA's existing reusable ML/infrastructure investment lowered the marginal cost of an internal build below the threshold needed to justify recurring vendor spend, compounded by org-wide budget scrutiny this quarter. Decision characterized by the buyer's own Director as "closer than expected."
+
+Champion: Rayhan Ahmed — remained a strong advocate throughout, including in the final internal decision meeting where he argued for buy. Relationship preserved despite loss; champion proactively offered to revisit if internal build underdelivers.
+Economic Buyer: Priyanka Rao (Director) — made final call in favor of build
+
+Notes: 4.5 month cycle (Feb 3 – Jun 24, 2026). No trust or product issues identified as loss drivers — this was a clean, well-contested loss to a legitimate internal alternative. Security review (Hana Yoshida) was fully completed and would not need to be redone if the account revisits. Flagged for relationship-nurture and revisit in 12-18 months.

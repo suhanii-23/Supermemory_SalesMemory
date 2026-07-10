@@ -1,0 +1,7 @@
+SECURITY REVIEW NOTES
+Date: May 16, 2026
+Participants: Wei Zhang (CTO, IntelliBuddies), Leo Kim (MemoryIQ, SE)
+
+Lightweight security review appropriate to deal size — no dedicated security team on IntelliBuddies side, Wei reviewed personally as CTO. SOC2 Type II report requested and provided under NDA. No CAIQ or formal questionnaire process requested — Wei's diligence was informal, centered mainly on data export/portability (addressed via sandbox test) rather than formal compliance documentation.
+
+Subprocessor disclosure: AWS (infrastructure), Pinecone (vector storage) — provided verbally on this call, formalized later in DPA (June 5-6).

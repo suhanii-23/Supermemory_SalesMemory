@@ -1,0 +1,21 @@
+From: Monica Sable <monica.sable@oracle.com>
+To: Diane Okafor <diane.okafor@memoryiq.ai>
+CC: Julie Tran <julie.tran@oracle.com>, Padma Krishnan <padma.krishnan@oracle.com>
+Subject: MemoryIQ MSA — Legal Review
+Date: Tue, 19 May 2026 14:00:00 -0700
+
+Diane,
+
+I'm handling legal review for this contract. Given the deal size and data sensitivity, expect a thorough process — I've attached our markup of your standard MSA. Highlights of what we're requiring:
+
+1. Liability cap raised to 3x annual fees (your standard is 1x)
+2. Mutual indemnification for IP claims, not one-directional
+3. Data breach notification within 24 hours of discovery, not "without undue delay"
+4. Explicit prohibition on any use of Oracle customer data for MemoryIQ's own product development or benchmarking, even in aggregated/anonymized form
+5. Termination for convenience with 90 days notice, not just termination for cause
+6. Governing law: Delaware, not California
+
+This will take several rounds most likely, our legal process typically does for vendor agreements at this data-access tier. Please have your legal team review and respond with a markup.
+
+Monica Sable
+Senior Counsel, Vendor Contracts

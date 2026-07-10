@@ -1,0 +1,22 @@
+MEETING NOTES
+
+Date: March 31, 2026
+Attendees: Hana Yoshida (Security Lead) — NVIDIA; Ben Okoro (Head of Security) — MemoryIQ
+Type: Security Review Kickoff
+
+Agenda:
+- Walk through Hana's 6-item requirements list
+
+Discussion:
+Notably more stringent than typical enterprise security review — driven by pre-release hardware/architecture discussion potentially present in indexed content. Hana specifically requires custom no-training contractual language (stronger than MemoryIQ's standard DPA terms), a right-to-audit clause, and a breach SLA tailored to pre-release technical information exposure.
+
+Ben confirmed MemoryIQ can accommodate all items but flagged the custom legal language will require direct legal-to-legal drafting, not a standard template. Timeline: Hana stated 4-6 weeks minimum for full review regardless of MemoryIQ's response speed.
+
+Decisions:
+- Proceed with full review; legal teams (Claire Dunmore for MemoryIQ) to engage directly once draft language needed
+
+Action Items:
+- MemoryIQ: send SOC2 + dataflow docs (items 1-2) immediately
+- MemoryIQ: Ben + Claire to draft custom no-training/audit language for items 4 and 6
+
+Next Meeting: Follow-up once custom legal language is drafted

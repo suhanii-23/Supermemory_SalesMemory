@@ -1,0 +1,13 @@
+#deal-nokia-networkops
+
+marcus.chen [8:00 AM]
+CIO now in play, tomas lindqvist, anything over 150k needs his sign-off. suhani wants a 15 min call this week, no full pitch, just what/why/cost/why-now
+
+terrence.wu [8:02 AM]
+i'll join as exec sponsor on our side, CIO to VP conversations land better peer to peer. keep it tight, CIOs hate long vendor calls
+
+marcus.chen [8:03 AM]
+agreed, i'll prep 4 slides max
+
+terrence.wu [8:40 AM]
+just did a quick linkedin check on tomas, he's ex-Ericsson, came up through network engineering not pure IT. lead with the technical credibility angle not the generic "AI platform" pitch

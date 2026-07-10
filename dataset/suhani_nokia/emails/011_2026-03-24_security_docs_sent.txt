@@ -1,0 +1,19 @@
+From: Marcus Chen <marcus.chen@memoryiq.ai>
+To: Klaus Berger <klaus.berger@nokia.com>
+CC: Suhani Kapoor <suhani.kapoor@nokia.com>, Ben Okoro <ben.okoro@memoryiq.ai>
+Subject: RE: Security review requirements — MemoryIQ
+Date: Tue, 24 Mar 2026 14:12:00 -0700
+
+Klaus,
+
+Attached items 1-5. Looping in Ben Okoro, our Head of Security, who should answer item 6 directly rather than have it filtered through me.
+
+Ben — Klaus wants to confirm customer data isn't used to train models shared across other customers. Can you two find 30 minutes this week or next?
+
+Marcus
+
+[Attachment: memoryiq_soc2_type2_2025.pdf]
+[Attachment: memoryiq_caiq_completed.xlsx]
+[Attachment: memoryiq_dataflow_subprocessors.pdf]
+[Attachment: memoryiq_encryption_standards.pdf]
+[Attachment: memoryiq_incident_response_policy.pdf]

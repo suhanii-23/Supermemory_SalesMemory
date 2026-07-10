@@ -1,0 +1,15 @@
+From: Suhani Kapoor <suhani.kapoor@nokia.com>
+To: Marcus Chen <marcus.chen@memoryiq.ai>
+CC: Rajiv Mehta <rajiv.mehta@nokia.com>, Angela Ford <angela.ford@nokia.com>
+Subject: Signed — let's kick this off
+Date: Wed, 8 Jul 2026 10:05:00 -0700
+
+Marcus,
+
+Countersigned copy attached. Tomas signed off Friday, Angela closed out the last of the paperwork this morning.
+
+Six months from a cold email to signature — longer than either of us wanted, but glad we got here. Let's get implementation scheduled. I want the Dallas and Frankfurt NOC teams live first since they're the ones who saw the demo and are already asking when they get it.
+
+Suhani
+
+[Attachment: memoryiq_nokia_msa_executed.pdf]

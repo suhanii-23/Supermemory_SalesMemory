@@ -1,0 +1,22 @@
+MEETING NOTES
+
+Date: May 7, 2026
+Attendees: Won Park (Finance), Padma Krishnan — Oracle; Diane Okafor — MemoryIQ
+Type: Finance Review
+
+Agenda:
+- Review proposal terms for budget approval
+
+Discussion:
+Won scrutinized the 3-year rate lock savings claim in detail, requesting a real dollar comparison against standard annual uplift rather than a general "better deal" claim. Diane provided the specific breakdown ($955K rolling annual vs. $900K locked, real savings of $55K). Won also required clarity on whether implementation costs were included in the headline figure (confirmed: yes, standard implementation included; only custom integration work beyond standard scope would be billed separately).
+
+Won's overall posture was diligent but not adversarial — standard budget-approval scrutiny, not resistance to the deal itself.
+
+Decisions:
+- Won satisfied pending formal budget approval submission
+
+Action Items:
+- MemoryIQ: provide any additional cost breakdown documentation if requested
+- Oracle: Won to submit for internal budget approval
+
+Next Meeting: N/A — proceeding to legal review track

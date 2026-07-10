@@ -1,0 +1,24 @@
+MEETING NOTES
+
+Date: May 16, 2026
+Attendees: Wei Zhang (CTO) — IntelliBuddies; Leo Kim (SE) — MemoryIQ
+Type: Technical Validation Call
+
+Agenda:
+- Walk through export/portability, SLA, and SOC2 questions from Wei's email
+
+Discussion:
+Leo confirmed relational export capability (not flat dump) and offered sandbox access for Wei to test an export firsthand rather than take it on faith. Wei accepted and ran a live test export during the call — successful, satisfied his primary concern.
+
+SLA discussion: 99.9% uptime, tool positioned as additive not load-bearing to core support workflow — echoes similar framing used in other deals (see Nokia CIO briefing pattern) though independently arrived at here.
+
+SOC2 Type II report requested under NDA, to be sent separately.
+
+Decisions:
+- Wei technically satisfied, ready to move to pricing conversation
+
+Action Items:
+- MemoryIQ: send SOC2 report under NDA
+- IntelliBuddies: Rithvik to initiate pricing conversation
+
+Next Meeting: N/A — moved to email for pricing

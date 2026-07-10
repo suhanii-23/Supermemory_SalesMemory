@@ -1,0 +1,16 @@
+From: Jordan Ellis <jordan.ellis@memoryiq.ai>
+To: Hana Yoshida <hyoshida@nvidia.com>
+CC: Rayhan Ahmed <rahmed@nvidia.com>, Ben Okoro <ben.okoro@memoryiq.ai>
+Subject: RE: Security review requirements — MemoryIQ
+Date: Tue, 31 Mar 2026 11:20:00 -0700
+
+Hana,
+
+Attached items 1-2. Looping in Ben Okoro, our Head of Security, directly for items 3-6 — those need a real conversation, not a document dump, especially the no-training and right-to-audit language, which our legal team will need to draft custom given how specific your ask is.
+
+We understand the 4-6 week timeline and aren't going to push on it — this is exactly the kind of review that should take real time given what's at stake for you.
+
+Jordan
+
+[Attachment: memoryiq_soc2_type2_2025.pdf]
+[Attachment: memoryiq_dataflow_subprocessors.pdf]

@@ -1,0 +1,25 @@
+FINAL OUTCOME RECORD
+
+Deal: NVIDIA — AI Engineering Knowledge Memory Platform
+Outcome: CLOSED LOST
+Lost Value: $240,000 ARR (proposed)
+Decision Date: June 24, 2026 (communicated by champion; internal NVIDIA decision made June 17)
+Sales Cycle Length: 4 months, 21 days (Feb 3, 2026 – Jun 24, 2026)
+
+Buying Committee (final roles):
+- Rayhan Ahmed (Senior AI Infrastructure Engineer) — Champion throughout, argued for "buy" in the final internal decision meeting, relationship preserved post-loss
+- Devon Marsh (Engineering Manager) — Technical Buyer, satisfied by IP-exposure and scale answers, not a blocker
+- Priyanka Rao (Director) — Economic Buyer, made final decision in favor of internal build; described the decision as closer than expected
+- Carlos Nunez (Platform Team) — Built the winning internal alternative; ambiguous/quiet throughout formal evaluation, later revealed as likely already building
+- Hana Yoshida (Security) — Completed a rigorous, NVIDIA-specific security review with no unresolved issues; work would carry over if the account revisits
+- Greg Simmons (Finance) — Provided the decisive lower-than-expected internal build cost estimate that shifted the TCO calculus
+
+Loss reason: Internal build alternative. NVIDIA's existing reusable ML/infrastructure investment lowered the marginal cost of building in-house below the threshold needed to justify $240K/year recurring vendor spend, amplified by org-wide budget scrutiny in the relevant quarter. Not attributable to product gaps, trust issues, or sales execution — champion and buyer both affirmed this directly.
+
+Key deal dynamics:
+- Build-vs-buy risk was flagged by the champion himself in the very first call — an early, accurate signal that shaped risk tracking throughout
+- A ~5-week champion silence mid-cycle (reorg + quarter-end review) was successfully weathered without deal death, unusual for a gap that long
+- MemoryIQ's decision not to dispute NVIDIA's lower build-cost estimate, and instead pivot to the maintenance-cost argument, preserved credibility and meaningfully shaped (but did not reverse) the internal committee's deliberation
+- Full security review was completed with no unresolved issues — reusable asset if the account is revisited
+
+Next steps: Relationship with Rayhan Ahmed to be maintained via light-touch, non-sales check-ins. Revisit flagged for 12-18 months out, timed around Rayhan's own prediction that the internal build may not hold up at scale. TCO/build-vs-buy framework methodology to be formalized as a reusable sales asset for future infra-heavy accounts (see executive/002).

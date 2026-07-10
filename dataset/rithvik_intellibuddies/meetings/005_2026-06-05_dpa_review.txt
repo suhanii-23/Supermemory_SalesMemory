@@ -1,0 +1,19 @@
+MEETING NOTES
+
+Date: June 5, 2026
+Attendees: Wei Zhang (CTO) — IntelliBuddies; Priya Nathan (AE) — MemoryIQ
+Type: DPA / Legal Review (informal call, no dedicated legal counsel on IntelliBuddies side)
+
+Agenda:
+- Walk Wei through standard DPA ahead of signature
+
+Discussion:
+Brief, informal review given IntelliBuddies has no in-house legal counsel — Wei reviewing directly as CTO. Confirmed GDPR processing terms adequate for IntelliBuddies' EU customer base. Subprocessor list (AWS, Pinecone) reviewed, no objections raised.
+
+Decisions:
+- DPA acceptable as-is, no redlines requested
+
+Action Items:
+- IntelliBuddies: Rithvik to review and prepare for signature pending final pricing confirmation
+
+Next Meeting: N/A — deal entered quiet period shortly after this meeting (see sales_notes/003)

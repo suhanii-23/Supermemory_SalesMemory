@@ -1,0 +1,24 @@
+MEETING NOTES
+
+Date: June 24, 2026
+Attendees: Rayhan Ahmed — NVIDIA; Jordan Ellis — MemoryIQ
+Type: Deal Closure Debrief
+
+Agenda:
+- Rayhan communicates committee decision
+
+Discussion:
+Committee decided to proceed with internal build (Carlos's team, starting next quarter). Rayhan characterized the decision as genuinely close (Priyanka described it as closer than she expected), not a foregone conclusion, and noted the maintenance-cost argument MemoryIQ raised in the TCO discussion materially shaped the internal debate even though it didn't change the final outcome.
+
+Primary driver cited: NVIDIA's existing reusable ML/infra investments lowered the marginal cost of building in-house below what would normally justify recurring vendor spend, amplified by broader budget scrutiny across the org this quarter.
+
+Rayhan expressed personal skepticism that the internal build will match MemoryIQ's capability long-term and volunteered to advocate for revisiting the decision if the internal build underdelivers.
+
+Decisions:
+- Deal marked Closed Lost — reason: internal build / budget scrutiny, not product or trust issue
+
+Action Items:
+- MemoryIQ: maintain relationship with Rayhan for potential future revisit
+- MemoryIQ: no further active pursuit this cycle
+
+Next Meeting: N/A — revisit flagged for 12-18 months out

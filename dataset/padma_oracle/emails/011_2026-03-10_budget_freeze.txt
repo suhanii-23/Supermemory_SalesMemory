@@ -1,0 +1,14 @@
+From: Padma Krishnan <padma.krishnan@oracle.com>
+To: Diane Okafor <diane.okafor@memoryiq.ai>
+Subject: Pausing — budget freeze
+Date: Tue, 10 Mar 2026 17:20:00 -0700
+
+Diane,
+
+Not the update I wanted to send. Finance announced a company-wide discretionary spend freeze this morning pending Q1 close review — effective immediately, no new vendor commitments above a fairly low threshold until further notice. This isn't specific to MemoryIQ, it's hitting every non-essential initiative org-wide.
+
+Security review with Ahmed should continue in parallel since that's not a spend commitment, just diligence. But I can't move this to proposal/contracting until the freeze lifts, and I genuinely don't have a date for that yet.
+
+I know this is frustrating on your end given the time already invested. I'd rather tell you clearly now than string this along.
+
+Padma

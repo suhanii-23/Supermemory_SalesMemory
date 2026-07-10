@@ -1,0 +1,8 @@
+Private AE notes — Priya Nathan
+Re: IntelliBuddies / Rithvik
+
+Founder moves fast, replies within hours usually, wants speed over process. Good sign for cycle length, bad sign if we're slow on anything — he'll lose patience.
+
+Wei (CTO) is the real technical gate, and he's clearly been burned by vendor lock-in before at a past job (mentioned it unprompted). Lean into transparency on export/portability proactively rather than waiting for him to ask three more times.
+
+This is not a Nokia-style deal, don't over-engineer the sales process, match their pace.

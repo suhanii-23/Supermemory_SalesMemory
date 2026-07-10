@@ -1,0 +1,9 @@
+PROPOSAL DISCUSSION — FINAL STRUCTURE
+Date: June 20, 2026
+Related: Final contract terms
+
+Post-fundraise price reduction request ($45K to $40K) declined. Instead of a discount, restored the full white-glove onboarding package (originally stripped at startup tier to justify the $45K vs $58K delta) and shortened implementation SLA from 90 to 60 days.
+
+Rationale: Preserves headline ARR figure for internal reporting/comparability while providing genuine incremental value proportional to what a discount would have cost in delivery/support resources. Buyer response confirmed this was received as more credible than a straight discount would have been.
+
+Final structure: $45,000 ARR, quarterly billing, 8 seats (grace room to 10), full onboarding, 60-day SLA, standard DPA.

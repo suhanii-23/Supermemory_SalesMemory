@@ -1,0 +1,10 @@
+#deal-oracle-cloudapps
+
+diane.okafor [3:00 PM]
+legal redlines are in from monica (oracle counsel). this is a lot — 3x liability cap, mutual IP indemnification, 24hr breach notification, delaware governing law instead of california, 90-day termination for convenience
+
+terrence.wu [3:10 PM]
+that's a rough list but not an unreasonable one for a deal this size and data sensitivity. get claire on this immediately, this is going to be the long pole for the rest of the cycle, don't let it sit in a queue
+
+diane.okafor [3:12 PM]
+looping claire in now, flagging as priority

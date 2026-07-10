@@ -1,0 +1,13 @@
+SALESFORCE OPPORTUNITY RECORD — UPDATE
+
+Opportunity: Nokia — Network Incident Memory Platform
+Stage: Security Review (stalled)
+Amount: $180,000
+Probability: 30% (downgraded from 45%)
+Expected Close Date: 2026-06-30 (at risk)
+
+Risk: FLAGGED — 2+ weeks radio silence from champion post security doc delivery (docs sent 3/24). No response to 4/2 check-in. Cause unknown at time of this entry.
+Champion: Suhani Kapoor — engagement paused, unclear if deprioritized or simply unavailable
+Next Action: Single low-pressure follow-up sent 4/2, awaiting response before escalating further
+
+Notes: Downgraded probability out of caution, not because of any negative signal — simply no signal. Will reassess after next contact. Do not multi-touch this account this week, risk of appearing pushy to a buyer who has been consistently direct and time-constrained throughout the cycle.

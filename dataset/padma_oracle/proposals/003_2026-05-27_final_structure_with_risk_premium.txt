@@ -1,0 +1,9 @@
+PROPOSAL DISCUSSION — FINAL STRUCTURE
+Date: May 27, 2026
+Related: Legal negotiation outcome
+
+Final commercial structure incorporated the legal negotiation outcome: $300,000 ARR flat, 3-year term, with a 20% premium option (bringing effective rate to $360K/year) available in exchange for full termination-for-convenience rights at 90 days notice, versus a lower liability-risk-adjusted rate without that flexibility.
+
+Oracle procurement (Julie Tran) elected the premium option after modeling it against the base 3-year savings — net position remained favorable for Oracle even with the premium applied, based on Won Park's original TCO framework.
+
+Final agreed pricing: $300,000 ARR + 20% termination flexibility premium = effective $360,000/year, 3-year term, with 2x liability cap (negotiated down from Oracle's initial 3x ask).

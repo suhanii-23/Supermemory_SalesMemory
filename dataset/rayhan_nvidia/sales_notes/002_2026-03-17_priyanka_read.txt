@@ -1,0 +1,6 @@
+Private AE notes — Jordan Ellis
+Re: NVIDIA / Priyanka Rao (Director)
+
+She's not hostile, she's rigorous. Her "why not just build it" question wasn't a brush-off, she wants a real answer and will actually weigh it fairly. That's both good and bad — good because she's not predisposed against us, bad because "genuinely fair evaluation against build" is a harder bar to clear than "biased toward buying."
+
+Carlos (platform team) stayed quiet in the demo. I initially read that as neutral. In hindsight given what happened later, quiet was probably him already mentally building the alternative. Lesson for future deals: silence from a technical stakeholder in a demo isn't neutral, it's often a tell that they're not engaged with the pitch because they've already got their own plan.

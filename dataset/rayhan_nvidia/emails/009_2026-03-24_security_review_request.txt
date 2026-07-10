@@ -1,0 +1,22 @@
+From: Hana Yoshida <hyoshida@nvidia.com>
+To: Jordan Ellis <jordan.ellis@memoryiq.ai>
+CC: Rayhan Ahmed <rahmed@nvidia.com>
+Subject: Security review requirements — MemoryIQ
+Date: Tue, 24 Mar 2026 08:30:00 -0800
+
+Jordan,
+
+I'll be running security review for this evaluation. Given the nature of what would be indexed (engineering discussion touching pre-release hardware and architecture work), our bar here is higher than a typical SaaS vendor review.
+
+Required:
+1. SOC 2 Type II
+2. Detailed data flow and subprocessor list
+3. Confirmation of dedicated/single-tenant deployment architecture, if that's the tier being evaluated
+4. Explicit contractual language on data use restrictions — no model training on our data under any circumstances, opt-in or not
+5. Incident response SLA specific to a breach involving pre-release technical information
+6. Right-to-audit clause
+
+This will take time on our side regardless of how fast you respond — please plan for 4-6 weeks minimum for a review of this scope.
+
+Hana Yoshida
+Security Lead, Platform Engineering

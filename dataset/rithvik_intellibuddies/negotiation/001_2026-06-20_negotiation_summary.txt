@@ -1,0 +1,20 @@
+CONTRACT NEGOTIATION SUMMARY
+Deal: IntelliBuddies — Customer Support Memory Platform
+Negotiation period: May 21 – June 24, 2026
+Participants: Rithvik Suresh (Founder), Priya Nathan (AE)
+
+Summary of full negotiation arc:
+
+Opening (May 21): MemoryIQ anchored at $58,000 ARR (standard enterprise pricing applied without startup adjustment). Rejected within 24 hours as unrealistic for a 12-person seed-stage company; buyer referenced Fin (Intercom) as a lower-cost adjacent alternative and explicitly requested the real number rather than negotiating theater.
+
+Revision (May 26): MemoryIQ moved to genuine startup-tier pricing, $45,000 ARR, framed transparently as an actual tier rather than a favor.
+
+Secondary asks (May 29 – June 5): Billing cadence flexed from annual prepay to quarterly (monthly declined as below MemoryIQ's minimum supported cadence); seat count reduced from 10 to 8 with grace room, price held flat.
+
+Mid-cycle gap (June 6 – June 18): No negotiation activity; buyer occupied with fundraising close.
+
+Final test (June 19-20): Buyer requested further reduction to $40,000 post-fundraise, citing tighter-than-expected runway. MemoryIQ declined the further discount but added value instead (restored full onboarding package, shortened SLA from 90 to 60 days).
+
+Final agreement (June 24): $45,000 ARR accepted at original startup-tier price with enhanced non-monetary terms. No further pricing movement after this point.
+
+Outcome: Deal closed at full startup-tier price ($45K) despite two separate reduction attempts, validating the strategy of transparent, defensible pricing over incremental discounting.

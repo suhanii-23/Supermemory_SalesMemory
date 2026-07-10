@@ -1,0 +1,12 @@
+From: Jordan Ellis <jordan.ellis@memoryiq.ai>
+To: Rayhan Ahmed <rahmed@nvidia.com>
+Subject: Checking in
+Date: Tue, 5 May 2026 08:40:00 -0700
+
+Rayhan,
+
+Haven't heard anything since your April 7 note — no response to my last two check-ins either. Totally understand if the build-vs-buy debate is still playing out internally and there's just nothing new to report, but wanted to check whether this is still live on your end or if I should deprioritize.
+
+No pressure, just trying to be a good steward of both our time.
+
+Jordan

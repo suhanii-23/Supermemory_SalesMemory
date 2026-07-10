@@ -1,0 +1,18 @@
+From: Diane Okafor <diane.okafor@memoryiq.ai>
+To: Padma Krishnan <padma.krishnan@oracle.com>
+CC: Robert Chase <robert.chase@oracle.com>, Julie Tran <julie.tran@oracle.com>
+Subject: Proposal — MemoryIQ Enterprise Sales Intelligence Platform
+Date: Tue, 28 Apr 2026 11:00:00 -0700
+
+Padma, Robert, Julie,
+
+Attached: $300,000 ARR, annual term, covering all Cloud Applications strategic accounts (up to 150 accounts, unlimited seats for account teams), Salesforce bi-directional integration, Gong transcript ingestion, dedicated implementation team, and a named enterprise CSM.
+
+Given the scale and the extended security review already completed, I've also included an option for a 3-year term with pricing locked across all three years, which several accounts your size have found useful for multi-year budget planning.
+
+Happy to walk through this with Julie whenever convenient on the contracting side, and with Robert's team on rollout sequencing.
+
+Diane
+
+[Attachment: memoryiq_proposal_oracle_cloudapps_v1.pdf]
+[Attachment: memoryiq_standard_msa.pdf]

@@ -1,0 +1,15 @@
+From: Won Park <won.park@oracle.com>
+To: Diane Okafor <diane.okafor@memoryiq.ai>
+CC: Padma Krishnan <padma.krishnan@oracle.com>
+Subject: RE: Proposal — MemoryIQ Enterprise Sales Intelligence Platform
+Date: Tue, 5 May 2026 08:50:00 -0700
+
+Diane,
+
+I'm reviewing this for budget approval. Two questions:
+
+1. The 3-year lock option — walk me through the actual savings versus three consecutive 1-year terms at standard uplift, I want real numbers not just "it's a good deal."
+2. What's the implementation cost structure — is the $300K inclusive of implementation, or is that billed separately? Need this for accurate first-year cash flow modeling.
+
+Won Park
+Finance, Cloud Applications

@@ -1,0 +1,23 @@
+MEETING NOTES
+
+Date: February 11, 2026
+Attendees: Rayhan Ahmed (NVIDIA) — Jordan Ellis, Derek Lin (MemoryIQ)
+Type: Discovery Call
+
+Agenda:
+- Understand engineering knowledge management pain points
+- Assess scale and technical fit
+
+Discussion:
+Rayhan described a recurring pattern: architecture decisions from design reviews get rediscovered/re-debated months later because documentation isn't consistently searched. Scale discussed: ~40 repos initially, 15-20 Slack channels, design docs in Google Docs/Confluence, target initial rollout to ~25 engineers with potential expansion to 200+.
+
+Derek flagged this is larger scale than MemoryIQ's typical deployment — not disqualifying, but requires the technical conversation to include whoever owns platform/tooling decisions, not just Rayhan and his manager.
+
+Decisions:
+- Proceed to technical questions with Rayhan's EM (Devon Marsh)
+
+Action Items:
+- Rayhan: loop in Devon Marsh
+- MemoryIQ: prepare for scale-specific technical questions
+
+Next Meeting: Technical Q&A, pending Devon's availability

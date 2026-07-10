@@ -1,0 +1,8 @@
+Private AE notes — Marcus Chen
+Re: Nokia / Rajiv Mehta (VP Eng)
+
+Rajiv is the real gatekeeper here, not Suhani, at least on the technical side. He came in hostile (or at least guarded) and Aisha's directness actually won him over — the "78%, not 95%" answer was the turning point, I could hear the tone shift on the call.
+
+Note to self: do not let anyone on our side inflate numbers in front of this guy, ever. He will test claims and remember if they don't hold up. He's also clearly been burned by a vendor overpromising before, similar pattern to Suhani honestly — makes sense they trust each other.
+
+He's warmer than the first call but "warmer than hostile" isn't "sold." Sandbox demo is the real test.

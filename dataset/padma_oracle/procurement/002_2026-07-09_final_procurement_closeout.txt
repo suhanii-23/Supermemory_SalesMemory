@@ -1,0 +1,6 @@
+PROCUREMENT CONVERSATION NOTES
+Date: July 9, 2026
+Participants: Julie Tran (Oracle), Diane Okafor (MemoryIQ)
+Related: calls/008
+
+Final procurement closeout: confirmed 2x liability cap agreed with legal, 20% termination-for-convenience premium selected after internal modeling against 3-year savings (net favorable for Oracle), all six original legal redline items resolved. PO issued same day as final legal sign-off; billing set up as annual invoicing against the 3-year locked-rate contract, payment terms net 45 per Oracle's standard vendor terms.

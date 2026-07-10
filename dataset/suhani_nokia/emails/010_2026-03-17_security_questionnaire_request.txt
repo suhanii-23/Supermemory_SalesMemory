@@ -1,0 +1,23 @@
+From: Klaus Berger <klaus.berger@nokia.com>
+To: Marcus Chen <marcus.chen@memoryiq.ai>
+CC: Suhani Kapoor <suhani.kapoor@nokia.com>
+Subject: Security review requirements — MemoryIQ
+Date: Tue, 17 Mar 2026 06:55:00 -0800
+
+Mr. Chen,
+
+I understand your platform is being evaluated for ingestion of incident data from our network operations tooling. Before this proceeds further, my team requires the following:
+
+1. Current SOC 2 Type II report
+2. Completed CAIQ (Cloud Security Alliance Consensus Assessment Initiative Questionnaire) or equivalent
+3. Data flow diagram showing all subprocessors with access to customer data
+4. Encryption standards at rest and in transit
+5. Incident response and breach notification policy
+6. Details on model training — specifically, confirmation that customer data is not used to train models shared across other customers
+
+Please provide items 1-5 within 10 business days. Item 6 I will want to discuss directly, as it is a common point of failure in vendor reviews of this type.
+
+Regards,
+Klaus Berger
+Security Lead, Network Operations
+Nokia

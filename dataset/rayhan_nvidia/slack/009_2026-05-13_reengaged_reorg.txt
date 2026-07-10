@@ -1,0 +1,10 @@
+#deal-nvidia-aiinfra
+
+jordan.ellis [8:15 PM]
+he's back. reorg + quarter-end roadmap review ate april. deal's alive but the build-vs-buy debate is still unresolved, now escalating to finance for a formal cost comparison
+
+terrence.wu [8:20 PM]
+finance getting involved this late usually means the committee is genuinely split, not a rubber stamp. get ahead of the TCO conversation with real numbers, not vibes — if we go in soft on the build cost comparison we lose this
+
+jordan.ellis [8:22 PM]
+agreed, pulling together an honest TCO framework, not going to inflate the build-cost side artificially, that'll get caught and burn trust

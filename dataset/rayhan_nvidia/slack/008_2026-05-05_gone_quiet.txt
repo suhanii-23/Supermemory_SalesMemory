@@ -1,0 +1,10 @@
+#deal-nvidia-aiinfra
+
+jordan.ellis [9:00 AM]
+a month of silence now from rayhan. sent 2 check-ins, nothing back. this is looking bad, not just slow
+
+terrence.wu [9:05 AM]
+reorg season at big companies in spring, wouldn't be shocked if that's part of it, but yeah, prepare for this possibly being dead. keep at commit-downgrade in forecast, don't count on it for the quarter
+
+jordan.ellis [9:07 AM]
+moved to 15% probability, keeping the opportunity open but not counting on it

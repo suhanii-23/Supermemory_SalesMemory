@@ -1,0 +1,16 @@
+#deal-nokia-networkops
+
+marcus.chen [11:15 AM]
+just got off the discovery call. this one's real. 40-50 P1/P2s a month across 4 regional NOCs, RCAs rotting in confluence nobody searches
+
+marcus.chen [11:15 AM]
+she's direct, no patience for fluff, said as much twice
+
+terrence.wu [11:20 AM]
+love that for us honestly. direct buyers close faster than nice ones who ghost. what's the committee look like
+
+marcus.chen [11:22 AM]
+she flagged VP Eng (Rajiv), security lead, procurement, and CIO for anything over 150k. so basically the whole stack
+
+terrence.wu [11:23 AM]
+6 month ish cycle then probably. get rajiv on the calendar before she cools off, technical buyers who wait too long start finding reasons to say no

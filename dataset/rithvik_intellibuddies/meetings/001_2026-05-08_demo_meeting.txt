@@ -1,0 +1,23 @@
+MEETING NOTES
+
+Date: May 8, 2026
+Attendees: Rithvik Suresh (Founder), Wei Zhang (CTO) — IntelliBuddies; Priya Nathan (AE) — MemoryIQ
+Type: Product Demo
+
+Agenda:
+- Live walkthrough of MemoryIQ against support memory use case
+
+Discussion:
+Demoed ingestion from Zendesk, Slack, and GitHub issues. Showed the "known issue already communicated" surfacing scenario Rithvik described in his inbound email, using a sample dataset. Rithvik reacted positively, said it was "exactly the thing" they needed.
+
+Wei immediately raised data portability/export concerns — flagged as a recurring theme given his stated history of vendor lock-in frustration at a previous company. Requested API documentation before proceeding further.
+
+Decisions:
+- Move forward to technical validation with Wei
+- Send API docs immediately post-call
+
+Action Items:
+- MemoryIQ: send API reference docs (same day)
+- MemoryIQ: prepare answers on export format, SLA, SOC2 for Wei's expected follow-up
+
+Next Meeting: Pricing discussion, pending technical sign-off from Wei

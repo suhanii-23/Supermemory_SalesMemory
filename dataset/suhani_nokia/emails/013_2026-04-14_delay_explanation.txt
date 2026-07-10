@@ -1,0 +1,14 @@
+From: Suhani Kapoor <suhani.kapoor@nokia.com>
+To: Marcus Chen <marcus.chen@memoryiq.ai>
+Subject: RE: Checking in
+Date: Tue, 14 Apr 2026 19:03:00 -0700
+
+Marcus,
+
+Sorry for the radio silence. We had a multi-region outage the last two weeks (the irony is not lost on me) and I've had zero bandwidth for anything that isn't actively on fire. Team's been in war-room mode.
+
+Still want to move forward. Security review is clean on our side as far as I know. I need to bring Rajiv back in on pricing/timeline and get procurement looped in formally so this doesn't stall again once we do want to move. Give me until end of month.
+
+Also — the outage we just had is exactly the kind of thing that would've been faster to diagnose if we'd already had this. Not that I need more convincing, but it's a useful internal talking point.
+
+Suhani

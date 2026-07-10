@@ -1,0 +1,15 @@
+From: Padma Krishnan <padma.krishnan@oracle.com>
+To: Diane Okafor <diane.okafor@memoryiq.ai>
+Subject: RE: A referral from Maria Delgado (Workday) — enterprise sales memory
+Date: Thu, 11 Dec 2025 15:40:00 -0800
+
+Diane,
+
+Maria did mention this to me actually, small world. Yes, this is a real problem for us — we have strategic accounts where three different account executives have pitched the same idea to the same stakeholder over eighteen months because nobody had visibility into what was already said.
+
+I don't have bandwidth before year-end, everything here slows to a crawl mid-December. Let's plan for early January. I'll warn you now — anything touching our CRM and sales data will go through a serious security and legal review. We're Oracle, we don't take vendor risk lightly, especially for anything customer-relationship-adjacent.
+
+Happy to start with a call the first week of January.
+
+Padma Krishnan
+VP, Cloud Applications

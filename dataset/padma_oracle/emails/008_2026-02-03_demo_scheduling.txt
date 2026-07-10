@@ -1,0 +1,13 @@
+From: Padma Krishnan <padma.krishnan@oracle.com>
+To: Sam Rutledge <sam.rutledge@memoryiq.ai>
+CC: Robert Chase <robert.chase@oracle.com>, Diane Okafor <diane.okafor@memoryiq.ai>
+Subject: RE: Recap + next steps
+Date: Tue, 3 Feb 2026 13:00:00 -0800
+
+Sam,
+
+Good answer on Gong, that addressed Robert's main concern I think. Let's do the demo — I'd like two of Robert's senior AEs in the room too, since they'll be the actual day-to-day users and their buy-in matters as much as ours.
+
+Robert, can you nominate two reps? Ideally ones managing complex, multi-year strategic accounts, not transactional deals — that's where this problem is most acute.
+
+Padma

@@ -1,0 +1,13 @@
+SALESFORCE OPPORTUNITY RECORD — UPDATE
+
+Opportunity: Oracle — Enterprise Sales Intelligence Platform
+Stage: Security Review (paused — budget freeze)
+Amount: $300,000
+Probability: 30% (downgraded from 40%, reflecting external freeze not deal-specific risk)
+Expected Close Date: 2026-09-15 (pushed back from 2026-08-01)
+
+Risk: Company-wide discretionary spend freeze at Oracle, effective 3/10, pending Q1 close review. Not specific to MemoryIQ — confirmed by buyer as an org-wide constraint. No new vendor commitments possible until freeze lifts; no lift date currently known.
+Champion: Padma Krishnan — proactively communicated the freeze rather than going silent; trust intact
+Next Action: Continue security review (unaffected by freeze per buyer); monitor for freeze lift announcement
+
+Notes: Security review with Ahmed Farouk continuing in parallel — smart to keep this track alive so the deal can move quickly once freeze lifts, rather than restarting diligence from scratch.

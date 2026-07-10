@@ -1,0 +1,28 @@
+MEETING NOTES
+
+Date: February 20, 2026
+Attendees: Rajiv Mehta (Nokia, VP Engineering), Suhani Kapoor (Nokia), Marcus Chen (MemoryIQ), Aisha Patel (MemoryIQ, Solutions Engineer)
+Type: Technical Deep Dive
+
+Agenda:
+- Address Rajiv's pre-submitted technical questions
+- Walk through ingestion architecture
+- Discuss data residency requirements
+
+Discussion:
+Aisha presented the architecture diagram, focusing on the regional deployment model (US/EU data pinning). Rajiv pushed hard on how the platform handles ServiceNow custom fields — Aisha demonstrated the field-mapping process live using a mock schema similar to what Nokia described. Rajiv seemed satisfied this wasn't going to require ServiceNow-side development work.
+
+Rajiv also pressed on the "semantic similarity" claim — asked for precision/recall data. Aisha shared anonymized numbers from a comparable telecom deployment (approx. 78% precision @ top-3 candidates surfaced, human-in-the-loop for final judgment). Rajiv's response: "that's honest, I was expecting you to claim higher and be lying."
+
+Rajiv raised one new concern: change management. NOC engineers are resistant to new tools; he wants to understand adoption strategy, not just technical capability.
+
+Decisions:
+- Move to a sandbox demo using anonymized real incident data rather than generic demo data
+- Nokia IT to prepare 90-day ServiceNow export (scrubbed)
+
+Action Items:
+- Nokia: provide scrubbed SNOW export within 2 weeks
+- MemoryIQ: prepare sandbox with planted "twin" incidents for demo realism
+- Marcus: propose wider demo attendee list including regional NOC leads
+
+Next Meeting: Sandbox demo, targeting early March

@@ -1,0 +1,38 @@
+CALL TRANSCRIPT
+Date: January 27, 2026
+Participants: Suhani Kapoor (Nokia), Marcus Chen (MemoryIQ)
+Duration: 32 min
+
+MARCUS: Thanks for making time — I know you said you didn't want a generic pitch, so let's just start with what's actually broken today.
+
+SUHANI: Sure. So we run four regional NOC teams. Each one basically operates like its own island. Same ServiceNow instance technically, but in practice nobody looks outside their own region's queue.
+
+MARCUS: And RCAs — those live where?
+
+SUHANI: Confluence. Which is where good documentation goes to die, let's be honest.
+
+MARCUS: [laughs] Fair. How often does someone actually search Confluence before starting a new investigation?
+
+SUHANI: Almost never. We did a review in Q4 — three separate incidents where the root cause had already been documented, sometimes six, seven months earlier. One of them leadership specifically called out — took us six hours to diagnose something we'd already solved.
+
+MARCUS: That's — okay, that's exactly the scenario we built for. Can I ask, when that happens, is it a knowledge problem or a search problem? Like, if the engineer had searched Confluence, would they have found it?
+
+SUHANI: Honestly, probably not. Search is bad, the docs aren't tagged consistently, and different regions use different terminology for the same failure classes.
+
+MARCUS: Right, that's the part keyword search doesn't fix. Okay — before I go further, I want to flag, you mentioned in your email you've been burned by "AI" tooling before.
+
+SUHANI: [pause] Yeah. We looked at an AIOps vendor last year, I won't name them, marketing said "AI-powered root cause analysis," what we got was Elasticsearch with a chatbot wrapper. Burned some trust internally.
+
+MARCUS: I appreciate you saying that directly. I'd rather you kill this now than three months in if it's the same thing. Can I ask what specifically it failed to do?
+
+SUHANI: It surfaced results, but they weren't ranked by actual relevance, just recency and keyword overlap. So it'd surface ten things, none useful, and the engineer gives up and just re-diagnoses from scratch. Worse than nothing because it wasted the five minutes they did spend on it.
+
+MARCUS: Understood. Ours is embedding-based semantic matching, not keyword, but I'm not going to tell you it's perfect on a first call — that's what the technical session is for. I'd rather your VP Eng stress-test it than take my word for it.
+
+SUHANI: That's the right answer, actually. Send me something short, I'll bring in Rajiv — he's VP Eng, owns the platform side.
+
+MARCUS: Will do. One more thing — what happens if this works? Like what does success actually look like for you, concretely?
+
+SUHANI: Fewer six-hour diagnoses. If we cut repeat-incident MTTR by even 30%, that's a number I can take upstairs.
+
+MARCUS: Okay, that's a number I can build toward. Let's get Rajiv on next.

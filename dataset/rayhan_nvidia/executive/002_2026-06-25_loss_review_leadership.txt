@@ -1,0 +1,10 @@
+EXECUTIVE MEETING NOTES
+Date: June 25, 2026
+Attendees: Terrence Wu (VP Sales), Jordan Ellis (AE), David Reyes (CEO) — internal MemoryIQ leadership review
+Context: Post-loss review of the NVIDIA opportunity
+
+Discussion: Reviewed the NVIDIA loss as a case study rather than a routine forecast update, given the deal's size and the clean/well-contested nature of the loss. David asked specifically whether the TCO framework methodology should be formalized as a standard asset for future infra-heavy accounts, given it appeared to meaningfully shape the customer's internal deliberation even in a losing outcome.
+
+Decision: Jordan and Terrence to draft a reusable TCO/build-vs-buy framework template for future deals against companies with strong internal platform engineering cultures, incorporating the "separate build cost from ongoing maintenance cost" argument that proved effective here.
+
+Relationship with Rayhan Ahmed flagged as worth preserving actively (light-touch check-ins) given his own prediction that NVIDIA's internal build may underdeliver.

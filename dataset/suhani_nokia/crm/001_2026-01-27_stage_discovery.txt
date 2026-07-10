@@ -1,0 +1,18 @@
+SALESFORCE OPPORTUNITY RECORD
+
+Opportunity: Nokia — Network Incident Memory Platform
+Account: Nokia Corporation
+Owner: Marcus Chen
+Stage: Discovery
+Amount: $180,000 (est.)
+Probability: 20%
+Expected Close Date: 2026-06-30
+Lead Source: Outbound (referral-assisted)
+
+Champion: Suhani Kapoor (Director, Network Operations) — unconfirmed champion, strong initial engagement
+Economic Buyer: TBD (likely CIO given deal size)
+Competitor: None identified yet; prior negative experience with unnamed AIOps vendor
+Next Action: Schedule technical deep dive with VP Engineering (Rajiv Mehta)
+Risk: Buyer explicitly skeptical of "AI" positioning due to past vendor experience. High bar for technical credibility.
+
+Notes: Inbound engagement quality is high — replied to cold email within 48 hrs, gave specific, quantified pain point (repeat incidents, 6hr diagnosis). MEDDICC: Metrics identified (MTTR reduction target 30%), Economic Buyer not yet confirmed, Decision Criteria emerging (technical rigor + data residency), Decision Process unclear, Identify Pain confirmed strong, Champion candidate confirmed but early, Competition unclear.

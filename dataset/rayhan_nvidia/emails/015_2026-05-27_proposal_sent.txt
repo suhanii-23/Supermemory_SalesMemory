@@ -1,0 +1,18 @@
+From: Jordan Ellis <jordan.ellis@memoryiq.ai>
+To: Greg Simmons <gsimmons@nvidia.com>
+CC: Rayhan Ahmed <rahmed@nvidia.com>, Priyanka Rao <prao@nvidia.com>
+Subject: Proposal + TCO comparison — MemoryIQ for NVIDIA AI Infra
+Date: Wed, 27 May 2026 14:00:00 -0700
+
+Greg, Priyanka,
+
+Attached: formal proposal at $240,000 ARR (dedicated single-tenant deployment tier, given Hana's security requirements), plus a TCO comparison framework — not a self-serving "we're cheaper" claim, an honest breakdown of what we've seen internal build efforts cost in practice at comparable-scale engineering orgs (2 FTE-years minimum for initial build, ongoing 0.5-1 FTE for maintenance/improvement, typically underestimated by 40-60% in initial planning based on patterns we've observed).
+
+I want to be direct: if your internal build estimate is accurate and achievable on the timeline your team believes, building may genuinely be the better call for NVIDIA specifically, given the scale and internal ML infra you already have that most of our customers don't. I'm not going to pretend every company should buy this. I do think the TCO numbers are worth being honest about either way.
+
+Happy to walk through this live whenever works.
+
+Jordan
+
+[Attachment: memoryiq_proposal_nvidia_v1.pdf]
+[Attachment: memoryiq_tco_comparison_framework.pdf]

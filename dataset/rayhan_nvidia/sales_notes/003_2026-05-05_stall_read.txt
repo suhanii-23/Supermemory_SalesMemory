@@ -1,0 +1,6 @@
+Private AE notes — Jordan Ellis
+Re: NVIDIA — month-long silence
+
+This is the longest gap I've had on a deal that didn't turn out to be fully dead. A month, two unanswered check-ins. I genuinely thought this was gone. In hindsight, reorg + quarter-end review is a completely plausible explanation at a company this size, but I had no way to know that at the time and probability tracking in CRM reflected the real uncertainty, not false optimism.
+
+Glad the security review kept moving in parallel during this period — that's not luck, it's a structural benefit of having multiple stakeholder tracks that don't all depend on the champion personally being responsive.

@@ -1,0 +1,16 @@
+From: Devon Marsh <dmarsh@nvidia.com>
+To: Jordan Ellis <jordan.ellis@memoryiq.ai>
+CC: Rayhan Ahmed <rahmed@nvidia.com>, Derek Lin <derek.lin@memoryiq.ai>
+Subject: RE: Recap from today
+Date: Tue, 24 Feb 2026 10:02:00 -0800
+
+Jordan, Derek,
+
+Before we schedule, questions from me and (preemptively) from Carlos on the platform side, since he'll ask anyway:
+
+1. How does this scale to tens of thousands of GitHub issues and PRs across dozens of repos without becoming noisy/useless?
+2. What's the actual code/IP exposure here — are you indexing code itself or just issue/PR text and comments?
+3. Self-hosted or dedicated deployment option? Given what we work on, a lot of our engineering discussion touches things we can't have living exclusively in someone else's multi-tenant cloud.
+
+Devon Marsh
+Engineering Manager, AI Infrastructure

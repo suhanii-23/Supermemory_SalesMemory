@@ -1,0 +1,14 @@
+From: Jordan Ellis <jordan.ellis@memoryiq.ai>
+To: Rayhan Ahmed <rahmed@nvidia.com>
+Subject: RE: decision — not the outcome I wanted
+Date: Fri, 26 Jun 2026 10:30:00 -0700
+
+Rayhan,
+
+Genuinely appreciate you closing the loop directly and honestly instead of letting it fade into silence — that's rarer than it should be, and I won't forget it.
+
+For what it's worth, I don't think this was a bad decision on NVIDIA's part given your infra advantages, even though obviously I wish it went the other way. If the internal build proves out and covers what you need, that's a good outcome for you regardless of who built it.
+
+If priorities change — 18 months from now or sooner — the door's open, no hard feelings, and I'd genuinely like to stay in touch regardless. Good luck with the build.
+
+Jordan

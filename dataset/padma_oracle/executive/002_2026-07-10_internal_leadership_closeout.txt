@@ -1,0 +1,10 @@
+EXECUTIVE MEETING NOTES
+Date: July 10, 2026
+Attendees: Terrence Wu (VP Sales), Diane Okafor (AE), David Reyes (CEO) — internal MemoryIQ leadership review
+Context: Deal closure review for MemoryIQ's largest contract to date
+
+Discussion: Reviewed the Oracle deal as a template for future large enterprise/rigorous-process accounts. David specifically noted the value of the parallel-track contracting approach (security, legal, and finance running simultaneously rather than sequentially) as something to formalize as standard practice for enterprise deals above a certain size threshold, given how effectively it compressed the post-freeze timeline.
+
+Decision: Terrence and Diane to document the parallel-track process and the termination-for-convenience premium pricing mechanism as reusable playbook assets for the enterprise sales team.
+
+Oracle flagged as a reference-customer candidate for future large enterprise deals, pending successful rollout (to be assessed at 90-day post-implementation check-in).

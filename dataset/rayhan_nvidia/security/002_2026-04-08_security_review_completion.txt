@@ -1,0 +1,8 @@
+SECURITY REVIEW MEETING NOTES
+Date: April 8, 2026
+Attendees: Hana Yoshida (NVIDIA), Ben Okoro, Claire Dunmore (MemoryIQ)
+Related meeting: meetings/007
+
+Review of draft custom contract language (no-training clause, right-to-audit provision). Hana requested one revision — audit frequency capped at once per 12 months absent a triggering security incident — otherwise found terms acceptable.
+
+Security review considered substantively complete as of this meeting, notably continuing to progress even while the commercial/champion track was stalled (Rayhan unresponsive April 7 - May 13). This work would not need to be redone if NVIDIA revisits the opportunity in the future, per CRM final notes.

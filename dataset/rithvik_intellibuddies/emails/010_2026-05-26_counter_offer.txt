@@ -1,0 +1,14 @@
+From: Priya Nathan <priya.nathan@memoryiq.ai>
+To: Rithvik Suresh <rithvik@intellibuddies.ai>
+Subject: RE: Proposal — MemoryIQ for IntelliBuddies
+Date: Tue, 26 May 2026 10:35:00 -0700
+
+Rithvik,
+
+Fair, and noted on the Fin comparison — worth saying directly, we're not really the same category. Fin answers customers directly using your help docs; we're building institutional memory across your team so humans stop re-solving the same problem. Different job, but I get why the "is this worth extra spend" bar is higher when you've already got something adjacent.
+
+Real number, not a fake-discount number: $45,000 ARR, annual prepay, 10 seats. That's our actual startup-tier pricing for companies under 25 employees, not a one-off favor. It comes with a slightly reduced onboarding package (self-serve setup guide instead of white-glove) since that's most of the cost delta at enterprise pricing.
+
+If $45K still doesn't work, tell me the number that does and I'll tell you honestly if I can get there or not.
+
+Priya

@@ -1,0 +1,22 @@
+MEETING NOTES
+
+Date: June 16, 2026
+Attendees: Elaine Cross (Oracle, CFO's office), Padma Krishnan — Oracle; Terrence Wu (MemoryIQ, VP Sales), Diane Okafor
+Type: Executive Sponsor Briefing
+
+Agenda:
+- Secure CFO's office sign-off for final contract execution
+
+Discussion:
+Framed per Padma's guidance as "nearly there, need sign-off to close" rather than a full pitch, given legal was already deep into redlines. Terrence presented a tight summary: problem (account context loss during handoffs), solution, cost ($300K, 3-year lock), and expected ROI (anchored to Padma's $2M near-churn story as illustrative risk avoided).
+
+Elaine's primary question was about the outstanding liability cap and termination-for-convenience negotiation — wanted confirmation these were close to resolution, not open-ended. Terrence confirmed both were in final rounds with legal.
+
+Decisions:
+- Elaine gave conditional sign-off pending final legal resolution
+
+Action Items:
+- MemoryIQ/Oracle legal: finalize remaining redline items
+- Oracle: Elaine to provide final written sign-off once legal closes
+
+Next Meeting: N/A — pending legal closure

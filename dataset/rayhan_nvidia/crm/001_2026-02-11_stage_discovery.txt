@@ -1,0 +1,16 @@
+SALESFORCE OPPORTUNITY RECORD
+
+Opportunity: NVIDIA — Engineering Knowledge Memory Platform
+Account: NVIDIA Corporation
+Owner: Jordan Ellis
+Stage: Discovery
+Amount: $240,000 (est.)
+Probability: 20%
+Expected Close Date: 2026-07-15
+Lead Source: Inbound (direct email to sales@)
+
+Champion: Rayhan Ahmed (Senior AI Infrastructure Engineer) — strong technical champion, not sole decision maker
+Economic Buyer: TBD, likely Director (Priyanka Rao) or above given deal size
+Competitor: Internal build — flagged as primary competitive risk from the outset given NVIDIA's strong internal tooling culture
+Next Action: Technical deep dive with EM (Devon Marsh)
+Risk: HIGH — build-vs-buy culture explicitly flagged by champion as a real risk in the very first meeting, not discovered later

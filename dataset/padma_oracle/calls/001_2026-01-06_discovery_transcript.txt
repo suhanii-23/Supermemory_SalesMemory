@@ -1,0 +1,28 @@
+CALL TRANSCRIPT
+Date: January 6, 2026
+Participants: Padma Krishnan (Oracle), Diane Okafor (MemoryIQ)
+Duration: 42 min
+
+DIANE: Happy new year — let's get into it. What does account context loss actually look like day to day for you?
+
+PADMA: Concretely? I'll give you the story that made me actually take Maria's referral seriously. We had a healthcare vertical account, $2M renewal, longtime customer. The original AE left for a competitor, new AE inherits the account with basically a CRM record and a handoff call that lasted maybe 45 minutes.
+
+DIANE: Not a lot of time to transfer eighteen months of relationship history.
+
+PADMA: Right. So the new AE walks into the renewal conversation not knowing that a year earlier, a key stakeholder had explicitly said, in a meeting, "if we have another outage like the one in March, we're gone." There'd been another outage. Six weeks before renewal.
+
+DIANE: [pause] Oh no.
+
+PADMA: Yeah. We nearly lost a $2M account because the information existed, somewhere, in someone's notes, but wasn't accessible to the person who needed it exactly when they needed it.
+
+DIANE: Did you catch it in time?
+
+PADMA: Barely, and only because a CSM happened to remember the conversation secondhand. Pure luck, not process.
+
+DIANE: That's exactly the scenario we're built for — not just storing that it happened, but surfacing it proactively when someone's preparing for that account, unprompted, not waiting for someone to think to search for it.
+
+PADMA: That's the pitch I need to hear more about. But I'll tell you now, plainly — anything that touches our CRM and customer data is going through serious security and legal review. I'm not saying that to scare you off, I'm saying it so you can plan for it honestly.
+
+DIANE: Appreciated, genuinely — better to know now. Who else needs to be part of evaluating this on the day-to-day usage side?
+
+PADMA: Robert, my VP of Sales. He'll be more skeptical than me, fair warning.

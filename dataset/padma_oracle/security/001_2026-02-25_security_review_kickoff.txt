@@ -1,0 +1,8 @@
+SECURITY REVIEW MEETING NOTES
+Date: February 25, 2026
+Attendees: Ahmed Farouk (Oracle, Principal Security Engineer), Ben Okoro (MemoryIQ, Head of Security)
+Related transcript: calls/004
+
+Most comprehensive security review scope encountered by MemoryIQ to date at time of this deal (comparable in rigor to NVIDIA's review, different focus — customer/third-party PII exposure rather than pre-release IP). Required: SOC2 Type II, ISO 27001, third-party penetration test full report (not summary), 140-question Oracle Vendor Security Questionnaire, cross-border data transfer documentation, subprocessor risk assessments, and incident response/breach history disclosure.
+
+Ahmed set a 6-10 week timeline expectation. Review continued uninterrupted through the March-April budget freeze, since diligence work was explicitly confirmed by Padma as unaffected by the spend freeze (only new commercial commitments were paused).

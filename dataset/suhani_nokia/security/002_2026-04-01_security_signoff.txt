@@ -1,0 +1,7 @@
+SECURITY REVIEW — FINAL SIGN-OFF NOTES
+Date: April 1, 2026
+Attendees: Klaus Berger (Nokia), Ben Okoro (MemoryIQ) — async, confirmed via email + DPA addendum review
+
+Klaus confirmed receipt of updated DPA addendum with explicit no-shared-model-training language and Pinecone subprocessor list. No further open items on the security side.
+
+Klaus's sign-off communicated informally to Suhani around this date (per Suhani's later email, deal timeline correlates: security review clean as of early April, immediately preceding the outage-driven communication gap). No formal written sign-off document was requested by Nokia beyond the DPA addendum itself — Klaus's review is considered closed as of this date, reconfirmed later during June 16 subprocessor-notice compromise discussion.

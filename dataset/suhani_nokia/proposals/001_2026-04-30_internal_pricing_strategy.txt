@@ -1,0 +1,14 @@
+INTERNAL PROPOSAL STRATEGY DISCUSSION
+Date: April 30, 2026
+Participants: Marcus Chen (AE), Terrence Wu (VP Sales)
+Format: Slack DM, transcribed
+
+MARCUS: putting the nokia proposal together. thinking $180k, platform fee + source based not per seat since that's what rajiv wants
+
+TERRENCE: yeah stick with that model, don't improvise pricing structure this late, we validated it with him already. any discount pressure so far?
+
+MARCUS: none yet, but suhani has hard June deadline (budget cycle), so I expect procurement to ask for something — either dollars off or term flexibility
+
+TERRENCE: don't lead with a discount. lead with the 2-year lock option — same effective outcome (gives them budget certainty) but protects our margin better than a straight percentage off. only go to raw discount if they push specifically on price, not just terms
+
+MARCUS: got it, that's the plan

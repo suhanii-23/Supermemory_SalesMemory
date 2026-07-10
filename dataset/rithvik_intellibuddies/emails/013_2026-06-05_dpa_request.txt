@@ -1,0 +1,12 @@
+From: Wei Zhang <wei@intellibuddies.ai>
+To: Priya Nathan <priya.nathan@memoryiq.ai>
+Subject: DPA / data processing agreement
+Date: Thu, 5 Jun 2026 14:05:00 -0700
+
+Priya,
+
+Quarterly billing works for us, thanks for flexing on that.
+
+Before Rithvik signs — can you send your standard DPA? We have a couple of EU-based customers now so we need something on file that covers GDPR processing terms, our own customers occasionally ask for our subprocessor list and I want MemoryIQ properly documented on it.
+
+Wei

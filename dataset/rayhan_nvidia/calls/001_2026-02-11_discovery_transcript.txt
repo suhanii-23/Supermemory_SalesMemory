@@ -1,0 +1,26 @@
+CALL TRANSCRIPT
+Date: February 11, 2026
+Participants: Rayhan Ahmed (NVIDIA), Jordan Ellis, Derek Lin (MemoryIQ)
+Duration: 40 min
+
+RAYHAN: So the honest version of the problem — we make an architecture decision in a design review, it's documented somewhere, and eight months later someone on a different sub-team proposes the exact same thing we already rejected, for the exact same reasons.
+
+DEREK: Rejected, meaning there was a real conclusion, not just an abandoned discussion?
+
+RAYHAN: Right, real conclusion, documented, just... nobody finds the document. Or they find it and don't realize it's the same problem because the terminology's slightly different.
+
+DEREK: That second one is actually the harder problem to solve well, and I want to be upfront about that up front. Keyword search catches the first case sometimes. Semantic similarity handles the terminology-drift case better, but it's not perfect, especially in a codebase and discussion corpus as specialized as yours is going to be.
+
+RAYHAN: What's the actual scale you're used to operating at? I ask because a lot of "AI knowledge" pitches fall apart once you're past a few thousand documents.
+
+DEREK: Fair to ask directly. Our largest current deployment is smaller than what you're describing — you mentioned 40 repos to start, possibly 200+ engineers eventually. That's bigger than anything we've proven at in production. I'm not going to tell you we've done this exact scale before, because we haven't.
+
+RAYHAN: [pause] I appreciate you saying that instead of just claiming it works fine.
+
+JORDAN: That's kind of our whole approach honestly, we'd rather lose a deal being honest than win one and have it blow up in month four.
+
+RAYHAN: Okay. Who do I need to bring in to actually evaluate this properly — I don't want to waste your time or mine on a demo that doesn't go anywhere because the real decision-makers weren't in the room.
+
+DEREK: Whoever owns platform tooling decisions, and whoever would sign off on data going to a third party given what you're describing touches pre-release stuff probably.
+
+RAYHAN: Yeah. Devon's my manager, I'll loop him in first, but full warning — our platform team culture leans build-it-ourselves hard. Don't be shocked if that comes up.

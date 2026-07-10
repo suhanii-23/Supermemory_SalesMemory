@@ -1,0 +1,13 @@
+#deal-nvidia-aiinfra
+
+jordan.ellis [6:00 PM]
+demo with priyanka (director) and carlos happened. mixed. priyanka's explicit line was basically "why not just build a retrieval layer ourselves" — this is now a real live objection not a hypothetical
+
+terrence.wu [6:05 PM]
+expected honestly. this is where the deal either gets real momentum or dies slowly. what's rayhan's temperature
+
+jordan.ellis [6:06 PM]
+still pushing for us but says it's a genuine debate now, not unanimous. security review starting next which at least keeps things moving in parallel
+
+terrence.wu [6:08 PM]
+good, keep multiple tracks alive so it's not 100% gated on the build-vs-buy resolution

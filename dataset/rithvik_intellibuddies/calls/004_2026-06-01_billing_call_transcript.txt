@@ -1,0 +1,18 @@
+CALL TRANSCRIPT
+Date: June 1, 2026
+Participants: Rithvik Suresh (IntelliBuddies), Priya Nathan (MemoryIQ)
+Duration: 12 min
+
+RITHVIK: so 45k is fine, but can we do monthly instead of annual upfront? we're mid-raise, i don't want to lock up runway before it closes
+
+PRIYA: I checked before this call actually, anticipated you might ask. We don't do monthly below enterprise tier, too much churn risk on our side to support that structure. But I got approval for quarterly billing on an annual contract — so you're not writing one big check, but it's still a committed annual term.
+
+RITHVIK: [pause] that's... actually reasonable, I was expecting a flat no
+
+PRIYA: Didn't want to give you a flat no without checking first.
+
+RITHVIK: appreciate that. also can we do 8 seats instead of 10, we don't need the extra 2 right now
+
+PRIYA: Sure, I'll hold the price flat and build in grace room so if you grow into 9 or 10 later this year you don't have to renegotiate, just let us know.
+
+RITHVIK: deal

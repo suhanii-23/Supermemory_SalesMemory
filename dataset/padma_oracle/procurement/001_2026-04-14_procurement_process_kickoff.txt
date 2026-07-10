@@ -1,0 +1,6 @@
+PROCUREMENT CONVERSATION NOTES
+Date: April 14, 2026
+Participants: Julie Tran (Oracle, Procurement), Padma Krishnan (Oracle), Diane Okafor (MemoryIQ)
+Related: meetings/004
+
+Established Oracle's standard vendor contracting process: security sign-off, legal MSA review, and finance budget approval, explicitly agreed to run as parallel tracks rather than sequential given time already lost to the Q1 budget freeze. Julie confirmed Oracle's internal approval threshold for this deal size requires CFO's office sign-off (Elaine Cross), consistent with what Padma had earlier flagged informally.

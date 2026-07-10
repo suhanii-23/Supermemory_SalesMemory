@@ -1,0 +1,22 @@
+From: Aisha Patel <aisha.patel@memoryiq.ai>
+To: Rajiv Mehta <rajiv.mehta@nokia.com>
+CC: Marcus Chen <marcus.chen@memoryiq.ai>, Suhani Kapoor <suhani.kapoor@nokia.com>
+Subject: Answers + architecture doc ahead of our call
+Date: Wed, 25 Feb 2026 10:22:00 -0800
+
+Rajiv,
+
+Good questions, answering inline before Thursday so we can spend the call on whatever's still unclear:
+
+1. Custom ServiceNow fields — we ingest via the Table API against whatever schema you've got, including custom fields, as long as they're exposed on the incident/problem tables. We map fields during onboarding with your admin, doesn't require ServiceNow-side dev work on your end.
+
+2. Data residency — we support region-pinned deployments (US and EU data stays in-region, doesn't cross). This is a real thing we do for two other telecom customers, not a checkbox. I'll bring the architecture diagram that shows the regional split.
+
+3. Matching — it's embedding-based semantic similarity over incident narrative + RCA text, not keyword match, but I want to be direct: it's not magic. It surfaces candidates ranked by similarity and your engineers still judge relevance. Anyone who tells you it's 100% precision is lying to you. Happy to show you precision/recall numbers from a comparable telecom deployment (anonymized) on the call.
+
+Attached the architecture doc. See you Thursday at 10.
+
+Aisha Patel
+Solutions Engineer, MemoryIQ
+
+[Attachment: memoryiq_architecture_regional_deployment.pdf]

@@ -1,0 +1,24 @@
+From: Ahmed Farouk <ahmed.farouk@oracle.com>
+To: Diane Okafor <diane.okafor@memoryiq.ai>
+CC: Padma Krishnan <padma.krishnan@oracle.com>
+Subject: Security review — MemoryIQ vendor evaluation
+Date: Tue, 24 Feb 2026 09:00:00 -0800
+
+Ms. Okafor,
+
+I've been assigned to lead the security review for this engagement. Given the nature of the data involved (customer relationship data, potentially including PII of Oracle customer contacts, and commercially sensitive account strategy information), our review will be extensive. Please expect:
+
+1. Full SOC 2 Type II and any available ISO 27001 certification
+2. Complete architecture and data flow documentation
+3. Formal penetration test results from the last 12 months (third-party, not self-attested)
+4. Detailed subprocessor list with individual risk assessments
+5. Data residency and cross-border transfer documentation (we have customer data spanning multiple jurisdictions)
+6. Incident response plan and historical breach disclosure (if any)
+7. A completed Oracle Vendor Security Questionnaire (attached — 140 questions, standard for vendors at this data-access tier)
+
+Given the scope, I'd estimate 6-10 weeks for a complete review, longer if follow-up items arise. This is not unusual for us and reflects our standard process, not a specific concern about MemoryIQ.
+
+Ahmed Farouk
+Principal Security Engineer, Vendor Risk
+
+[Attachment: oracle_vendor_security_questionnaire.xlsx]

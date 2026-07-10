@@ -1,0 +1,16 @@
+From: Sam Rutledge <sam.rutledge@memoryiq.ai>
+To: Robert Chase <robert.chase@oracle.com>
+CC: Padma Krishnan <padma.krishnan@oracle.com>, Diane Okafor <diane.okafor@memoryiq.ai>
+Subject: RE: Recap + next steps
+Date: Tue, 27 Jan 2026 10:12:00 -0800
+
+Robert,
+
+Fair question, and I'll be direct rather than spin it: Gong is excellent at what it does — call recording, conversation intelligence, deal signal detection within a single deal cycle. It's not built to be a persistent cross-time, cross-channel memory layer — it doesn't ingest email threads, internal Slack strategy discussion, proposal documents, or connect a rep handoff eighteen months later back to what was discussed in year one. Different layer of the stack, and honestly we integrate with Gong transcripts as one of our ingestion sources rather than compete with it directly for several of our other customers.
+
+On Salesforce — we don't create a parallel system of record. We write summarized memory/context back into Salesforce as enriched activity/account notes, and CRM stays authoritative for pipeline/stage/amount data. We're additive intelligence on top, not a competing source of truth.
+
+Happy to show this distinction live rather than just assert it — want to get a demo on the calendar with your actual Salesforce instance structure in mind?
+
+Sam Rutledge
+Solutions Engineer, MemoryIQ

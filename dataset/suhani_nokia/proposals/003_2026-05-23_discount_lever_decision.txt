@@ -1,0 +1,13 @@
+PROPOSAL STRATEGY — DISCOUNT LEVER DECISION
+Date: May 23, 2026
+Participants: Marcus Chen, Terrence Wu
+
+Following Angela's pricing-flexibility question (email 016), team discussed response options:
+
+Option A: Straight percentage discount (e.g., 10% off $180K)
+Option B: 2-year term at locked rate (no year-2 increase)
+Option C: Additional implementation consulting hours at no charge
+
+Decision: Offer B and C as alternatives, not A. Rationale — Nokia's stated urgency is budget-cycle timing, not raw cost sensitivity (no pushback on headline number throughout cycle). A 2-year lock serves their stated need (budget predictability) while protecting MemoryIQ's effective ARR better than a discount would. Extra implementation hours cost MemoryIQ marginal delivery cost, not lost revenue.
+
+Outcome: Nokia selected the 2-year lock (confirmed in email 017 response and reflected in final signed contract).

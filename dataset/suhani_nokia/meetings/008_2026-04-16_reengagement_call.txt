@@ -1,0 +1,25 @@
+MEETING NOTES
+
+Date: April 16, 2026
+Attendees: Suhani Kapoor — Nokia; Marcus Chen — MemoryIQ
+Type: Reengagement Call
+
+Agenda:
+- Re-establish momentum after 3-week gap in communication
+
+Discussion:
+Suhani explained the gap was due to a multi-region outage that consumed her team's full bandwidth. She was candid that she'd genuinely lost track of the deal during the incident. Confirmed no loss of internal interest — if anything, the outage reinforced the business case, since the incident involved a root cause similar to one from an earlier quarter.
+
+Marcus resisted the urge to hard-sell into the outage and instead asked clarifying questions about what made diagnosis slow, partly out of genuine curiosity and partly to sharpen the ROI narrative for the eventual proposal.
+
+Suhani committed to re-engaging Rajiv on pricing model and bringing procurement in formally within the month.
+
+Decisions:
+- Deal resumes active status
+- Suhani targets end of April to re-loop Rajiv and Angela (procurement)
+
+Action Items:
+- Nokia: Suhani to reconnect internally, confirm procurement contact
+- MemoryIQ: stand by, avoid over-following-up
+
+Next Meeting: TBD, pending Nokia internal alignment

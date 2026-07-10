@@ -1,0 +1,10 @@
+#deal-nvidia-aiinfra
+
+jordan.ellis [7:30 PM]
+not great update. carlos is actively building a lightweight internal alternative now, not just talking about it hypothetically. rayhan's still pushing for us but says finance is pressuring build-vs-buy justification org-wide this quarter, not specific to us
+
+terrence.wu [7:40 PM]
+that's a real threat, not just committee friction. downgrade probability, keep the security review moving in parallel regardless since that work isn't wasted even in a build scenario — could still flip back to us if the build stalls
+
+jordan.ellis [7:41 PM]
+agreed, will keep it moving

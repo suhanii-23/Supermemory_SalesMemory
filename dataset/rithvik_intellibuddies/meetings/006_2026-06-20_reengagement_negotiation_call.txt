@@ -1,0 +1,23 @@
+MEETING NOTES
+
+Date: June 20, 2026
+Attendees: Rithvik Suresh (Founder) — IntelliBuddies; Priya Nathan (AE) — MemoryIQ
+Type: Reengagement / Final Price Negotiation
+
+Agenda:
+- Resolve post-fundraise price reduction request ($45K to $40K)
+
+Discussion:
+Rithvik explained the 2.5-week silence was due to closing a seed round; disclosed the round closed smaller than hoped and asked for a $5K reduction to preserve early post-close runway discipline.
+
+Priya held firm on $45K (had already moved off the $58K anchor to the genuine startup-tier number) but added value instead of discounting further: restored the full white-glove onboarding package (previously stripped at startup tier) and shortened implementation SLA from 90 to 60 days.
+
+Rithvik accepted this framing well — noted appreciation that Priya didn't simply cave, as it reinforced confidence that $45K was a real, defensible number rather than an arbitrary anchor.
+
+Decisions:
+- Final terms: $45K ARR, quarterly billing, 8 seats (grace to 10), full onboarding package, 60-day implementation SLA
+
+Action Items:
+- MemoryIQ: send final contract for signature
+
+Next Meeting: N/A — proceeding to signature

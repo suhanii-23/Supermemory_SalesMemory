@@ -1,0 +1,8 @@
+From: Rithvik Suresh <rithvik@intellibuddies.ai>
+To: Priya Nathan <priya.nathan@memoryiq.ai>
+Subject: RE: demo request - support memory for a 12 person startup
+Date: Wed, 6 May 2026 07:55:00 -0700
+
+friday 10am works. i'll bring our CTO Wei, he'll want to poke at the technical side, fair warning he's going to ask about data export/lock-in immediately, he always does
+
+see you then

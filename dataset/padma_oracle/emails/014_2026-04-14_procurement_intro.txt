@@ -1,0 +1,11 @@
+From: Padma Krishnan <padma.krishnan@oracle.com>
+To: Diane Okafor <diane.okafor@memoryiq.ai>
+CC: Julie Tran <julie.tran@oracle.com>
+Subject: Introducing Julie Tran (Procurement)
+Date: Tue, 14 Apr 2026 09:30:00 -0700
+
+Diane,
+
+Julie will own vendor contracting and MSA negotiation from here. Julie — this is the account intelligence platform I mentioned, Diane's the AE. We're targeting security sign-off within the next few weeks and want contracting to run in parallel rather than sequentially, given how long this has already taken.
+
+Padma

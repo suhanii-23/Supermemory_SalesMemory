@@ -1,0 +1,28 @@
+CALL TRANSCRIPT
+Date: May 14, 2026
+Participants: Suhani Kapoor, Rajiv Mehta, Angela Ford — Nokia; Marcus Chen — MemoryIQ
+Duration: 35 min
+
+MARCUS: So headline number is $180K annual, platform fee plus ingested source, covers all four regions unlimited seats within network ops.
+
+RAJIV: That matches what you said back in March, good, consistent at least.
+
+ANGELA: Payment terms — your paper says net 30, we typically run net 45 on vendor contracts this size.
+
+MARCUS: I don't own that decision alone, but I don't expect it to be a blocker, I'll confirm with finance this week.
+
+ANGELA: Appreciate it. Also, is there a security questionnaire beyond what Klaus already did, or does the CAIQ cover procurement's requirements too?
+
+MARCUS: CAIQ should cover it, Klaus's review was pretty thorough, but if your team has a separate procurement-specific form, send it, happy to fill it out.
+
+ANGELA: I'll check and follow up.
+
+SUHANI: I want to flag the timeline pressure again — June budget cycle. If we're not signed by end of June this slips to Q4 realistically, and I don't want that.
+
+MARCUS: Understood, that's the target we're building toward. Angela, realistic turnaround on your side once redlines go out?
+
+ANGELA: Depends what legal flags, but figure two weeks for first pass, could be faster.
+
+RAJIV: [half to himself] Every contract I've ever seen said "could be faster" and then wasn't.
+
+ANGELA: [laughs] Fair, no promises.

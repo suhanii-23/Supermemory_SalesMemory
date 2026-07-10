@@ -1,0 +1,20 @@
+CALL TRANSCRIPT
+Date: June 3, 2026
+Participants: Greg Simmons, Rayhan Ahmed (NVIDIA), Jordan Ellis (MemoryIQ)
+Duration: 33 min
+
+GREG: Your framework assumes 2 FTE-years for an internal build. Carlos's team estimates 0.75. That's a big gap.
+
+JORDAN: It is. Can I ask what's driving the difference — is it mostly reusable infrastructure, or is it a scoping difference in what "v1" actually covers?
+
+GREG: Mostly reusable infra — vector search tooling, ingestion pipelines, some of the ML platform work already exists for other internal projects. Carlos's estimate is essentially "wire existing pieces together," not build from scratch.
+
+JORDAN: That's a legitimate advantage you have that most of our customers don't, I won't pretend otherwise. Can I push on one thing though — is that estimate the build cost, or does it include who owns this long-term? Retrieval quality typically degrades as data volume grows without ongoing tuning, and that ongoing cost is usually where internal build estimates run short, not the initial sprint.
+
+GREG: [pause] That's... a fair question, honestly. I don't think Carlos's estimate accounted for ongoing ownership explicitly, it read more like an initial build sprint number to me.
+
+RAYHAN: [interjecting] That's actually a good point, I hadn't pushed on that distinction internally.
+
+GREG: I'll go back to Carlos and ask him to separate build cost from ongoing maintenance cost explicitly. Not promising it changes the outcome, but it's a fair thing to clarify before the committee decides.
+
+JORDAN: Appreciate you taking it seriously rather than dismissing it.

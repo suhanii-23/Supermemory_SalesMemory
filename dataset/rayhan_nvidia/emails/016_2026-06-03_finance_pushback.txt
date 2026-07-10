@@ -1,0 +1,18 @@
+From: Greg Simmons <gsimmons@nvidia.com>
+To: Jordan Ellis <jordan.ellis@memoryiq.ai>
+CC: Rayhan Ahmed <rahmed@nvidia.com>, Priyanka Rao <prao@nvidia.com>
+Subject: RE: Proposal + TCO comparison — MemoryIQ for NVIDIA AI Infra
+Date: Wed, 3 Jun 2026 15:30:00 -0700
+
+Jordan,
+
+Appreciate the honesty in the framing, genuinely, most vendors wouldn't have included the line about building potentially being the right call for us specifically.
+
+That said — our internal build estimate (from Carlos's team) comes in materially lower than your FTE-year assumptions, because we're not starting from zero, we already have shared ML infra, vector search tooling, and ingestion pipelines built for other internal projects that this could reuse. Their estimate is roughly 0.75 FTE-year for a v1, not the 2 FTE-years in your framework.
+
+I can't independently verify whether that estimate is realistic or optimistic, that's outside my lane, but at that lower estimate, $240K/year starts looking like a 3-4 year payback versus build, which is a harder sell up the chain here right now given budget scrutiny this cycle.
+
+Not a no. But you should know where the numbers are landing on our side.
+
+Greg Simmons
+Finance Business Partner, Platform Engineering

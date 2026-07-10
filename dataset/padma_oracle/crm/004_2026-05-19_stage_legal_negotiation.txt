@@ -1,0 +1,17 @@
+SALESFORCE OPPORTUNITY RECORD — UPDATE
+
+Opportunity: Oracle — Enterprise Sales Intelligence Platform
+Stage: Legal Negotiation
+Amount: $300,000 (3-year lock option under consideration by customer)
+Probability: 70%
+Expected Close Date: 2026-07-15
+
+Champion: Padma Krishnan — engaged throughout freeze, reengaged promptly (4/7) once lifted
+Economic Buyer: Elaine Cross (CFO's office) — identified, not yet formally engaged
+Procurement: Julie Tran — engaged, running contracting tracks (security/legal/finance) in parallel
+Finance: Won Park — satisfied on TCO/3-year lock math, budget approval in progress
+Competitor: None material remaining; Gong fully resolved as non-competitive
+Next Action: Resolve MSA redlines (liability cap, termination-for-convenience terms) with Monica Sable (Oracle Legal)
+Risk: MODERATE — legal redline cycle is extensive (6 distinct terms), typical for Oracle's internal process per buyer's own framing, not a red flag specific to this deal
+
+Notes: Security review (Ahmed Farouk) completed during freeze period — no longer a gating item.

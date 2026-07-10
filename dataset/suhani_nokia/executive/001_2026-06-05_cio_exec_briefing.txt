@@ -1,0 +1,10 @@
+EXECUTIVE MEETING NOTES
+Date: June 5, 2026
+Attendees: Tomas Lindqvist (Nokia, CIO), Suhani Kapoor (Nokia); Terrence Wu (MemoryIQ, VP Sales), Marcus Chen (MemoryIQ)
+Related transcript: calls/007
+
+Purpose: Secure CIO sign-off for spend above $150K threshold.
+
+Summary: 15-minute briefing, tightly scoped per Tomas's preference. Terrence led with technical framing suited to Tomas's engineering background (ex-Ericsson) rather than generic executive pitch. Tomas's two core questions — data portability/deletion on termination, and single-point-of-failure risk during active incidents — were both addressed satisfactorily using existing contract terms and product positioning (advisory, not load-bearing).
+
+Outcome: Verbal sign-off, contingent on final MSA terms. This was the last major gating conversation before the deal moved to pure contract execution.

@@ -1,0 +1,13 @@
+#deal-nokia-networkops
+
+marcus.chen [9:00 AM]
+proposal's out, $180k, 4 regions, all sources included. procurement (angela) is now in the loop directly
+
+terrence.wu [9:05 AM]
+nice. any signal on budget ceiling or is 180 clean
+
+marcus.chen [9:07 AM]
+suhani never blinked at the number in conversation, rajiv asked about pricing model not amount, so i think we're fine on headline price. procurement will probably still push on terms though, they always do
+
+terrence.wu [9:08 AM]
+standard telecom procurement redlines — liability cap, data deletion window, auto-renewal strike. have claire ready to turn those fast, don't let legal be the reason this slips past June

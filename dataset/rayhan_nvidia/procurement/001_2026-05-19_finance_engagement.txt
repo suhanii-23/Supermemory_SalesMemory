@@ -1,0 +1,7 @@
+PROCUREMENT CONVERSATION NOTES
+Date: May 19, 2026
+Participants: Greg Simmons (Finance Business Partner, NVIDIA), Jordan Ellis (MemoryIQ)
+
+Note: No formal procurement department engaged on this deal — NVIDIA's evaluation process routed cost scrutiny through a Finance Business Partner (Greg Simmons) attached to the Platform Engineering org, rather than a centralized procurement function, reflecting the deal's framing as a build-vs-buy engineering decision rather than a standard vendor purchase.
+
+Greg's initial ask was for full TCO transparency, not just a headline price — explicitly stated he would independently validate any internal build cost estimate rather than accept either side's framing uncritically.

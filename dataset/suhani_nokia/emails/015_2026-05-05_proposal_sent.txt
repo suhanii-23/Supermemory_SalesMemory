@@ -1,0 +1,22 @@
+From: Marcus Chen <marcus.chen@memoryiq.ai>
+To: Suhani Kapoor <suhani.kapoor@nokia.com>
+CC: Angela Ford <angela.ford@nokia.com>, Rajiv Mehta <rajiv.mehta@nokia.com>
+Subject: Proposal — MemoryIQ Network Incident Memory Platform
+Date: Tue, 5 May 2026 11:15:00 -0700
+
+Suhani, Angela, Rajiv,
+
+Attached is the formal proposal: $180,000 ARR, annual term, covering all 4 regional NOC teams, unlimited seats within Network Operations, ingestion from ServiceNow, PagerDuty, and Slack (up to 25 channels), plus dedicated implementation support and a named CSM.
+
+Pricing is structured as platform fee + ingested source, not per-seat — Rajiv, this is the model you asked about back in March, sorry for the delay getting it formalized.
+
+Implementation timeline: 6-8 weeks from signature to production rollout across all 4 regions, assuming data access is granted within the first 2 weeks.
+
+Angela — happy to get on a call with your team whenever convenient to walk through MSA terms. Our standard paper is attached as a starting point.
+
+Let me know questions.
+
+Marcus
+
+[Attachment: memoryiq_proposal_nokia_networkops_v1.pdf]
+[Attachment: memoryiq_standard_msa.pdf]

@@ -1,0 +1,23 @@
+MEETING NOTES
+
+Date: April 14, 2026
+Attendees: Padma Krishnan, Julie Tran (Procurement) — Oracle; Diane Okafor — MemoryIQ
+Type: Procurement Kickoff
+
+Agenda:
+- Introduce procurement contact, establish contracting process following budget freeze lift
+
+Discussion:
+First meeting following the Q1 budget freeze (see sales_notes/003 for freeze context). Julie outlined Oracle's standard vendor contracting process: security sign-off, legal MSA review, and finance budget approval running as parallel (not purely sequential) tracks going forward, given time already lost to the freeze.
+
+Padma reiterated the need for an executive sponsor (CFO's office) once pricing was formalized, given the anticipated deal size crossing Oracle's internal approval threshold.
+
+Decisions:
+- Contracting tracks (security, legal, finance) to run in parallel
+- Proposal to be delivered within two weeks
+
+Action Items:
+- MemoryIQ: deliver formal proposal
+- Oracle: Julie to confirm internal approval thresholds and required sign-offs
+
+Next Meeting: Proposal walkthrough

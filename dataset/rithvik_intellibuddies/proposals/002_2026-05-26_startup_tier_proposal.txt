@@ -1,0 +1,7 @@
+PROPOSAL DISCUSSION — STARTUP TIER REVISION
+Date: May 26, 2026
+Related: Revised proposal ($45,000 ARR)
+
+Following explicit buyer rejection of "fake discount" framing, moved directly to genuine startup-tier pricing structure (companies under 25 employees): $45,000 ARR, 10 seats, reduced onboarding package (self-serve setup guide replacing white-glove) as primary cost-delta driver versus enterprise tier.
+
+Positioned as a real, defensible tier rather than a one-off concession — deliberate strategic choice to preserve credibility of the number for the remainder of the negotiation (validated later when buyer cited this transparency as a reason for trusting the final price, see sales_notes/002 and /004).

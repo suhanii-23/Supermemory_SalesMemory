@@ -1,0 +1,38 @@
+CALL TRANSCRIPT
+Date: March 10, 2026
+Participants: Suhani Kapoor, Rajiv Mehta, Dallas NOC Lead (Marcus Webb), Frankfurt NOC Lead (Elena Roth) — Nokia; Marcus Chen, Aisha Patel — MemoryIQ
+Duration: 55 min
+
+AISHA: Alright, I'm going to run a query the way one of your on-call engineers would at 3am. Simulating a transport degradation alert coming in.
+
+[typing sounds, pause ~8 seconds]
+
+AISHA: Okay — top result is a March 2025 RCA, "intermittent fiber degradation, Dallas region, root cause: aging amplifier module."
+
+MARCUS WEBB: [long pause] ...that's the thing from last spring. That's literally the thing.
+
+AISHA: Is that a planted example or —
+
+MARCUS WEBB: No, no, that's real, I remember that one, we spent like two days on it.
+
+SUHANI: See, this is exactly what I wanted the room to see.
+
+RAJIV: Okay but run one you didn't plan out loud on the call. I want to see it on something messier.
+
+AISHA: Sure — let's do a random query, unscripted. [pause] Okay, "authentication service latency spike, transaction timeout." Not a network incident, more app-layer, just to see how it handles something outside the core use case.
+
+[pause ~6 seconds]
+
+AISHA: Results are noisier here, as expected — three candidates, none is an exact match, similarity scores are lower, in the 60s instead of high 80s/90s.
+
+RAJIV: That's actually reassuring, weirdly. If it had confidently returned garbage as a top match I'd trust it less.
+
+ELENA ROTH: Can it handle German-language RCAs? A chunk of our Frankfurt documentation is in German.
+
+AISHA: Honestly, I don't have a confirmed answer for you right now — I believe the embedding model has multilingual support but I don't want to promise something I haven't verified for this specific use case. I'll get you a real answer, not a guess.
+
+ELENA ROTH: Appreciate the honesty, that's fine, just flag it.
+
+SUHANI: [to Rajiv] Where are you at?
+
+RAJIV: Warmer than I was a month ago. Let's move forward.

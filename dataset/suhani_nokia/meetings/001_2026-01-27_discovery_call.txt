@@ -1,0 +1,27 @@
+MEETING NOTES
+
+Date: January 27, 2026
+Attendees: Suhani Kapoor (Nokia, Director Network Ops), Marcus Chen (MemoryIQ, AE)
+Type: Discovery Call
+
+Agenda:
+- Understand current incident management workflow
+- Identify pain points around repeat incidents
+- Assess fit for MemoryIQ platform
+
+Discussion:
+Suhani walked through the current state: 4 regional NOC teams (Dallas, Frankfurt, Singapore, Sao Paulo) operating largely independently, incident data in ServiceNow, on-call via PagerDuty, engineering discussion happens in Slack but isn't connected back to tickets. RCA documents are written post-incident and stored in Confluence but engagement is low — she estimated fewer than 10% of RCAs get read again before a similar incident recurs.
+
+Q4 2025 incident review surfaced 3 cases of recurring root causes across regions that weren't cross-referenced. Leadership specifically asked why diagnosis took 6 hours on an issue with a documented prior RCA.
+
+Suhani was direct about skepticism toward "AI" tooling in general — cited a prior bad experience evaluating an AIOps vendor whose matching was "just fuzzy string search with a UI."
+
+Decisions:
+- Proceed to technical evaluation with VP Engineering (Rajiv Mehta)
+- Marcus to send technical architecture materials ahead of that call
+
+Action Items:
+- Marcus: send 2-pager + case study (done same day)
+- Suhani: loop in Rajiv Mehta by early Feb
+
+Next Meeting: Technical deep dive with Rajiv Mehta, TBD (target mid-Feb)

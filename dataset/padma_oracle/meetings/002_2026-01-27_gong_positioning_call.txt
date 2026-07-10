@@ -1,0 +1,25 @@
+MEETING NOTES
+
+Date: January 27, 2026
+Attendees: Robert Chase (Oracle, VP Sales), Padma Krishnan — Oracle; Sam Rutledge (MemoryIQ, SE), Diane Okafor
+Type: Positioning / Competitive Discussion
+
+Agenda:
+- Address Robert's Gong-overlap concern
+- Clarify Salesforce integration model
+
+Discussion:
+Sam drew a clear distinction between Gong (deal-cycle conversation intelligence, single-cycle scope) and MemoryIQ (persistent cross-time, cross-channel memory spanning account lifetime). Positioned MemoryIQ as complementary — explicitly noted Gong transcripts are an ingestion source for MemoryIQ at other customer accounts, not a competing product.
+
+On Salesforce: confirmed MemoryIQ writes enriched context back into Salesforce as activity/account notes rather than creating a parallel system of record — CRM remains authoritative for pipeline data. This directly addressed Robert's stated concern about tool sprawl and parallel sources of truth.
+
+Robert's tone shifted noticeably more open by the end of the call.
+
+Decisions:
+- Proceed to wider demo including senior AEs managing complex strategic accounts
+
+Action Items:
+- Robert: nominate 2 senior AEs for demo attendance
+- MemoryIQ: prepare demo scenario modeling a realistic account handoff
+
+Next Meeting: Wider team demo, targeting early February

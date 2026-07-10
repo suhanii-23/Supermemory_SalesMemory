@@ -1,0 +1,20 @@
+From: Marcus Chen <marcus.chen@memoryiq.ai>
+To: Suhani Kapoor <suhani.kapoor@nokia.com>
+CC: Rajiv Mehta <rajiv.mehta@nokia.com>
+Subject: Wider team demo — who else should be in the room?
+Date: Tue, 3 Mar 2026 09:05:00 -0800
+
+Suhani, Rajiv,
+
+Glad Thursday's call landed well — Rajiv, appreciate you saying so directly, that doesn't always happen.
+
+Next logical step is a working demo against a sample of real (or realistic) incident data rather than our canned demo environment. Two options:
+
+(a) We stand up a sandbox pre-loaded with 90 days of your anonymized ServiceNow export, so the demo isn't hypothetical
+(b) Standard demo environment, faster to schedule but less convincing to skeptics
+
+Given the room will likely include some skeptics, I'd lean (a), but it adds ~2 weeks for data prep and needs someone from your side to pull and scrub the export.
+
+Also — who from the regional NOC leads should be in this one? You mentioned four teams that don't share tooling well; worth having at least one of them see it live so this doesn't feel like a top-down mandate later.
+
+Marcus

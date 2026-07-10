@@ -1,0 +1,13 @@
+From: Suhani Kapoor <suhani.kapoor@nokia.com>
+To: Marcus Chen <marcus.chen@memoryiq.ai>
+CC: Angela Ford <angela.ford@nokia.com>, Rajiv Mehta <rajiv.mehta@nokia.com>
+Subject: Moving to proposal + procurement
+Date: Tue, 28 Apr 2026 09:47:00 -0700
+
+Marcus,
+
+As promised. Angela Ford from procurement is now looped in — she'll handle the MSA/vendor onboarding side. Rajiv's back and wants a formal proposal with pricing tied to the scope we discussed (4 regional NOC teams, ServiceNow + PagerDuty + Slack ingestion).
+
+I'd like to get a signed deal before our June planning cycle locks budget, so realistically we need paper moving by mid-May. Can you get us a proposal this week?
+
+Suhani

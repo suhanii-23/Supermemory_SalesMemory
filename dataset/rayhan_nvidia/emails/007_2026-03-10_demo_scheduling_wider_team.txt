@@ -1,0 +1,13 @@
+From: Rayhan Ahmed <rahmed@nvidia.com>
+To: Jordan Ellis <jordan.ellis@memoryiq.ai>
+CC: Devon Marsh <dmarsh@nvidia.com>, Priyanka Rao <prao@nvidia.com>, Carlos Nunez <cnunez@nvidia.com>
+Subject: Wider demo — Priyanka + Carlos included
+Date: Tue, 10 Mar 2026 09:12:00 -0800
+
+Jordan, Derek,
+
+Got Priyanka (our Director) and Carlos (Platform Team) on for next week. Heads up, honestly, on tone: Priyanka will be evaluating this against "could we build this ourselves" more than "does it technically work," and Carlos will likely be skeptical by default, that's just how he approaches new tooling asks. Neither of these is personal, it's just the culture here.
+
+I'd suggest leading with the dedicated deployment / IP exposure answers since those will matter to them more than raw feature depth.
+
+Rayhan

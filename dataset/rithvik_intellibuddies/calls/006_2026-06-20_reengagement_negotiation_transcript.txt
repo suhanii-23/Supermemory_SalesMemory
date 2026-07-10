@@ -1,0 +1,20 @@
+CALL TRANSCRIPT
+Date: June 20, 2026
+Participants: Rithvik Suresh (IntelliBuddies), Priya Nathan (MemoryIQ)
+Duration: 19 min
+
+RITHVIK: sorry again for going dark, term sheet stuff ate my entire life for like three weeks
+
+PRIYA: No worries at all, congrats again on closing, seriously.
+
+RITHVIK: thanks. so — round was smaller than we hoped, gave up more equity than i wanted. i know i already asked for a lot, but is there any way to get to 40 instead of 45? trying to be disciplined with the first checks we write post-close
+
+PRIYA: [pause] I checked internally before this call because I figured you might ask. I can't get to 40, that's below what I'm authorized to approve even at startup tier, and honestly I don't want to promise it and then have finance claw it back on you later, that's worse than just being straight now.
+
+RITHVIK: yeah, fair, i'd rather you tell me no than have it fall apart later
+
+PRIYA: What I can do — keep it at 45 but restore the full white-glove onboarding we'd normally strip at this tier, plus cut the implementation SLA from 90 days to 60. Real added value, even if the number on paper doesn't move.
+
+RITHVIK: [pause] ...okay yeah, that works. honestly it means more that you didn't just fold, if you'd said "sure, 40" I'd wonder what else was padded in the original number
+
+PRIYA: That's exactly why I didn't.

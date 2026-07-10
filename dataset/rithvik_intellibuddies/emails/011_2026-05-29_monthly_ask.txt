@@ -1,0 +1,8 @@
+From: Rithvik Suresh <rithvik@intellibuddies.ai>
+To: Priya Nathan <priya.nathan@memoryiq.ai>
+Subject: RE: Proposal — MemoryIQ for IntelliBuddies
+Date: Fri, 29 May 2026 18:47:00 -0700
+
+45k is closer to reasonable. can we do monthly instead of annual prepay though? 45k upfront is a real cash flow hit for us right now, we're mid-raise and i don't want to commit a chunk of runway to a single vendor before that closes
+
+also can it be 8 seats not 10, we don't need the extra 2 right now

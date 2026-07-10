@@ -1,0 +1,16 @@
+From: Rayhan Ahmed <rahmed@nvidia.com>
+To: Jordan Ellis <jordan.ellis@memoryiq.ai>
+Subject: decision — not the outcome I wanted
+Date: Wed, 24 Jun 2026 18:15:00 -0700
+
+Jordan,
+
+Not the news I hoped to send. Committee decided to greenlight the internal build, Carlos's team is picking it up next quarter. Priyanka's stated reasoning: the maintenance cost concern was real, but given how much of our infra already overlaps with what a build would need, the marginal cost of doing it in-house was judged low enough that it won out over recurring vendor spend, especially with budget scrutiny this cycle.
+
+I pushed back where I could. It genuinely wasn't unanimous — Priyanka herself said this was closer than she expected going in, and directly credited some of your TCO framing for making it a real debate instead of an easy call.
+
+For what it's worth, personally, I think we're going to end up rebuilding a worse version of what you already have and revisiting this in 18 months. I don't get to make that call though.
+
+Appreciate how straight you and Derek were throughout this, genuinely, especially not oversell-ing the "buy" case when it would've been easy to. If this doesn't work out the way Carlos's team hopes, I'll be the first one pushing to revisit.
+
+Rayhan

@@ -1,0 +1,16 @@
+SALESFORCE OPPORTUNITY RECORD — UPDATE
+
+Opportunity: Nokia — Network Incident Memory Platform
+Stage: Proposal Sent
+Amount: $180,000
+Probability: 65%
+Expected Close Date: 2026-06-30
+
+Champion: Suhani Kapoor — RE-ENGAGED as of 4/14, cause of prior silence confirmed (multi-region outage, war-room). No trust damage; if anything, outage reinforced business case.
+Economic Buyer: Tomas Lindqvist, CIO — confirmed identity, sign-off required, not yet engaged directly
+Procurement Contact: Angela Ford — newly introduced 4/28
+Competitor: None material; internal build-vs-buy remains the live alternative
+Next Action: Procurement/legal redline cycle; CIO briefing to be scheduled
+Risk: Timeline pressure — customer needs signature before June budget cycle lock. Contract/legal cycle is the critical path now, not champion buy-in.
+
+Notes: Pricing model (platform + source, not per-seat) landed well, no resistance on $180K headline number from either Rajiv or Suhani.

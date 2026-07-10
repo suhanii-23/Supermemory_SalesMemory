@@ -1,0 +1,17 @@
+From: Derek Lin <derek.lin@memoryiq.ai>
+To: Devon Marsh <dmarsh@nvidia.com>
+CC: Rayhan Ahmed <rahmed@nvidia.com>, Jordan Ellis <jordan.ellis@memoryiq.ai>
+Subject: RE: Recap from today
+Date: Tue, 3 Mar 2026 13:40:00 -0800
+
+Devon,
+
+1. Scale — we shard indices per-repo and use a two-stage retrieval (coarse filter then re-rank), tested up to ~500K issues/PRs at a comparable scale customer (not NVIDIA-scale, I'll be honest, that's larger than our largest current deployment, but the architecture is designed to horizontally scale, not something we'd need to redesign).
+
+2. IP exposure — we index issue/PR text, comments, and linked design docs, not raw source code diffs by default. Code-aware indexing is a separate opt-in module we have for a couple of customers, off unless you explicitly want it.
+
+3. Deployment — we do offer a dedicated single-tenant deployment option (not just logical multi-tenancy), including VPC-peered or on-prem-adjacent options for customers with this kind of requirement. This is a different commercial tier than our standard SaaS offering, worth knowing upfront given it affects both cost and implementation timeline.
+
+Happy to get into more depth live — want to get this in front of Priyanka (mentioned as Director) and Carlos directly rather than relay through email at this point, given the scale and deployment questions really are architecture decisions they'll own.
+
+Derek

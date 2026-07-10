@@ -1,0 +1,20 @@
+From: Marcus Chen <marcus.chen@memoryiq.ai>
+To: Suhani Kapoor <suhani.kapoor@nokia.com>
+Subject: RE: Cutting repeat network incidents at Nokia
+Date: Tue, 20 Jan 2026 11:03:00 -0800
+
+Suhani,
+
+Fair, no deck. Attached is a 2-pager on how the incident memory graph works and one anonymized case study from a Tier 1 carrier (redacted per their NDA, happy to name names live if useful).
+
+Short version of what we'd cover Tuesday:
+- How we ingest from ServiceNow/Remedy, PagerDuty, and Slack without engineers changing behavior
+- How the "have we seen this before" surfacing actually works at query time
+- Rough sense of what a rollout looks like for a network ops org your size
+
+Confirmed for Tue 1/27, 10am PT. I'll send a calendar invite with dial-in.
+
+Marcus
+
+[Attachment: memoryiq_network_incident_overview.pdf]
+[Attachment: case_study_tier1_carrier_redacted.pdf]

@@ -1,0 +1,10 @@
+#deal-nvidia-aiinfra
+
+jordan.ellis [8:45 AM]
+security lead (hana) sent requirements, this is a heavy one — right-to-audit clause, custom no-training language, breach SLA specific to pre-release tech info. told us 4-6 weeks minimum, no negotiating that timeline
+
+ben.okoro [8:50 AM]
+saw it, this is one of the more rigorous ones we've gotten, on par with defense-adjacent accounts honestly. I'll need claire on the custom contract language early, not at the end
+
+jordan.ellis [8:52 AM]
+looping her in now

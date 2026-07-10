@@ -1,0 +1,18 @@
+CALL TRANSCRIPT
+Date: June 16, 2026
+Participants: Elaine Cross (Oracle, CFO's office), Padma Krishnan (Oracle); Terrence Wu, Diane Okafor (MemoryIQ)
+Duration: 22 min
+
+TERRENCE: Elaine, I'll keep this tight — I know Padma's already given you the short version. Problem: account context is lost during rep handoffs, real cost example was a $2M renewal that nearly churned. Solution: persistent memory layer across CRM, email, meetings, and call transcripts. Cost: $300K annually, locked for 3 years. Where are things stuck right now?
+
+ELAINE: Padma tells me it's mostly resolved, two open legal items — liability cap and a termination-for-convenience premium. Is that accurate?
+
+TERRENCE: Accurate. Both are in active negotiation between our legal teams, I'd expect resolution within two to three weeks based on where things stood as of this week.
+
+ELAINE: And if those don't resolve favorably for us, does that change your recommendation, Padma?
+
+PADMA: No — both are reasonable positions on MemoryIQ's side given the deal structure, I don't expect either to become a blocker, just needs final legal sign-off.
+
+ELAINE: Okay. I'll give conditional approval now, contingent on those two items closing without material change to the economics we've already reviewed. Send me final terms once legal's done and I'll do a final sign-off, shouldn't need another call for that.
+
+TERRENCE: Understood, thank you for the time.

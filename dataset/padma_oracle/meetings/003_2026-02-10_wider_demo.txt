@@ -1,0 +1,23 @@
+MEETING NOTES
+
+Date: February 10, 2026
+Attendees: Padma Krishnan, Robert Chase, Nadia (Senior AE, healthcare vertical), second AE — Oracle; Sam Rutledge, Diane Okafor — MemoryIQ
+Type: Wider Team Demo
+
+Agenda:
+- Live demo of account handoff / memory scenario
+
+Discussion:
+Sam ran a scenario simulating a new AE inheriting a strategic account and querying prior stakeholder history. Nadia reacted strongly, describing the scenario as "eerily specific" to a real situation she'd experienced. Strong unscripted validation moment, similar in character to positive demo inflection points seen in other MemoryIQ deals.
+
+Padma set clear expectations post-demo: full security and legal review required before any production data access, likely spanning months given Oracle's internal process rigor. Also flagged the need for an executive sponsor above herself and Robert given anticipated deal size.
+
+Decisions:
+- Proceed to formal security review
+- Begin identifying appropriate executive sponsor for later in the cycle
+
+Action Items:
+- Oracle: security team (Ahmed Farouk) to send formal requirements
+- MemoryIQ: prepare for extended review timeline
+
+Next Meeting: Security review kickoff

@@ -1,0 +1,5 @@
+PROCUREMENT CONVERSATION NOTES
+Date: June 24, 2026
+Participants: Rithvik Suresh (IntelliBuddies), Priya Nathan (MemoryIQ), MemoryIQ Billing Ops (async)
+
+Final invoicing setup: quarterly billing against annual $45,000 ARR contract, first invoice due upon contract execution. Payment method: corporate card on file (startup preference over wire/ACH given smaller transaction size relative to typical MemoryIQ enterprise accounts). No PO process required — confirmed IntelliBuddies does not use formal purchase orders at their current size.

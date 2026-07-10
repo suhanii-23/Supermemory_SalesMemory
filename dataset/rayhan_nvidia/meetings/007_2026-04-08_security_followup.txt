@@ -1,0 +1,22 @@
+MEETING NOTES
+
+Date: April 8, 2026
+Attendees: Hana Yoshida — NVIDIA; Ben Okoro, Claire Dunmore — MemoryIQ
+Type: Security Review Follow-up
+
+Agenda:
+- Review draft custom contract language (no-training, right-to-audit)
+
+Discussion:
+Claire presented draft language for the custom no-training clause and right-to-audit provision requested by Hana. Hana requested minor revisions to the audit clause (specifying audit frequency limits — max once per 12 months absent a triggering security incident) but otherwise found the drafts acceptable.
+
+This meeting occurred during the period Rayhan was largely unresponsive on the commercial side (see sales_notes/003) — notable that the security review track continued to progress independently of the stalled build-vs-buy conversation, illustrating the value of running parallel workstreams.
+
+Decisions:
+- Security review effectively complete pending final audit-clause revision
+
+Action Items:
+- MemoryIQ: revise audit clause per Hana's frequency limit request
+- NVIDIA: Hana to provide final sign-off once revision received
+
+Next Meeting: N/A — security track considered closed as of this point

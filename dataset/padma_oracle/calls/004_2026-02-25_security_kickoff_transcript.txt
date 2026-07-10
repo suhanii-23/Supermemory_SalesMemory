@@ -1,0 +1,24 @@
+CALL TRANSCRIPT
+Date: February 25, 2026
+Participants: Ahmed Farouk (Oracle), Ben Okoro (MemoryIQ)
+Duration: 50 min
+
+AHMED: I'll be direct about scope — this is one of the more thorough reviews we run, because customer relationship data at your proposed scale includes PII of our customers' employees, not just our own data.
+
+BEN: Understood, and I'd expect that given what you're describing. Let's go through the list — SOC2 Type II, yes, current. ISO 27001, we have that as well, I'll include it even though you didn't explicitly ask, given the scope here.
+
+AHMED: Appreciated. Third-party penetration test — how recent, and was it truly third-party, not an internal red team calling itself independent?
+
+BEN: Genuinely third-party, we use an external firm, most recent test was five months ago, full report available, I can share the executive summary now and the full technical report under NDA.
+
+AHMED: I'll want the full report, not just the summary, for something at this data tier.
+
+BEN: Understood, that's normal for reviews at your depth, I wasn't expecting the summary to be sufficient.
+
+AHMED: Cross-border data transfer — do you have customers with EU data currently, and how do you handle that today?
+
+BEN: Yes, region-pinned deployment options, similar to what we've done for telecom customers with equivalent constraints. I'll bring the architecture diagram to the next session so this isn't just verbal.
+
+AHMED: Good. I want to be upfront, this review is going to take six to ten weeks realistically, possibly longer if anything in the pentest report or the questionnaire raises follow-up questions. That's not a reflection of concern about you specifically, it's just our process at this data-access tier.
+
+BEN: Understood, no expectation of rushing it.

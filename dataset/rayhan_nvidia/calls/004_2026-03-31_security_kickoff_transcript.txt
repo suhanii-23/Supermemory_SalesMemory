@@ -1,0 +1,24 @@
+CALL TRANSCRIPT
+Date: March 31, 2026
+Participants: Hana Yoshida (NVIDIA), Ben Okoro (MemoryIQ)
+Duration: 38 min
+
+HANA: I want to be upfront, our bar here is higher than a normal SaaS review. What we're indexing could include discussion of pre-release hardware and architecture. If that leaks, it's not a minor incident.
+
+BEN: Understood, and I'd expect nothing less given what you're describing. Let's go through your list. No-training — we already don't train shared models on customer data architecturally, but I hear you wanting stronger contractual language than our standard DPA.
+
+HANA: Correct. I want language that's unambiguous, no carve-outs, no "unless you opt in" — for this account specifically, opt-in isn't good enough, I need it off entirely, contractually guaranteed.
+
+BEN: That's reasonable given the sensitivity, we can do that, it's a straightforward carve-out in the contract even though it's not our default template.
+
+HANA: Right-to-audit — I want the ability to have a third-party auditor review your security controls, not just accept your SOC2 report at face value.
+
+BEN: We can accommodate that, most of our customers don't ask for it, so this would be somewhat custom, but it's not unreasonable given your risk profile. I'd want to scope frequency though, we can't have unlimited audit rights operationally.
+
+HANA: Fair, propose a frequency and I'll react to it.
+
+BEN: I'll get something to you within a week or two once legal drafts language for the no-training and audit clauses together.
+
+HANA: This whole thing is going to take 4-6 weeks minimum on my end regardless of your turnaround, just so you're not surprised by that.
+
+BEN: Understood, no expectation of rushing this.

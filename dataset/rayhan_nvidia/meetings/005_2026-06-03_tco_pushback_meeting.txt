@@ -1,0 +1,21 @@
+MEETING NOTES
+
+Date: June 3, 2026
+Attendees: Greg Simmons, Rayhan Ahmed, Priyanka Rao (async CC) — NVIDIA; Jordan Ellis — MemoryIQ
+Type: TCO Discussion / Pushback
+
+Agenda:
+- Review MemoryIQ's TCO framework against NVIDIA's internal build estimate
+
+Discussion:
+Greg presented NVIDIA's internal build cost estimate (0.75 FTE-year for v1) as materially lower than MemoryIQ's framework assumption (2 FTE-years), attributing the gap to reusable internal ML infrastructure NVIDIA already maintains for other projects. This substantially narrowed the apparent TCO advantage of buying.
+
+Jordan acknowledged the point as legitimate rather than disputing it, and redirected focus to ongoing maintenance/tuning cost as the more commonly underestimated component of a build decision, based on patterns observed elsewhere — this argument was later reported (per Rayhan) to have influenced Priyanka's thinking.
+
+Decisions:
+- No resolution reached; matter to go to internal committee decision meeting
+
+Action Items:
+- NVIDIA: schedule internal decision meeting (later confirmed for 6/17)
+
+Next Meeting: N/A — MemoryIQ not included in internal decision meeting

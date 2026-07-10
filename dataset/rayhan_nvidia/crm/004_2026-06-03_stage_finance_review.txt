@@ -1,0 +1,13 @@
+SALESFORCE OPPORTUNITY RECORD — UPDATE
+
+Opportunity: NVIDIA — Engineering Knowledge Memory Platform
+Stage: Finance/TCO Review
+Amount: $240,000
+Probability: 35% (revised up from 15% following reengagement, then under pressure again)
+Expected Close Date: 2026-06-30 (compressed — committee decision meeting scheduled 6/17)
+
+Champion: Rayhan Ahmed — re-engaged, still advocating, explicit that outcome is uncertain ("close to 50/50")
+Economic Buyer: Priyanka Rao — pending committee decision
+Competitor: Internal build — NVIDIA's own cost estimate for build (0.75 FTE-year) materially undercuts prior assumptions in MemoryIQ's TCO framework, narrowing the case for buy
+Next Action: Await internal committee decision (6/17); MemoryIQ excluded from that meeting
+Risk: CRITICAL — deal outcome entirely outside MemoryIQ's control at this stage, resting on internal committee dynamics

@@ -1,0 +1,26 @@
+CALL TRANSCRIPT
+Date: March 4, 2026
+Participants: Devon Marsh, Rayhan Ahmed (NVIDIA), Derek Lin, Jordan Ellis (MemoryIQ)
+Duration: 45 min
+
+DEVON: Walk me through code exposure. If I index a GitHub repo, are you touching the actual source diffs?
+
+DEREK: Not by default. We index issue and PR text, comments, and linked design docs. Code-aware indexing — actually looking at diffs — is a separate opt-in module, off unless you specifically turn it on.
+
+DEVON: And if we never turn it on, is there any scenario where code gets ingested anyway — like, does a PR comment that includes a code snippet get treated differently?
+
+DEREK: Good catch — a code snippet pasted into a comment would get indexed as part of the comment text, since it's just text at that point. If that's a concern, we can configure filtering to strip code blocks from ingested comment text specifically.
+
+DEVON: [pause] Okay, that's a real answer, not a dodge. I'll need that filtering on, to be honest, we have people paste stack traces with proprietary details in PR comments constantly.
+
+DEREK: Noted, we'll scope that into the technical requirements doc.
+
+DEVON: Deployment model — you mentioned single-tenant is possible?
+
+DEREK: Yes, dedicated deployment, different commercial tier than standard SaaS, but yes.
+
+DEVON: What's "different commercial tier" mean in practice, roughly?
+
+JORDAN: I don't want to throw out a number without it being grounded in your actual scope — let's get that into the formal proposal once we know final scale, but directionally, dedicated tier runs meaningfully above our standard SaaS pricing, not a small delta.
+
+DEVON: Fair, wanted a general sense, not a commitment.

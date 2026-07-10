@@ -1,0 +1,16 @@
+SALESFORCE OPPORTUNITY RECORD
+
+Opportunity: Oracle — Enterprise Sales Intelligence Platform
+Account: Oracle Corporation, Cloud Applications
+Owner: Diane Okafor
+Stage: Discovery
+Amount: $300,000 (est.)
+Probability: 15%
+Expected Close Date: 2026-08-01
+Lead Source: Referral (Workday customer)
+
+Champion: Padma Krishnan (VP, Cloud Applications) — strong initial engagement, clear quantified pain point
+Economic Buyer: TBD, likely CFO's office given anticipated deal size
+Competitor: Gong (partial overlap concern raised, not yet resolved)
+Next Action: Loop in VP Sales (Robert Chase) for day-to-day usage validation
+Risk: Buyer explicitly flagged extensive security/legal review upfront — plan for long cycle from the outset, not a later surprise

@@ -1,0 +1,13 @@
+#deal-nokia-networkops
+
+marcus.chen [7:10 AM]
+she's back. multi-region outage ate her last 2 weeks — dark humor, she pointed out the irony herself. deal's still alive, she wants to move but needs till end of month to loop procurement back in
+
+terrence.wu [7:12 AM]
+good, moving back to commit-ish. real outage during the sales cycle is actually a gift here, more ammo for the internal pitch
+
+marcus.chen [7:13 AM]
+yeah she said as much, said it's "a useful internal talking point." dark but effective
+
+terrence.wu [7:14 AM]
+make sure the proposal, when it goes out, references incident cost/MTTR reduction concretely, not generic ROI language. she's going to reuse our numbers in her own internal deck

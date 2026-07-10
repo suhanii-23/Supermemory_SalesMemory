@@ -1,0 +1,14 @@
+From: Padma Krishnan <padma.krishnan@oracle.com>
+To: Diane Okafor <diane.okafor@memoryiq.ai>
+Subject: Freeze lifted — resuming
+Date: Tue, 7 Apr 2026 10:45:00 -0700
+
+Diane,
+
+Freeze lifted last week, officially cleared to resume vendor evaluations above threshold as of yesterday. Good timing too — Ahmed tells me security review is close to done on his end, which puts us in a good spot to move quickly now.
+
+I want to get procurement formally engaged. Introducing Julie Tran, who handles vendor contracting for our org. Also — heads up, I need to bring in an executive sponsor above Robert and me for a deal this size, likely our CFO's office given the spend threshold. I'll scope that once we have real pricing on the table.
+
+Let's get a proposal moving.
+
+Padma

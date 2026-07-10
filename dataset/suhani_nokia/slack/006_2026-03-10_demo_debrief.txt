@@ -1,0 +1,16 @@
+#deal-nokia-networkops
+
+marcus.chen [5:02 PM]
+demo went really well. one of the regional leads recognized a planted incident and said "oh that's the Dallas thing" out loud, unprompted. can't script that
+
+terrence.wu [5:05 PM]
+that's a champion-forming moment right there. is suhani going to carry this internally or do we need to push
+
+marcus.chen [5:06 PM]
+she's carrying it. said she's taking it up the chain. also said security review is coming — klaus is going to want the full package, SOC2 etc
+
+terrence.wu [5:07 PM]
+get that queued with ben now, don't wait for the formal ask, telecom security reviews always take longer than people think
+
+marcus.chen [5:08 PM]
+already pinged ben below

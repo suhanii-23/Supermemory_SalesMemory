@@ -1,0 +1,36 @@
+CALL TRANSCRIPT
+Date: February 20, 2026
+Participants: Rajiv Mehta (Nokia), Suhani Kapoor (Nokia), Marcus Chen (MemoryIQ), Aisha Patel (MemoryIQ)
+Duration: 48 min
+
+RAJIV: Okay, I read the email answers. The residency piece — walk me through it, I want to understand where the vector embeddings actually live, not just where the raw text lives.
+
+AISHA: Good question, most vendors dodge that. Embeddings are generated and stored in the same region as the source data. We don't have a global embedding index that mixes regions — that was a specific design choice because two of our other telecom customers have the same constraint you do.
+
+RAJIV: And if I ask you to delete a region's data, does that purge the embeddings too or just the source docs?
+
+AISHA: Both. It's the same underlying store, embeddings aren't a separate copy sitting somewhere else.
+
+RAJIV: [pause] Okay. That's a better answer than I expected, ngl.
+
+MARCUS: [laughs] Low bar to clear, apparently.
+
+RAJIV: You have no idea. Next — the custom field thing. Our ServiceNow instance has like forty custom fields on the incident table at this point, it's a mess honestly, nobody who built the original schema still works here.
+
+AISHA: That's actually really common. Ingestion maps to whatever fields exist on the table, custom or not, as long as they're exposed via the Table API. We do a mapping pass during onboarding with your ServiceNow admin — usually a half day, sometimes a full day if the schema's particularly gnarly.
+
+RAJIV: Define gnarly.
+
+AISHA: I've seen worse than forty fields, if that's what you're asking.
+
+RAJIV: [laughs] Okay, fine. Last thing — precision. You said embedding-based semantic similarity. Give me actual numbers, not marketing.
+
+AISHA: For a comparable telecom deployment — anonymized, can't name them — we're around 78% precision at top-3 surfaced candidates. That means about 3 in 4 times, one of the top three suggestions is actually the right prior incident. It is not 95%, anyone telling you 95% on this kind of unstructured incident text is not being straight with you.
+
+RAJIV: That's... actually a believable number. Most vendors would've said 95 and I'd have hung up.
+
+SUHANI: [interjecting] Rajiv, you good on this or do you need more before we move to a demo?
+
+RAJIV: I want to see it against real-ish data before I'm sold, but nothing here is a dealbreaker. Let's do the sandbox thing.
+
+MARCUS: We'll get that scoped this week.

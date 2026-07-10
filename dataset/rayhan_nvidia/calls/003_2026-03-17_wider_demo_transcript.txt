@@ -1,0 +1,26 @@
+CALL TRANSCRIPT
+Date: March 17, 2026
+Participants: Rayhan Ahmed, Devon Marsh, Priyanka Rao, Carlos Nunez (NVIDIA); Jordan Ellis, Derek Lin (MemoryIQ)
+Duration: 50 min
+
+DEREK: [after demo walkthrough] Any questions on what you just saw?
+
+PRIYANKA: Yeah — I'll just say it directly. We already have vector search tooling built for other ML workloads internally. Why is this meaningfully better than us pointing that at our own GitHub/Slack/Confluence exports?
+
+DEREK: Honest answer — for a lot of companies, the differentiator is the engineering time it takes to build and maintain the retrieval quality, ranking, and cross-source linking well, not the raw technical capability of doing vector search at all. You clearly have people who could build a version of this. The question is whether that's the best use of their time versus what we already have built and tuned.
+
+PRIYANKA: That's a fair answer but it's also the answer every vendor gives.
+
+DEREK: [pause] That's fair too. I don't have a way to prove it to you on this call, only over time, or by being honest about where our numbers actually come from when we get to a cost comparison instead of hand-waving it.
+
+CARLOS: [first time speaking] The re-ranking step — is that a fine-tuned model or off-the-shelf?
+
+DEREK: Off-the-shelf base model with a re-ranking layer on top, tuned via the retrieval evaluation set, not a fully custom fine-tune per customer by default.
+
+CARLOS: [pause] Okay.
+
+RAYHAN: [to the room] Anything else before we let them go?
+
+PRIYANKA: Not right now. I want a real cost comparison against building this internally before I take a position either way.
+
+CARLOS: [quiet, non-committal nod, no verbal response]

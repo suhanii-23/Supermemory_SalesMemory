@@ -1,0 +1,19 @@
+#deal-nokia-networkops
+
+marcus.chen [8:02 AM]
+aisha, rajiv (VP eng) sent hard questions before he'll even take the call. custom SNOW schema, data residency EU/US, and he specifically called out "AI search that's really elasticsearch with a marketing budget"
+
+aisha.patel [8:10 AM]
+lol ok he's clearly been burned before. good, means he'll actually listen if we're straight with him
+
+aisha.patel [8:11 AM]
+i'll answer by email first so we're not doing live discovery on data residency, that one needs a diagram not a verbal answer. can you loop me on the thread
+
+marcus.chen [8:12 AM]
+done, you're cc'd
+
+aisha.patel [8:34 AM]
+sent. told him straight that similarity matching isn't 100% precision, anyone who tells him it is is lying. figured that lands better with an engineer than oversell
+
+marcus.chen [8:40 AM]
+good call

@@ -1,0 +1,23 @@
+MEETING NOTES
+
+Date: March 4, 2026
+Attendees: Devon Marsh, Rayhan Ahmed — NVIDIA; Derek Lin, Jordan Ellis — MemoryIQ
+Type: Technical Walkthrough (EM-level)
+
+Agenda:
+- Address Devon's written technical questions (scale, IP exposure, deployment model)
+
+Discussion:
+Derek walked through the two-stage retrieval architecture and its horizontal scaling design, transparently noting NVIDIA's proposed scale exceeds MemoryIQ's largest current deployment, though the underlying architecture was designed for this scale rather than requiring redesign.
+
+Confirmed code-aware indexing is opt-in and off by default — Devon's IP exposure concern was substantially addressed by this distinction (issue/PR text and comments only, not source diffs, by default).
+
+Dedicated single-tenant deployment confirmed available as a distinct commercial tier — flagged as pricing-relevant, to be reflected in future proposals.
+
+Decisions:
+- Devon satisfied enough to proceed to wider team demo including Priyanka and Carlos
+
+Action Items:
+- MemoryIQ: prepare deployment-tier-specific talking points for wider demo
+
+Next Meeting: Wider team demo, March 17

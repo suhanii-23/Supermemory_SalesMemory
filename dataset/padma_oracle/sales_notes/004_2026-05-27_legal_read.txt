@@ -1,0 +1,6 @@
+Private AE notes — Diane Okafor
+Re: Oracle — legal negotiation
+
+Monica (Oracle counsel) is thorough but not adversarial — every ask so far has a clear rationale (data sensitivity, deal size), not posturing for its own sake. Claire's instinct to price the termination-for-convenience risk as an optional premium rather than either flatly refusing or just eating the risk was smart — turns a potential standoff into a customer choice, and Julie (procurement) responded well to having an actual option rather than a take-it-or-leave-it.
+
+This is the kind of deal where conceding too fast actually looks worse — Oracle's own legal team operates at this level of rigor internally, they'd probably read an immediate cave on the liability cap as us not having done our own homework.

@@ -1,0 +1,23 @@
+MEETING NOTES
+
+Date: June 1, 2026
+Attendees: Rithvik Suresh (Founder) — IntelliBuddies; Priya Nathan (AE) — MemoryIQ
+Type: Billing Terms Discussion
+
+Agenda:
+- Resolve monthly vs. annual billing request
+
+Discussion:
+Rithvik explained cash flow sensitivity given an in-progress fundraise — did not want to commit a large upfront payment before the round closed. Priya explained MemoryIQ doesn't offer month-to-month below enterprise tier due to churn risk, but secured internal approval for quarterly billing on an annual term as a middle ground.
+
+Also discussed seat count — Rithvik requested reduction from 10 to 8 seats to match actual near-term usage; Priya agreed to hold pricing flat with grace room to grow into 10 seats later without renegotiation.
+
+Decisions:
+- Quarterly billing approved
+- Seat count set to 8 with grace room to 10
+
+Action Items:
+- MemoryIQ: update proposal terms accordingly
+- IntelliBuddies: Wei to review DPA before signature
+
+Next Meeting: N/A

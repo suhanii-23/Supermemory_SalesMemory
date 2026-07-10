@@ -1,0 +1,13 @@
+#deal-nokia-networkops
+
+marcus.chen [3:12 PM]
+heads up — rajiv mentioned offhand they looked at Moveworks for something adjacent last year and weren't impressed with the "AI" framing. worth knowing going into the demo, he's primed to be skeptical of anything marketed as AI-magic
+
+terrence.wu [3:15 PM]
+good flag. also check if BigPanda or PagerDuty's own AIOps stuff is anywhere in their stack already, that's more the direct overlap than moveworks
+
+marcus.chen [3:40 PM]
+asked suhani informally, she said they evaluated pagerduty's native correlation features and found it "fine for alert dedup, useless for RCA reuse" — different enough problem that i don't think it's a real competitive threat here, more of an internal build-vs-buy question
+
+terrence.wu [3:42 PM]
+build vs buy is the real competitor on this deal then. make sure the ROI story in the proposal accounts for that — eng time to build and maintain this in-house isn't free

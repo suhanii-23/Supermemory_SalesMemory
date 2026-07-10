@@ -1,0 +1,28 @@
+CALL TRANSCRIPT
+Date: June 16, 2026
+Participants: Angela Ford (Nokia), Claire Dunmore (MemoryIQ, Legal), Marcus Chen (MemoryIQ)
+Duration: 28 min
+
+CLAIRE: Okay, walking through the redline. Liability cap — we accepted 24 months, that's final on our end.
+
+ANGELA: Good, that was our main one.
+
+CLAIRE: Data deletion, 30 days, accepted as written. Auto-renewal, struck per your request.
+
+ANGELA: Subprocessor notice — we asked for 30 days, your markup came back at 20.
+
+CLAIRE: Right, I want to be straight with you on why — our subprocessor list updates through a quarterly infra review process, 30 days doesn't line up cleanly with that cadence operationally. 20 was the honest number, not a negotiating tactic.
+
+ANGELA: [pause] I'll take 20 back to Klaus, I don't think it's a dealbreaker but it's his call technically, not mine.
+
+CLAIRE: Understood. One addition on our side — given the residency requirements Klaus raised back in March, we want an explicit clause codifying the regional pinning, Section 4.3 in the doc I sent.
+
+ANGELA: That's actually good for us, more explicit is better, not worse, from a procurement standpoint.
+
+MARCUS: Any movement needed on payment terms, net 30 vs 45?
+
+ANGELA: Finance confirmed net 45 works for us if that's what MemoryIQ can do.
+
+MARCUS: Confirmed, we can do net 45 for a 2-year term.
+
+ANGELA: Good, I think we're close. I'll get Klaus's sign-off on the 20-day subprocessor window and circle back by end of week.

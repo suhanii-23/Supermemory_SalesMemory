@@ -1,0 +1,16 @@
+From: Jordan Ellis <jordan.ellis@memoryiq.ai>
+To: Greg Simmons <gsimmons@nvidia.com>
+CC: Rayhan Ahmed <rahmed@nvidia.com>, Priyanka Rao <prao@nvidia.com>
+Subject: RE: Proposal + TCO comparison — MemoryIQ for NVIDIA AI Infra
+Date: Thu, 5 Jun 2026 09:20:00 -0700
+
+Greg,
+
+That's a fair challenge, and if Carlos's team genuinely has reusable infra that gets a v1 to 0.75 FTE-years, that changes the math meaningfully — I won't pretend otherwise. I'd just flag two things worth stress-testing before the decision is final, not as a sales tactic but because I've seen this exact pattern before at other companies:
+
+1. Ongoing maintenance/improvement cost tends to be the underestimated part, not the initial build — retrieval quality degrades as data volume grows and needs continuous tuning, that's genuinely most of our own engineering headcount cost.
+2. The 0.75 FTE-year estimate — is that fully loaded including whoever owns it long-term, or just the initial build sprint?
+
+I'm not going to keep pushing past this point without new information, that's not useful to either of us. If the committee lands on build, I'd rather know clearly than keep the deal in limbo.
+
+Jordan

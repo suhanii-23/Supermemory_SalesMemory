@@ -1,0 +1,27 @@
+MEETING NOTES
+
+Date: July 9, 2026
+Attendees: Suhani Kapoor, Rajiv Mehta — Nokia; Marcus Chen, Nina Volkov (CS) — MemoryIQ
+Type: Kickoff Call
+
+Agenda:
+- Formal handoff from sales to customer success
+- Confirm implementation plan and timeline
+
+Discussion:
+Marcus formally introduced Nina as the named CSM. Nina had already reviewed the full deal history (demo feedback, security review notes, implementation scoping from June 18) so the call moved quickly without re-covering old ground — Suhani noted appreciation for not having to re-explain context.
+
+Confirmed 6-8 week implementation window, Dallas/Frankfurt wave one target: August 20. Rajiv confirmed API credential provisioning is scheduled for next week.
+
+Suhani flagged she'll be out on leave for two weeks in early August — Rajiv to be primary point of contact during that window.
+
+Decisions:
+- Wave one target go-live: August 20
+- Rajiv as backup POC during Suhani's leave (Aug 3-17)
+
+Action Items:
+- MemoryIQ: send implementation kickoff packet
+- Nokia: provision credentials by July 18
+- Nina: schedule weekly implementation check-ins
+
+Next Meeting: Weekly implementation check-in, July 16

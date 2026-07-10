@@ -1,0 +1,14 @@
+From: Rayhan Ahmed <rahmed@nvidia.com>
+To: Jordan Ellis <jordan.ellis@memoryiq.ai>
+Subject: decision meeting next week
+Date: Thu, 11 Jun 2026 17:40:00 -0700
+
+Jordan,
+
+Priyanka's pulling the committee together next Wednesday (6/17) to make the final call — her, Carlos, Greg, and me. Not inviting you to that one, wanted to be upfront rather than have you wonder why.
+
+I'll tell you straight after: I think it's close to 50/50 at this point, genuinely don't know which way it goes. I've made the case for buy as strongly as I can internally. Your point about maintenance cost being underestimated landed with Priyanka, for what it's worth, she brought it up unprompted in a side conversation with me.
+
+Will update you as soon as I know.
+
+Rayhan

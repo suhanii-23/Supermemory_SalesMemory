@@ -1,0 +1,17 @@
+From: Rayhan Ahmed <rahmed@nvidia.com>
+To: Jordan Ellis <jordan.ellis@memoryiq.ai>
+CC: Devon Marsh <dmarsh@nvidia.com>
+Subject: RE: Wider demo — Priyanka + Carlos included
+Date: Tue, 17 Mar 2026 17:50:00 -0800
+
+Jordan,
+
+Mixed but not bad. Priyanka's take, roughly paraphrased: "interesting, but I need to understand why this is meaningfully better than us building a retrieval layer over our existing tools in-house, given what we already have on the platform team."
+
+Carlos was quieter than I expected, asked good questions about the re-ranking approach but didn't say much about build-vs-buy directly, which I'm choosing to read as neutral rather than negative for now.
+
+Not a rejection, but I want to be honest with you — this is a real internal debate now, not a formality. I'm going to keep pushing because I genuinely think buying beats building here given our timeline pressure, but you should know the committee isn't unanimous.
+
+Next step Priyanka wants: security review, and a rough cost comparison against what she estimates a 2-engineer internal build would take (her estimate, not mine, I think it's optimistic on build timeline).
+
+Rayhan

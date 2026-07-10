@@ -1,0 +1,23 @@
+MEETING NOTES
+
+Date: July 14, 2026
+Attendees: Padma Krishnan, Robert Chase — Oracle; Diane Okafor, Nina Volkov (CS) — MemoryIQ
+Type: Kickoff Call
+
+Agenda:
+- Sales-to-CS handoff, confirm implementation sequencing
+
+Discussion:
+Diane formally introduced Nina as the named enterprise CSM. Nina had reviewed full deal history in advance, allowing the call to move directly into rollout planning rather than re-covering context. Confirmed 10-12 week implementation window for full rollout across Cloud Applications strategic accounts.
+
+Robert requested Nadia's team (the healthcare vertical account team from the February demo) be in the first rollout wave, given her enthusiasm and existing familiarity with the product — request approved.
+
+Decisions:
+- Wave one rollout: Nadia's team + 2 other senior AE pods, targeting first go-live within 4 weeks
+- Remaining ~145 accounts phased over following 8 weeks
+
+Action Items:
+- Oracle: provision Salesforce API credentials and Gong integration access
+- MemoryIQ: begin wave one onboarding immediately
+
+Next Meeting: Weekly implementation check-in, July 21

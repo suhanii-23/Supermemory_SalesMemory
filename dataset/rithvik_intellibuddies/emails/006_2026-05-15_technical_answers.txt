@@ -1,0 +1,19 @@
+From: Leo Kim <leo.kim@memoryiq.ai>
+To: Wei Zhang <wei@intellibuddies.ai>
+CC: Priya Nathan <priya.nathan@memoryiq.ai>, Rithvik Suresh <rithvik@intellibuddies.ai>
+Subject: RE: Great session — recap + next steps
+Date: Fri, 15 May 2026 09:44:00 -0700
+
+Wei,
+
+Solutions engineer here, Priya asked me to jump in on the technical side.
+
+1. Export — yes, full relational export (tickets, resolutions, and the links between them) available via API in JSON or CSV, not a flat dump. We've had a couple customers actually test this out during evaluation specifically because of exactly the concern you're raising, happy to give you sandbox access to try an export yourself before you buy anything.
+
+2. SLA — 99.9% uptime commitment, and to be direct: yes, if we're down, the memory surfacing feature is unavailable, but it's additive to your existing support tools, not a replacement. Your team can work tickets in Zendesk/Intercom normally regardless of our status.
+
+3. SOC2 — Type II report available, I'll have Priya send it under NDA since it's not something we distribute broadly.
+
+Let me know if you want that sandbox export access, can set it up same day.
+
+Leo

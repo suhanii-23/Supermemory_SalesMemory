@@ -1,0 +1,6 @@
+Private AE notes — Jordan Ellis
+Re: NVIDIA / Rayhan
+
+Strong technical champion, genuinely wants this to work, not just kicking tires. But he told us himself in the very first call that their platform team culture leans build-over-buy. Most reps would hear that and discount it as generic risk-speak. I don't think I should — he's an insider telling us exactly where the landmine is. Treat build-vs-buy as the #1 risk from day one, not something to discover later.
+
+He's not the economic buyer. Need to identify who actually signs off early, don't let this ride entirely on Rayhan's enthusiasm.

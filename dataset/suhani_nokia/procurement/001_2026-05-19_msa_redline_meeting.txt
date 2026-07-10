@@ -1,0 +1,12 @@
+PROCUREMENT CONVERSATION NOTES
+Date: May 19, 2026
+Participants: Angela Ford (Nokia, Procurement), Marcus Chen (MemoryIQ)
+Format: Call, notes taken by Marcus
+
+Angela walked through Nokia's standard redline requirements: liability cap extension (12mo to 24mo standard MemoryIQ term), explicit data deletion timeline, strike of auto-renewal clause, extended subprocessor notice period (30 days requested vs MemoryIQ's standard 15).
+
+Angela characterized these as boilerplate for Nokia's vendor contracts generally, not specific to concerns about MemoryIQ — confirmed this isn't a trust issue, just standard legal process for a vendor of this data-access profile.
+
+Asked about pricing flexibility at this contract volume — not aggressive, framed as routine due diligence question rather than a hard ask.
+
+Follow-up: Marcus to route redlines to Claire Dunmore (Legal) same day.

@@ -1,0 +1,20 @@
+CALL TRANSCRIPT
+Date: May 13, 2026
+Participants: Rayhan Ahmed (NVIDIA), Jordan Ellis (MemoryIQ)
+Duration: 20 min
+
+JORDAN: Hey — good to hear from you. Was starting to assume this had gone quiet for good.
+
+RAYHAN: Yeah, sorry, that's on me. April was a mess — quarter-end roadmap review plus a reorg announcement that had half the org, myself included, not sure what team we'd be on in a month. Not a great environment to be pushing a vendor decision in.
+
+JORDAN: Understandable. Where are things now?
+
+RAYHAN: Reorg settled, I'm still on the same team. But the build-vs-buy thing didn't go away, if anything it's more serious now — Carlos has actually started building something, not just talking about it. Priyanka wants a real financial comparison before she'll commit either direction, so she's pulling in Greg from finance.
+
+JORDAN: Okay. I'll be honest, that sounds like a harder path than a straightforward "yes let's do this," but at least it's a real process, not just stalling.
+
+RAYHAN: Yeah. I still think buy is the right call, for what it's worth, I've said that to Priyanka directly more than once. But I want to be straight that I don't know how it lands.
+
+JORDAN: Appreciate you being straight, genuinely, easier to work with than the alternative. Let's get me connected to Greg.
+
+RAYHAN: Doing that today.

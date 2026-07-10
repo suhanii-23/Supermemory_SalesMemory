@@ -1,0 +1,22 @@
+MEETING NOTES
+
+Date: May 19, 2026
+Attendees: Rayhan Ahmed, Greg Simmons (Finance) — NVIDIA; Jordan Ellis — MemoryIQ
+Type: Finance Introduction / Requirements Gathering
+
+Agenda:
+- Establish what Greg needs for a formal build-vs-buy cost comparison
+
+Discussion:
+Greg explained Priyanka has asked for a defensible TCO comparison before bringing a recommendation to her VP. He was explicit that he needs a real total cost of ownership picture, not a headline price, and that finance would independently assess the internal build cost estimate rather than take either side's framing at face value.
+
+Jordan committed to providing an honest comparison framework rather than a self-serving one, citing pattern data from comparable-scale internal build efforts MemoryIQ has observed at other customers.
+
+Decisions:
+- Jordan to deliver formal proposal + TCO framework within one week
+
+Action Items:
+- MemoryIQ: prepare TCO comparison framework
+- NVIDIA: Greg to independently validate Carlos's internal build cost estimate
+
+Next Meeting: Proposal walkthrough, pending document delivery

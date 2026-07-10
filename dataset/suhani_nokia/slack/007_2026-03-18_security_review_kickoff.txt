@@ -1,0 +1,13 @@
+#deal-nokia-networkops
+
+marcus.chen [7:20 AM]
+ben — nokia security lead (klaus) sent a formal list. SOC2 type II, CAIQ, dataflow diagram w/ subprocessors, encryption standards, IR policy, and he wants a live conversation on whether customer data trains shared models
+
+ben.okoro [7:45 AM]
+standard package, i can get 1-5 out today. the model training question i want to take live, that one's nuanced and i don't want it mangled in an email
+
+ben.okoro [7:46 AM]
+short answer for your sanity: no, we don't train shared models on customer data, tenant isolation is architectural not just policy. but the actual answer has caveats around opt-in benchmarking that klaus needs to hear properly
+
+marcus.chen [7:47 AM]
+appreciate it, will get you and klaus on a call this week

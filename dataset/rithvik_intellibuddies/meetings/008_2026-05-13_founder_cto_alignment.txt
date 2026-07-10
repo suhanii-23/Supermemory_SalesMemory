@@ -1,0 +1,13 @@
+MEETING NOTES
+
+Date: May 13, 2026
+Attendees: Rithvik Suresh, Wei Zhang — IntelliBuddies (internal, notes shared with Priya afterward by Rithvik informally)
+Type: Internal IntelliBuddies Alignment (relayed)
+
+Agenda:
+- Wei and Rithvik align internally before sending technical questions to MemoryIQ
+
+Discussion (as relayed by Rithvik):
+Wei flagged three non-negotiables before he'd support moving forward: data export guarantee, SLA clarity, and SOC2 documentation for their own downstream customer questionnaires. Rithvik agreed these were fair asks and said he'd let Wei drive the technical thread directly rather than relay questions secondhand, to avoid delay.
+
+Relevance: This explains the shift in email cadence starting 5/13 where Wei begins corresponding directly rather than through Rithvik — worth noting for future deals with founder+technical-cofounder buying pairs, direct access to the technical evaluator sped up the cycle noticeably.

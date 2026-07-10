@@ -1,0 +1,8 @@
+Private AE notes — Marcus Chen
+Re: Nokia — communication gap
+
+Two weeks silence after security docs went out. Genuinely unsure if this is a priority shift or something operational on their end. Suhani hasn't shown any pattern of being flaky so I'm inclined to assume something real happened rather than disinterest, but I can't rule out that Klaus found something in the security review he didn't like and it's being handled without me.
+
+Decided to send exactly one check-in, keep it low-key, not chase. If I don't hear back in another 2 weeks I'll try Rajiv directly as a secondary path in, but don't want to go around Suhani prematurely, she'd probably read that badly given how directly she's communicated so far.
+
+Downgrading probability in CRM to reflect uncertainty, not pessimism.

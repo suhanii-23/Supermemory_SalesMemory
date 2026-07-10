@@ -1,0 +1,7 @@
+EXECUTIVE MEETING NOTES
+Date: June 11, 2026
+Context: Internal MemoryIQ executive visibility, not a customer-facing meeting
+
+Terrence Wu (VP Sales) briefed David Reyes (CEO) on the NVIDIA opportunity ahead of the customer's internal decision meeting (scheduled 6/17), given the deal's size ($240K) and strategic logo value. Discussed whether any exec-to-exec outreach (David to Priyanka Rao) could help — decided against it, on the assessment that the decision was genuinely a rigorous internal cost analysis rather than a relationship or trust gap that an exec conversation could meaningfully move. Executive intervention risked appearing as pressure rather than value-add given the buying committee's demonstrated preference for substance over sales tactics throughout the cycle.
+
+Decision: no exec-to-exec outreach before the customer's internal decision.

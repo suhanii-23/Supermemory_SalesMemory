@@ -1,0 +1,18 @@
+From: Claire Dunmore <claire.dunmore@memoryiq.ai>
+To: Angela Ford <angela.ford@nokia.com>
+CC: Marcus Chen <marcus.chen@memoryiq.ai>, Suhani Kapoor <suhani.kapoor@nokia.com>
+Subject: RE: Proposal — MemoryIQ Network Incident Memory Platform — Redline v3
+Date: Tue, 16 Jun 2026 16:20:00 -0700
+
+Angela,
+
+Attached is redline v3. We accepted the 24-month liability cap, 30-day data deletion window, and struck auto-renewal as discussed. On subprocessor notice, we settled on 20 business days as a middle ground — 30 was difficult for us operationally given how our subprocessor list updates, but 20 gives your team meaningful time to object.
+
+One new item on our side: given the data residency requirements Klaus raised back in March, we've added an explicit EU/US regional pinning clause (Section 4.3) codifying what Aisha described in the architecture review. Wanted that in writing given the sensitivity.
+
+I believe this is close to final. Let me know if legal needs anything further before signature.
+
+Claire Dunmore
+General Counsel, MemoryIQ
+
+[Attachment: memoryiq_nokia_msa_redline_v3.pdf]

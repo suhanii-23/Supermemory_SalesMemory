@@ -1,0 +1,15 @@
+From: Padma Krishnan <padma.krishnan@oracle.com>
+To: Diane Okafor <diane.okafor@memoryiq.ai>
+CC: Robert Chase <robert.chase@oracle.com>, Sam Rutledge <sam.rutledge@memoryiq.ai>
+Subject: RE: Recap + next steps
+Date: Tue, 10 Feb 2026 16:30:00 -0800
+
+Diane,
+
+Strong session. One of the reps (Nadia, manages our largest healthcare vertical account) said the account-handoff scenario you showed was "eerily specific to something that happened to me last year." That's the reaction we want more of.
+
+Next steps on our end: this is going to need full security and legal review before it goes anywhere near production CRM data — I meant what I said in December, we don't cut corners here given what this touches. I'd plan for that to take real time, possibly months given how we operate internally, not weeks. I'd rather set that expectation now than have you surprised later.
+
+I'm also going to need a Director-level or VP sponsor above Robert and me for anything at the pricing tier this is likely to land at — will loop that in once we're further along.
+
+Padma

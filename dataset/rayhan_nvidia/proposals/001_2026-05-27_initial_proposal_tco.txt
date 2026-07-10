@@ -1,0 +1,7 @@
+PROPOSAL DISCUSSION — INITIAL TCO FRAMEWORK
+Date: May 27, 2026
+Related: Proposal sent to Greg Simmons / Priyanka Rao
+
+Pricing: $240,000 ARR, dedicated single-tenant deployment tier (required given Hana Yoshida's security review outcome). TCO framework built around comparative build-cost patterns observed at other customers — 2 FTE-years initial build, 0.5-1 FTE ongoing maintenance, with a noted tendency for internal estimates to run 40-60% under actual cost.
+
+Deliberately included a caveat that building might be the right call for NVIDIA specifically given their existing ML infrastructure — a departure from typical proposal framing, chosen because the buying committee (particularly Priyanka) had shown clear sensitivity to sales-y positioning throughout the cycle.

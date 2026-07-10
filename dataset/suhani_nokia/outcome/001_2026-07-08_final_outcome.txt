@@ -1,0 +1,24 @@
+FINAL OUTCOME RECORD
+
+Deal: Nokia — AI Network Incident Memory Platform
+Outcome: CLOSED WON
+Final Contract Value: $180,000 ARR, 2-year term (locked rate, no year-2 increase)
+Signature Date: July 8, 2026
+Sales Cycle Length: 5 months, 25 days (Jan 14, 2026 – Jul 8, 2026)
+
+Buying Committee (final roles):
+- Suhani Kapoor (Director, Network Ops) — Champion
+- Rajiv Mehta (VP Engineering) — Technical Buyer, became internal advocate post-sandbox demo
+- Klaus Berger (Security Lead) — Security gatekeeper, satisfied by transparency on subprocessors/model training
+- Angela Ford (Procurement) — Contract owner, standard redlines, no adversarial dynamic
+- Tomas Lindqvist (CIO) — Economic Buyer/final sign-off
+
+Key deal dynamics:
+- Strong technical skepticism at outset, overcome through radical transparency on limitations (precision numbers, "not 100%" framing) rather than oversell
+- One significant communication gap (3 weeks, April) caused by a real customer-side production outage — handled with patience, not aggressive follow-up, preserved trust
+- No pricing discount given; deal closed at full asking price with a 2-year term structure instead
+- Unscripted, real-data demo moment (regional NOC lead recognizing an actual past incident) was the single highest-impact moment in the sales cycle
+
+Handoff: Customer Success (Nina Volkov) assigned as CSM. Kickoff held July 9. Implementation targeting phased rollout, wave one (Dallas/Frankfurt) go-live August 20, 2026.
+
+Expansion potential: Noted as strong — all 4 regions purchased at once (no phased/pilot approach requested), indicating high organizational conviction. Revisit for cross-sell into adjacent Nokia business units at renewal.

@@ -1,0 +1,15 @@
+SALESFORCE OPPORTUNITY RECORD — FINAL
+
+Opportunity: Nokia — Network Incident Memory Platform
+Stage: Closed Won
+Amount: $180,000 ARR (2-year term, locked rate)
+Probability: 100%
+Close Date: 2026-07-08 (Actual)
+Original Expected Close: 2026-06-30 (slipped 8 days — CIO sign-off timing, not a material delay)
+
+Champion: Suhani Kapoor — strong internal champion throughout back half of cycle
+Economic Buyer: Tomas Lindqvist (CIO) — signed
+Contract Terms: 2-year term, locked rate, net 45 payment terms, 24-month liability cap, 30-day data deletion, 20-business-day subprocessor notice, no auto-renewal
+Implementation: Nina Volkov assigned CSM, kickoff scheduled 7/9, wave one (Dallas/Frankfurt) targeting go-live 8/20
+
+Notes: Full-cycle deal, cold outreach to signature in just under 6 months as anticipated. Key inflection points: sandbox demo (3/10) converted technical skeptic (Rajiv) to advocate; a real production outage in April reinforced urgency after a communication gap; CIO briefing (6/5) closed the loop on economic buyer sign-off in a single 15-minute call. Handed to CS 7/9.

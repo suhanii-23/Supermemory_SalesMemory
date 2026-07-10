@@ -1,0 +1,20 @@
+CALL TRANSCRIPT
+Date: June 24, 2026
+Participants: Rayhan Ahmed (NVIDIA), Jordan Ellis (MemoryIQ)
+Duration: 16 min
+
+RAYHAN: Yeah, so — we're going with the internal build. I wanted to tell you on a call instead of just an email.
+
+JORDAN: [pause] Appreciate you doing that. How close was it, really?
+
+RAYHAN: Closer than I expected honestly. Priyanka said as much herself. The maintenance-cost point you and Greg dug into on that call — that actually mattered, it wasn't just a throwaway argument, she brought it up unprompted afterward.
+
+JORDAN: I won't pretend I'm not disappointed, but I don't think this was us losing on trust or product, it sounds like a genuinely reasonable call given the infra you already have.
+
+RAYHAN: Yeah, I think that's fair. Between us — I think we're going to end up rebuilding a worse version of what you have and revisiting this in a year, year and a half. I don't get final say on that though.
+
+JORDAN: If that happens, I'd genuinely like to hear from you first before anyone else.
+
+RAYHAN: You will. And for what it's worth, I'd work with you guys again in a heartbeat regardless of how this went, you were straight with us the entire way, that's rare.
+
+JORDAN: That means a lot, thank you. Good luck with the build.

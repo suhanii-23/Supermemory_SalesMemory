@@ -1,0 +1,14 @@
+PROCUREMENT CONVERSATION NOTES
+Date: June 16, 2026
+Participants: Angela Ford (Nokia, Procurement), Claire Dunmore (MemoryIQ, Legal), Marcus Chen (MemoryIQ)
+Format: Call, notes taken by Marcus (see also calls/008 transcript)
+
+Final terms agreed:
+- Liability cap: 24 months fees (Nokia ask, accepted)
+- Data deletion: 30 days post-termination (Nokia ask, accepted)
+- Auto-renewal: struck entirely (Nokia ask, accepted)
+- Subprocessor notice: 20 business days (compromise from Nokia's 30-day ask; MemoryIQ explained operational constraint tied to quarterly infra review cadence — Angela to confirm acceptable with Klaus)
+- New clause added by MemoryIQ: explicit EU/US regional data pinning (Section 4.3), addressing security review finding from March
+- Payment terms: net 45 (Nokia ask, accepted, tied to 2-year term)
+
+Angela indicated this should close out procurement's open items pending Klaus's sign-off on the subprocessor notice compromise.

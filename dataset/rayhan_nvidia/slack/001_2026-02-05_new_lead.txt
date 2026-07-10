@@ -1,0 +1,13 @@
+#deal-nvidia-aiinfra (created by jordan.ellis)
+
+jordan.ellis [9:20 AM]
+huge logo potential, inbound from an NVIDIA senior infra engineer, wants deep technical eval not a sales demo
+
+terrence.wu [9:25 AM]
+NVIDIA, nice. heads up though — big tech / hardware companies with strong internal platform teams are notoriously build-happy, don't get blinded by the logo, qualify build-vs-buy risk early
+
+jordan.ellis [9:26 AM]
+already sensing that, he explicitly asked for someone technical, getting derek on this one
+
+terrence.wu [9:27 AM]
+good call, derek's infra background will matter a lot here

@@ -1,0 +1,10 @@
+#deal-oracle-cloudapps
+
+diane.okafor [8:30 AM]
+security requirements came in from ahmed. this is the heaviest one I've seen — third-party pentest results, 140 question vendor questionnaire, cross-border data transfer docs, the works. 6-10 weeks estimated
+
+ben.okoro [8:40 AM]
+saw the questionnaire, it's thorough but nothing we can't answer, we've been through similar depth before. going to need a few days to pull the pentest report together with our security vendor, that's the slowest piece
+
+terrence.wu [8:42 AM]
+fine, let it take the time it takes, do not rush documentation on a review this rigorous, a mistake here costs more than the delay

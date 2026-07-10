@@ -1,0 +1,16 @@
+From: Suhani Kapoor <suhani.kapoor@nokia.com>
+To: Marcus Chen <marcus.chen@memoryiq.ai>
+Subject: RE: Cutting repeat network incidents at Nokia
+Date: Thu, 16 Jan 2026 07:52:00 -0800
+
+Marcus,
+
+Timing is decent. We closed out our Q4 incident review last week and "we've seen this exact failure before" came up in three separate RCAs. Not a good look when leadership asks why it took 6 hours to identify a root cause we'd already documented in March.
+
+I don't have 20 minutes this week but next Tuesday works. Send me something short beforehand, I don't want a generic sales deck.
+
+Suhani
+
+Suhani Kapoor
+Director, Network Operations
+Nokia

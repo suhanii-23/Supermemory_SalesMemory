@@ -1,0 +1,19 @@
+From: Priya Nathan <priya.nathan@memoryiq.ai>
+To: Rithvik Suresh <rithvik@intellibuddies.ai>
+CC: Wei Zhang <wei@intellibuddies.ai>
+Subject: Great session — recap + next steps
+Date: Fri, 8 May 2026 11:30:00 -0700
+
+Rithvik, Wei,
+
+Good demo, thanks for the sharp questions. Recapping what we covered:
+
+- Ingestion from Zendesk, Slack (#support, #eng-oncall), and GitHub issues
+- The "we told this customer already" surfacing you asked about specifically — showed it live against the sample dataset
+- Wei's question on data export: confirmed full export via API at any time, no lock-in, contract includes explicit data portability language
+
+Wei, you mentioned wanting to see the actual API docs before going further — attached. Rithvik, next logical step is pricing — how many seats are we talking, is it your whole 12-person team or just support + eng?
+
+Priya
+
+[Attachment: memoryiq_api_reference.pdf]

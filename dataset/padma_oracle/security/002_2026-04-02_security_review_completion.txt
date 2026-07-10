@@ -1,0 +1,6 @@
+SECURITY REVIEW MEETING NOTES
+Date: April 2, 2026
+Attendees: Ahmed Farouk (Oracle), Ben Okoro (MemoryIQ)
+Format: Async document review + brief call, during budget freeze period
+
+Full penetration test report, completed vendor security questionnaire, region-pinned architecture diagrams, and subprocessor risk assessments all reviewed and accepted without escalation. Ahmed confirmed security review substantively complete just before the budget freeze lifted — meaning the account was fully diligence-ready the moment commercial activity resumed (April 7), a meaningful contributor to the deal closing within a comparable overall timeframe to what was originally projected despite the freeze.

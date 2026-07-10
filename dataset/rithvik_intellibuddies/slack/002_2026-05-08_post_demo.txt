@@ -1,0 +1,10 @@
+#deal-intellibuddies
+
+priya.nathan [11:35 AM]
+demo went well, founder (rithvik) is a fast mover, CTO (wei) is the classic "burned by vendor lock-in before" type, asked about data export like 3 times
+
+priya.nathan [11:36 AM]
+already sent him the api docs proactively, figure better to over-answer than have him stew on it
+
+leo.kim [11:40 AM]
+smart, that type usually just needs to see the door is unlocked, they rarely actually walk through it. happy to jump in if he wants deeper technical follow up

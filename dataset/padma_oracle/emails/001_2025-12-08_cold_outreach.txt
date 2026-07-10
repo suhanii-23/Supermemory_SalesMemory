@@ -1,0 +1,15 @@
+From: Diane Okafor <diane.okafor@memoryiq.ai>
+To: Padma Krishnan <padma.krishnan@oracle.com>
+Subject: A referral from Maria Delgado (Workday) — enterprise sales memory
+Date: Mon, 8 Dec 2025 10:05:00 -0800
+
+Padma,
+
+Maria Delgado at Workday suggested I reach out — she's been using MemoryIQ for about six months across her strategic accounts team and mentioned you'd raised similar frustrations at a conference dinner: stakeholder context getting lost between reps, proposals referencing things that were already rejected, account history scattered across email/CRM/meeting notes with no single source of truth.
+
+We built MemoryIQ specifically for this — an AI layer that continuously remembers every touchpoint across a strategic account (email, meetings, CRM, proposals, internal Slack discussion) so account teams stop rediscovering context that already exists.
+
+Given Oracle Cloud Applications' account complexity, I'd guess this resonates more than most. Worth 20 minutes in the new year, or is this a bad time given year-end?
+
+Diane Okafor
+Enterprise Account Executive, MemoryIQ

@@ -1,0 +1,10 @@
+#deal-nvidia-aiinfra
+
+jordan.ellis [10:30 AM]
+rayhan flagged something important — their platform team lead (carlos) is a default-skeptic on buying tools, strong build-internally culture. this could be the whole ballgame
+
+terrence.wu [10:35 AM]
+noted, add build-vs-buy as the #1 risk in CRM now, not later. what's rayhan's read on how winnable that is
+
+jordan.ellis [10:37 AM]
+he thinks buy is the right call and is willing to advocate, but he was upfront it's not his call alone. good champion, not sole decision maker

@@ -1,0 +1,15 @@
+SALESFORCE OPPORTUNITY RECORD — UPDATE
+
+Opportunity: Oracle — Enterprise Sales Intelligence Platform
+Stage: Technical Validation
+Amount: $300,000
+Probability: 40%
+Expected Close Date: 2026-08-01
+
+Champion: Padma Krishnan — confirmed
+Technical/Usage Buyer: Robert Chase (VP Sales) — initial skepticism (Gong overlap, tool sprawl) resolved via clear positioning; now supportive
+Competitor: Gong — resolved as complementary, not competitive, via ingestion-source framing
+Next Action: Security review kickoff (Ahmed Farouk)
+Risk: Long review timeline expected (months, per buyer's own estimate) — manage forecast accordingly, do not overcommit near-term close date
+
+Notes: Strong unscripted demo validation moment (Nadia, senior AE, recognized a real account scenario). Committee engagement broadening appropriately (VP Sales now bought in).

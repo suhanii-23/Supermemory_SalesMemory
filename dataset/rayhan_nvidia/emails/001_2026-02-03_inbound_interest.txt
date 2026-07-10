@@ -1,0 +1,13 @@
+From: Rayhan Ahmed <rahmed@nvidia.com>
+To: sales@memoryiq.ai
+Subject: Engineering knowledge memory — eval interest
+Date: Tue, 3 Feb 2026 14:20:00 -0800
+
+Hi,
+
+Saw MemoryIQ mentioned in a colleague's notes from a platform infra conference. I'm on the AI infra team here, and we've got a recurring problem: architecture decisions get made in a design review, documented (sometimes) in a doc nobody finds again, and six months later someone proposes the exact thing we already rejected, or re-implements something we already built and abandoned.
+
+I'd like to understand what MemoryIQ actually does with GitHub issues, Slack threads, and design review docs specifically — most "engineering memory" pitches I've seen are glorified search. Is there someone I can talk to who can go deep technically, not just do a sales demo?
+
+Rayhan Ahmed
+Senior AI Infrastructure Engineer, NVIDIA

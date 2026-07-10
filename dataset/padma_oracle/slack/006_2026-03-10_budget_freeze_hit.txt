@@ -1,0 +1,10 @@
+#deal-oracle-cloudapps
+
+diane.okafor [5:30 PM]
+bad news. oracle-wide discretionary spend freeze just hit, effective immediately. padma told me directly, company wide not specific to us, security review can continue but nothing commercial moves until it lifts
+
+terrence.wu [5:35 PM]
+okay, that's actually about the best version of bad news — she told you clearly and fast instead of letting it go quiet and making you guess. move this to "paused, not dead" in forecast, not closed lost, not commit. and let security review keep running so we're ready to move fast whenever it lifts
+
+diane.okafor [5:37 PM]
+agreed, that's the plan

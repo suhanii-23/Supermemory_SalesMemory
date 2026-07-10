@@ -1,0 +1,13 @@
+From: Rayhan Ahmed <rahmed@nvidia.com>
+To: Jordan Ellis <jordan.ellis@memoryiq.ai>
+CC: Devon Marsh <dmarsh@nvidia.com>
+Subject: RE: Recap from today
+Date: Tue, 17 Feb 2026 11:30:00 -0800
+
+Jordan,
+
+Looping in Devon, my EM. Devon — this is the tool I mentioned, could genuinely cut down the "we already tried this" rediscovery cycle on the platform team. Worth a technical look.
+
+Fair warning to both of you — our platform team (led by Carlos on the tooling side) has strong opinions about building internal tools rather than buying. Don't be surprised if build-vs-buy comes up early and often. I still think this is worth pursuing given the scope of what you're proposing to solve, that's a lot to build well internally.
+
+Rayhan

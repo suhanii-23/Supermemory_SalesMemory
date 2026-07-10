@@ -1,0 +1,13 @@
+SALESFORCE OPPORTUNITY RECORD — UPDATE
+
+Opportunity: IntelliBuddies — Customer Support Memory Platform
+Stage: Negotiation (stalled)
+Amount: $45,000
+Probability: 40% (downgraded from 55%)
+Expected Close Date: 2026-07-04 (at risk)
+
+Risk: FLAGGED — 2 weeks silence following DPA delivery (6/6). Single check-in sent 6/18, no response yet at time of this entry. Cause unknown.
+Champion: Rithvik Suresh — unresponsive, uncharacteristic given prior fast-moving cadence
+Next Action: Awaiting response to check-in; will not over-pursue given small deal size relative to sales capacity
+
+Notes: Deal downgraded to "upside" internally per Slack discussion. Low urgency to chase aggressively given ACV size, but genuine uncertainty on cause of silence.

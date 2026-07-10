@@ -1,0 +1,24 @@
+MEETING NOTES
+
+Date: June 5, 2026
+Attendees: Tomas Lindqvist (Nokia, CIO), Suhani Kapoor — Nokia; Terrence Wu (MemoryIQ, VP Sales), Marcus Chen — MemoryIQ
+Type: Executive Briefing
+
+Agenda:
+- 15-minute exec-level overview for CIO sign-off
+
+Discussion:
+Terrence led with a technical framing given Tomas's engineering background rather than a generic platform pitch — walked through the incident memory concept using the Dallas RCA reuse example from the March demo, which Tomas had apparently already heard about secondhand from the NOC leads.
+
+Tomas asked two questions: (1) what happens to this data if Nokia ever terminates the contract, and (2) whether this creates a single point of failure if NOC teams become dependent on it during an active incident. Terrence addressed both — pointed to the 30-day data deletion clause already in redline, and clarified the platform is additive/advisory, not a replacement for existing runbooks.
+
+Tomas gave verbal sign-off pending final contract terms, deferred formal approval to after legal closes redlines.
+
+Decisions:
+- CIO sign-off contingent on final MSA terms, expected formality once legal finishes
+
+Action Items:
+- Nokia: Tomas to provide written sign-off once MSA is finalized
+- MemoryIQ: keep CIO cc'd on final signature email as courtesy
+
+Next Meeting: N/A

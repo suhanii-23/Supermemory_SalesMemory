@@ -1,0 +1,8 @@
+Private AE notes — Marcus Chen
+Re: Nokia / Suhani Kapoor
+
+Suhani is sharp and has zero patience for fluff, said so almost verbatim on the call. This is good for us long-term (she'll close fast once convinced) but bad if we oversell anything even slightly — she will remember and hold it against us.
+
+She got burned by an AIOps vendor before, didn't name them but description sounds like it could be Moveworks or one of the BigPanda-adjacent players. Need to lean hard into "we'll show you the precision numbers, not just claim them."
+
+Her real motivator isn't the tech, it's optics with leadership — the six-hour diagnosis thing clearly stung. Keep the ROI story tied to that specific pain, not generic "AI memory" framing.

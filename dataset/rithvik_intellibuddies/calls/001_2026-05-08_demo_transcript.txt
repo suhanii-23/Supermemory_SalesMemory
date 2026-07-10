@@ -1,0 +1,32 @@
+CALL TRANSCRIPT
+Date: May 8, 2026
+Participants: Rithvik Suresh, Wei Zhang (IntelliBuddies), Priya Nathan (MemoryIQ)
+Duration: 29 min
+
+PRIYA: So let me pull up a scenario close to what you described — a customer reports a bug that support already flagged as "known, fix coming" three months back.
+
+RITHVIK: yes, this, exactly this, this happens like weekly
+
+PRIYA: [typing] Okay, query is "payment webhook failing intermittently" — and here's what comes back. Top result, a Zendesk ticket from February with the resolution note "known issue, engineering fix targeted for March release," linked to a GitHub issue that's still open.
+
+RITHVIK: wait so it shows the github issue is still open even though support said "fix coming"
+
+PRIYA: Right, that's actually one of the more useful parts — it connects the support promise to the actual engineering state, so you can catch it when support tells someone "fixed" but the ticket's still open, or vice versa like here.
+
+WEI: [interrupting] okay before we go further — if we stop paying you tomorrow, what happens to this data, can we get it out?
+
+PRIYA: Yes — full export via API, tickets, resolutions, and the links between them, not just raw text dumps.
+
+WEI: in what format
+
+PRIYA: JSON or CSV, your choice, preserves the relational structure either way.
+
+WEI: okay. i've had a vendor tell me "yes you can export" before and it turned out to mean "export the raw ticket text with none of our enrichment," which is basically useless
+
+PRIYA: Fair, that's a common trick. I can set you up sandbox access to try an actual export yourself rather than take my word for it, if that would help.
+
+WEI: yeah, actually, that would help a lot
+
+RITHVIK: [laughs] he does this every single vendor call, it's like a ritual at this point
+
+PRIYA: Better to find out now than three months in, that's completely fair.

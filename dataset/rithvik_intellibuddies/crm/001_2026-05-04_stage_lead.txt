@@ -1,0 +1,16 @@
+SALESFORCE OPPORTUNITY RECORD
+
+Opportunity: IntelliBuddies — Customer Support Memory Platform
+Account: IntelliBuddies (seed-stage startup, 12 employees)
+Owner: Priya Nathan
+Stage: Lead / Inbound
+Amount: $58,000 (est., anchor)
+Probability: 25%
+Expected Close Date: 2026-07-04
+Lead Source: Inbound (website/sales@ email)
+
+Champion: Rithvik Suresh (Founder) — high initial engagement, fast-moving
+Economic Buyer: Rithvik Suresh (Founder controls budget directly, no separate approval layer)
+Competitor: Fin (Intercom) mentioned as bundled adjacent alternative, not a direct competitor
+Next Action: Schedule live demo
+Risk: Budget size relative to headcount — likely to compress from initial anchor pricing

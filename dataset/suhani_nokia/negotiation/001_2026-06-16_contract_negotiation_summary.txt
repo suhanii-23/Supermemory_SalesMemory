@@ -1,0 +1,18 @@
+CONTRACT NEGOTIATION SUMMARY
+Deal: Nokia — Network Incident Memory Platform
+Negotiation period: May 19 – June 16, 2026
+Participants: Angela Ford (Nokia, Procurement), Klaus Berger (Nokia, Security, indirect), Claire Dunmore (MemoryIQ, Legal), Marcus Chen (MemoryIQ, AE)
+
+Summary of full negotiation arc:
+
+Opening position (Nokia, May 19): 24-month liability cap (up from MemoryIQ standard 12mo), explicit 30-day data deletion clause, strike auto-renewal, 30-day subprocessor notice (up from MemoryIQ standard 15).
+
+MemoryIQ response (May 22): Accepted liability cap, data deletion, and auto-renewal strike outright as reasonable and consistent with prior enterprise deals. Held firm on headline pricing ($180K) but offered a 2-year rate lock or additional implementation hours as alternative value levers rather than a discount.
+
+Nokia response: Selected 2-year rate lock. No further pushback on pricing.
+
+Final sticking point: subprocessor notice period. Nokia wanted 30 days; MemoryIQ's operational subprocessor review cadence (quarterly) made 30 days impractical to guarantee reliably. Settled at 20 business days as a good-faith compromise, with MemoryIQ agreeing to add an explicit EU/US data residency pinning clause (Section 4.3) as a trust-building addition not originally requested.
+
+Payment terms moved from standard net 30 to net 45, tied to the 2-year term — considered a reasonable trade given the term-length benefit to MemoryIQ.
+
+Final agreement reached June 16, redline v3. No pricing discount was ultimately given — deal closed at full $180K ARR headline value with better structural terms.

@@ -1,0 +1,15 @@
+From: Priya Nathan <priya.nathan@memoryiq.ai>
+To: Rithvik Suresh <rithvik@intellibuddies.ai>
+CC: Wei Zhang <wei@intellibuddies.ai>
+Subject: Proposal — MemoryIQ for IntelliBuddies
+Date: Thu, 21 May 2026 15:10:00 -0700
+
+Rithvik,
+
+Attached formal proposal: $58,000 ARR, annual term, up to 15 seats (room to grow past your current 8), full ingestion (Zendesk, Slack, GitHub), dedicated onboarding support.
+
+I know that's probably more than you were picturing given your team size — our pricing is built around outcome/value for enterprise accounts by default, but I want to be upfront that we do have a startup tier structure I can explore if $58K doesn't work for where you are right now. Let me know honestly where your budget reality is and I'll see what I can do.
+
+Priya
+
+[Attachment: memoryiq_proposal_intellibuddies_v1.pdf]

@@ -1,0 +1,22 @@
+CALL TRANSCRIPT
+Date: June 5, 2026
+Participants: Tomas Lindqvist (Nokia, CIO), Suhani Kapoor — Nokia; Terrence Wu, Marcus Chen — MemoryIQ
+Duration: 17 min
+
+TERRENCE: Tomas, thanks for the time, I know these are usually a waste of your fifteen minutes, I'll try not to make this one of those.
+
+TOMAS: Appreciated. I've heard the Dallas story secondhand already, so you don't need to sell me on the demo. Tell me what happens if we terminate — what happens to our data.
+
+TERRENCE: 30-day deletion window post-termination, already in the redline your procurement team has. Full purge, embeddings included, not just source docs.
+
+TOMAS: Good. Second question — does this become a single point of failure? If NOC is depending on this during an active incident and it's down, are we worse off than before we had it?
+
+TERRENCE: Fair concern. It's additive — advisory layer on top of existing runbooks, not a replacement for them. If it's unavailable, engineers fall back to exactly the process they use today, nothing changes structurally.
+
+TOMAS: [pause] Okay. That's the answer I wanted to hear, some vendors try to make themselves load-bearing on purpose so you can't leave.
+
+TERRENCE: We'd rather earn renewal than force it.
+
+TOMAS: Fine. I'll sign off pending final terms from legal. Suhani, keep me posted.
+
+SUHANI: Will do. Thanks Tomas.

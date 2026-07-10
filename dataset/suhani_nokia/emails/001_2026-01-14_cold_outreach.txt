@@ -1,0 +1,19 @@
+From: Marcus Chen <marcus.chen@memoryiq.ai>
+To: Suhani Kapoor <suhani.kapoor@nokia.com>
+Subject: Cutting repeat network incidents at Nokia
+Date: Tue, 14 Jan 2026 09:14:00 -0800
+
+Hi Suhani,
+
+I came across your name via a mutual connection (Priya Ramaswamy, formerly Ericsson, now at Ciena) who mentioned Nokia's network ops team has been heads-down on reducing MTTR across the RAN incident queue.
+
+I run enterprise sales at MemoryIQ. We built an AI memory layer that sits across incident tickets, postmortems, on-call Slack threads, and RCA docs so that when a similar outage pattern shows up six months later, the engineer on call actually sees the prior root cause instead of re-diagnosing from scratch. A couple of our telecom customers were seeing the same fiber/transport incidents get re-opened and re-investigated 3-4 times a year before rolling this out.
+
+Would it be worth 20 minutes to see if this maps to a problem you're actually dealing with, or am I off base?
+
+Best,
+Marcus
+
+Marcus Chen
+Enterprise Account Executive, MemoryIQ
+marcus.chen@memoryiq.ai | (415) 555-0138

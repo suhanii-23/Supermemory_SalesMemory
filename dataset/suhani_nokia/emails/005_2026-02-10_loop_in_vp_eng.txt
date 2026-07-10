@@ -1,0 +1,13 @@
+From: Suhani Kapoor <suhani.kapoor@nokia.com>
+To: Marcus Chen <marcus.chen@memoryiq.ai>
+CC: Rajiv Mehta <rajiv.mehta@nokia.com>
+Subject: RE: Recap + next steps from Tuesday
+Date: Tue, 10 Feb 2026 08:20:00 -0800
+
+Marcus,
+
+Looping in Rajiv (VP Eng, owns the platform side of NOC tooling). Rajiv — this is the incident memory tool I mentioned in staff meeting. Worth 30 min to see if the architecture is sane before we spend more cycles on it.
+
+Rajiv, can you find time in the next two weeks? I'd rather not drag this out — either it works with our stack or it doesn't.
+
+Suhani

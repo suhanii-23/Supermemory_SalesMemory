@@ -1,0 +1,32 @@
+CALL TRANSCRIPT
+Date: May 27, 2026
+Participants: Monica Sable, Julie Tran (Oracle), Claire Dunmore, Diane Okafor (MemoryIQ)
+Duration: 45 min
+
+MONICA: Liability cap — we asked for 3x annual fees, that's non-negotiable on our side given the data sensitivity here.
+
+CLAIRE: I hear the reasoning, but 3x is meaningfully above what we've extended to any customer, including ones with comparable data exposure. I can move to 2x, that's already a departure from our standard 1x cap and reflects real recognition of what's at stake for you.
+
+MONICA: [pause] 2x is... let me take that back internally, I can't commit on this call, but it's not an unreasonable position.
+
+CLAIRE: Understood. On termination for convenience — we can do 90 days, but I want to propose something: a 20% price premium if you want full termination-for-convenience rights on a multi-year locked-rate contract. That's a real risk shift to us on a 3-year deal, and I'd rather price that risk transparently than just absorb it silently.
+
+JULIE: That's actually a reasonable way to frame it. Let me model what that premium looks like against the 3-year savings Won already validated — might still net positive for us even with the premium.
+
+MONICA: Breach notification, 24 hours — accepted?
+
+CLAIRE: Accepted, that's operationally doable for us.
+
+MONICA: Mutual IP indemnification?
+
+CLAIRE: Accepted, that one's genuinely fair, no pushback from us.
+
+MONICA: Delaware governing law?
+
+CLAIRE: Accepted.
+
+MONICA: And the prohibition on using our data for your own product development, even anonymized?
+
+CLAIRE: Accepted as written, we don't do that as a matter of architecture anyway, happy to have it explicit.
+
+MONICA: Okay. So liability cap and the termination premium are the two open items. I'll come back on both.

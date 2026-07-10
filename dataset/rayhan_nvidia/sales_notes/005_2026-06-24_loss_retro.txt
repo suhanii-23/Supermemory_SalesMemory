@@ -1,0 +1,12 @@
+Private AE notes — Jordan Ellis
+Re: NVIDIA — closed lost retro
+
+Lost, but I'd call this close to the best possible version of a loss. Champion stayed bought-in the entire way, relationship is intact, he volunteered to revisit if the internal build underdelivers. Nothing about this loss was a trust or product failure — it was a legitimate infra-advantage decision on their side.
+
+Takeaways for future infra-heavy / big-tech accounts with strong internal platform teams:
+1. Treat champion-flagged build-vs-buy risk as gospel from day one, don't discount it as generic caution.
+2. Quiet technical stakeholders in a demo (Carlos) may already be building their own answer — worth probing directly rather than reading silence as neutral.
+3. When TCO numbers get challenged with a legitimate point, don't dispute it, pivot to the strongest remaining honest argument (maintenance cost, in this case).
+4. A month-long communication gap at a large company isn't necessarily death — reorg/quarter-end cycles are real and worth waiting out with periodic low-pressure check-ins rather than writing the deal off.
+
+Flagging for revisit in 12-18 months per Rayhan's own prediction that the internal build won't hold up. Keep him warm — send a note in ~6 months just to check in, not sell.

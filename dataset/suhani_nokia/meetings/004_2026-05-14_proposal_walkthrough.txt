@@ -1,0 +1,28 @@
+MEETING NOTES
+
+Date: May 14, 2026
+Attendees: Suhani Kapoor, Rajiv Mehta, Angela Ford (Procurement) — Nokia; Marcus Chen — MemoryIQ
+Type: Proposal Walkthrough
+
+Agenda:
+- Review formal proposal terms
+- Align on implementation timeline
+- Procurement introduction to contracting process
+
+Discussion:
+Walked through the $180K proposal line by line. Rajiv confirmed the platform-fee-plus-source pricing model addressed his earlier concern. No pushback on headline pricing from either Rajiv or Suhani.
+
+Angela asked process questions: standard MSA redline turnaround, whether MemoryIQ does security questionnaires beyond what Klaus already ran (confirmed CAIQ covers this), and payment terms (net 45 requested vs. MemoryIQ standard net 30 — flagged for follow-up, not resolved in this meeting).
+
+Suhani reiterated the June budget cycle deadline — needs signature before end of June ideally, hard deadline is start of Q3 planning.
+
+Decisions:
+- Angela to send formal MSA redlines within one week
+- Target signature: mid-to-late June
+
+Action Items:
+- MemoryIQ: legal (Claire) to be looped in once redlines arrive
+- Nokia: Angela to confirm net 45 vs net 30 internally
+- Marcus: confirm CIO sign-off threshold and process with Suhani
+
+Next Meeting: N/A — moving to email/redline process

@@ -1,0 +1,6 @@
+Private AE notes — Jordan Ellis
+Re: NVIDIA — TCO pushback
+
+Greg's number (0.75 FTE-year vs our 2 FTE-year assumption) legitimately weakened our position, and I made a deliberate choice not to fight that point directly since it was true for their specific situation — they really do have more reusable infra than our framework assumed. Instead I moved to the maintenance-cost argument, which I believe more honestly anyway.
+
+This might be the difference between losing badly and losing close. Worth remembering for future infra-heavy accounts: don't dispute a true point just because it's inconvenient, redirect to the strongest honest argument you actually have left.

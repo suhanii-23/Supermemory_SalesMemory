@@ -1,0 +1,20 @@
+CALL TRANSCRIPT
+Date: May 22, 2026
+Participants: Rithvik Suresh (IntelliBuddies), Priya Nathan (MemoryIQ)
+Duration: 15 min
+
+RITHVIK: okay 58k is just not a number I can take seriously for a 12 person company. that's more than our aws bill
+
+PRIYA: Yeah, I figured that'd land hard. Can I ask — what were you expecting, roughly, before you saw the number?
+
+RITHVIK: honestly, like, half that. also, and I want to be straight with you — we got pitched Fin, Intercom's thing, which is basically bundled into what we already pay for intercom
+
+PRIYA: I hear that, and I want to be straight back — Fin answers your customers directly using your help docs, it's a different job than what we do, we're building memory across your team, not customer-facing automation. Doesn't mean you shouldn't compare cost though, that's fair.
+
+RITHVIK: right, i get they're not identical, but it does mean the bar for "worth extra spend on top of what we have" is higher
+
+PRIYA: Understood. I do have a real startup tier, not a "special discount" thing, an actual different pricing structure for companies under 25 people. I'd rather send you that in writing than negotiate live and have you wonder if I just made up a number on the spot.
+
+RITHVIK: [laughs] yeah please, I've done the live-negotiation theater before, I hate it
+
+PRIYA: Noted. I'll have it to you by tomorrow.

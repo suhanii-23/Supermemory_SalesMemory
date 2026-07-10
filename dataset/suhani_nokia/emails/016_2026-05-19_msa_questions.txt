@@ -1,0 +1,19 @@
+From: Angela Ford <angela.ford@nokia.com>
+To: Marcus Chen <marcus.chen@memoryiq.ai>
+CC: Suhani Kapoor <suhani.kapoor@nokia.com>
+Subject: RE: Proposal — MemoryIQ Network Incident Memory Platform
+Date: Tue, 19 May 2026 10:02:00 -0700
+
+Marcus,
+
+Reviewed the MSA. A few items our legal team flagged, standard stuff on our end:
+
+1. Liability cap — your standard terms cap at 12 months fees, we typically require 24 months for platforms with access to operational data at this scope.
+2. Data deletion — need explicit language on data destruction timeline post-termination (we require 30 days, contract currently silent).
+3. Auto-renewal — we strike auto-renewal clauses as a matter of policy, all our contracts require active renewal.
+4. Sub-processor notification — need 30 days advance notice of new subprocessors, not the 15 in your current terms.
+
+None of these are unusual for us, we run the same redlines with most SaaS vendors. Can your legal turn around a markup within 2 weeks? Also — is pricing negotiable at this volume, or is $180K firm?
+
+Angela Ford
+Senior Procurement Manager, Nokia

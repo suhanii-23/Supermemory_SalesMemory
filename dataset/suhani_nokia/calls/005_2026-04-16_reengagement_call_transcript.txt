@@ -1,0 +1,22 @@
+CALL TRANSCRIPT
+Date: April 16, 2026
+Participants: Suhani Kapoor (Nokia), Marcus Chen (MemoryIQ)
+Duration: 18 min
+
+MARCUS: Hey, good to hear from you. Everything okay?
+
+SUHANI: Yeah, sorry, it's been — we had a multi-region outage. Two weeks of war room. I basically didn't check personal priorities, let alone vendor emails.
+
+MARCUS: No apology needed, genuinely. How bad was it?
+
+SUHANI: Bad. Six-plus hours down across two regions before we isolated it. And — I'll just say it — part of the delay was exactly the thing we talked about in January. Similar failure mode to something from last year, nobody connected the dots fast enough.
+
+MARCUS: [pause] I'm sorry that happened. I won't pretend I'm not also thinking "well, that's the pitch," but genuinely, that sounds rough.
+
+SUHANI: [laughs] It's fine, you can think it, it's true. Anyway — I don't want this to stall. I need to get Rajiv back on pricing model and get procurement in formally. Give me to end of month.
+
+MARCUS: Take the time you need. Want me to send anything to help make the internal case, or would that feel like piling on right now?
+
+SUHANI: Send me a short one-pager I can drop into a deck. Nothing heavy.
+
+MARCUS: Can do by tomorrow.

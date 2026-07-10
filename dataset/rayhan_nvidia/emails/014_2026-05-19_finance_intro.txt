@@ -1,0 +1,13 @@
+From: Rayhan Ahmed <rahmed@nvidia.com>
+To: Jordan Ellis <jordan.ellis@memoryiq.ai>
+CC: Greg Simmons <gsimmons@nvidia.com>
+Subject: Introducing Greg (Finance)
+Date: Tue, 19 May 2026 10:15:00 -0700
+
+Jordan,
+
+Greg — this is the engineering knowledge memory platform I mentioned, MemoryIQ. Jordan's the account exec. Priyanka wants a real cost comparison against an internal build before she'll bring a recommendation to her VP.
+
+Jordan — Greg's going to want the total cost of ownership picture, not just the sticker price, so factor in whatever implementation/support costs are relevant, he'll see through a number that's obviously stripped down to look better than reality.
+
+Rayhan

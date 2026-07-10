@@ -1,0 +1,13 @@
+From: Padma Krishnan <padma.krishnan@oracle.com>
+To: Diane Okafor <diane.okafor@memoryiq.ai>
+CC: Robert Chase <robert.chase@oracle.com>
+Subject: RE: Recap + next steps
+Date: Tue, 13 Jan 2026 11:20:00 -0800
+
+Diane,
+
+Looping in Robert. Robert — this is the account memory platform I mentioned after the Workday conversation. Given your reps are the day-to-day users, I want your read on whether this actually solves the handoff/context problem or just adds another tool nobody uses.
+
+Diane, Robert's going to be more skeptical than I was initially, fair warning — he's been burned by "sales enablement" tools that turned into shelfware.
+
+Padma

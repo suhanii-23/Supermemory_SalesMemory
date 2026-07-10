@@ -1,0 +1,15 @@
+SALESFORCE OPPORTUNITY RECORD — UPDATE
+
+Opportunity: IntelliBuddies — Customer Support Memory Platform
+Stage: Technical Validation
+Amount: $58,000 (anchor, expected to compress)
+Probability: 45%
+Expected Close Date: 2026-07-04
+
+Champion: Rithvik Suresh — confirmed
+Technical Buyer: Wei Zhang (CTO) — satisfied post sandbox export test, primary concern (data lock-in) resolved
+Competitor: Fin (Intercom) — adjacent, not head-to-head
+Next Action: Pricing conversation
+Risk: None technical; pricing sensitivity expected given company size (12 employees, seed stage)
+
+Notes: Fast-moving deal, both buyers highly responsive, cycle tracking well ahead of average.

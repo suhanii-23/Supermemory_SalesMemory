@@ -1,0 +1,15 @@
+From: Priya Nathan <priya.nathan@memoryiq.ai>
+To: Wei Zhang <wei@intellibuddies.ai>
+CC: Rithvik Suresh <rithvik@intellibuddies.ai>
+Subject: RE: DPA / data processing agreement
+Date: Fri, 6 Jun 2026 09:30:00 -0700
+
+Wei,
+
+Attached, our standard GDPR-compliant DPA, includes current subprocessor list (AWS, Pinecone for vector storage). Standard terms, nothing you'd need to negotiate for a deal this size, but flag anything that looks off.
+
+Rithvik — once Wei confirms this looks fine, I think we're basically ready to finalize. Want to get on a quick call this week to close out?
+
+Priya
+
+[Attachment: memoryiq_dpa_standard.pdf]

@@ -1,0 +1,13 @@
+From: Suhani Kapoor <suhani.kapoor@nokia.com>
+To: Marcus Chen <marcus.chen@memoryiq.ai>
+CC: Tomas Lindqvist <tomas.lindqvist@nokia.com>
+Subject: Exec sign-off needed — introducing Tomas (CIO)
+Date: Tue, 2 Jun 2026 08:15:00 -0700
+
+Marcus,
+
+Anything over $150K needs CIO sign-off on our side, so looping in Tomas. He doesn't need the full pitch, he needs 15 minutes: what it does, why it matters, what it costs, why now. Can you and your exec sponsor do a short call with him this week? He travels a lot so this week is the window.
+
+Tomas — this is the incident memory platform I've mentioned. Rajiv and Klaus are both aligned. Procurement is finalizing terms. I need your sign-off to get this into the June budget cycle.
+
+Suhani
