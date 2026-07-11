@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap");
+@import "tailwindcss";
+
+@theme {
+  /* Brand palette extracted from the real SaleSights logo mark and brand
+     reference image (web/public/logo/mark.png) -- not the landing page's
+     unrelated olive-green palette. */
+  --color-navy: #2b313a;
+  --color-navy-soft: #4a5361;
+  --color-cream: #f4ebe2;
+  --color-cream-soft: #faf6f1;
+  --color-terracotta: #d9824e;
+  --color-terracotta-soft: #f1d3bd;
+  --color-dusty: #6e828d;
+  --color-dusty-soft: #dbe3e6;
+
+  --font-serif: "Cormorant Garamond", serif;
+  --font-sans: "Inter", sans-serif;
+
+  --animate-fade-in: fadeIn 0.2s ease-out;
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(4px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+}
+
+body {
+  background: var(--color-cream);
+  color: var(--color-navy);
+  font-family: var(--font-sans);
+}
+
+.font-serif-caps {
+  font-family: var(--font-serif);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}

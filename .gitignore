@@ -8,6 +8,15 @@ __pycache__/
 # Node
 node_modules/
 
+# Backend runtime state
+backend/state.json
+backend/state.json.tmp
+
+# Local self-hosted Supermemory server runtime data (contains its own
+# api-key/auth-secret, plus embedded model weights -- large binary state,
+# never source)
+.supermemory/
+
 # OS
 .DS_Store
 Thumbs.db

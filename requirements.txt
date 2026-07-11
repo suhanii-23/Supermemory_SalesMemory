@@ -3,3 +3,6 @@ python-dotenv
 tqdm
 supermemory
 anthropic
+fastapi
+uvicorn
+python-multipart
