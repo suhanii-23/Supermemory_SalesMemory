@@ -142,7 +142,7 @@ def ingest_with_retry(doc: dict, max_retries: int = 3):
             # both hit the same endpoint, add() works against either backend).
             return client.add(
                 content=doc["content"],
-                container_tag=doc["containerTag"],
+                containerTag=doc["containerTag"],
                 custom_id=doc["customId"],
                 metadata=doc["metadata"],
                 entity_context=doc.get("entityContext"),
