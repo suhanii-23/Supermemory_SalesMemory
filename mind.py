@@ -50,7 +50,14 @@ if os.environ.get("SUPERMEMORY_BASE_URL"):
     _supermemory_kwargs["base_url"] = os.environ["SUPERMEMORY_BASE_URL"]
 
 memory = Supermemory(**_supermemory_kwargs)
-claude = anthropic.Anthropic(api_key=os.environ.get("ANTHROPIC_API_KEY"))
+
+# No fallback Anthropic client is built at import time -- anthropic.Anthropic()
+# raises immediately if api_key is None, which would crash the whole
+# backend on startup in an environment with no server-side key configured
+# (e.g. the deployed demo, which relies entirely on visitors bringing
+# their own key via the dashboard). Resolved lazily per-call instead, see
+# generate_brief().
+_ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY")
 
 # NOTE: tried enforcing this via output_config.format (Structured Outputs) --
 # Claude rejected it with "the compiled grammar is too large" (400). The
@@ -239,9 +246,15 @@ Use these for evidence and verbatim quotations.
 """
     # 3. Ask Claude to synthesize the brief in the dashboard's shape.
     # A per-request key (e.g. a judge/user pasting their own Anthropic key
-    # into the dashboard) uses a throwaway client for just this call;
-    # otherwise falls back to the module-level client built from .env.
-    client = anthropic.Anthropic(api_key=anthropic_api_key) if anthropic_api_key else claude
+    # into the dashboard) takes priority; otherwise falls back to a
+    # server-side key from .env, if one is configured.
+    resolved_key = anthropic_api_key or _ANTHROPIC_API_KEY
+    if not resolved_key:
+        raise BriefGenerationError(
+            "No Anthropic API key available -- add your own Claude key in "
+            "the dashboard sidebar to generate a brief."
+        )
+    client = anthropic.Anthropic(api_key=resolved_key)
     msg = client.messages.create(
         model="claude-sonnet-4-6",
         max_tokens=10000,

@@ -8,9 +8,12 @@ services:
     envVars:
       - key: PYTHON_VERSION
         value: 3.12.7
-      - key: ANTHROPIC_API_KEY
-        sync: false
       - key: SUPERMEMORY_API_KEY
         sync: false
       - key: SUPERMEMORY_BASE_URL
         value: https://api.supermemory.ai
+      # ANTHROPIC_API_KEY intentionally omitted -- the app runs without a
+      # server-side Claude key, relying on visitors pasting their own key
+      # into the dashboard sidebar (X-Anthropic-Api-Key header, see
+      # mind.py's generate_brief). Add this var manually in the Render
+      # dashboard later if you want a server-side fallback key too.
