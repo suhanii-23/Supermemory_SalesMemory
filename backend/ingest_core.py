@@ -20,10 +20,15 @@ from supermemory import Supermemory
 
 load_dotenv(Path(__file__).parent.parent / ".env")
 
-client = Supermemory(
-    api_key=os.environ.get("SUPERMEMORY_API_KEY"),
-    base_url=os.environ.get("SUPERMEMORY_BASE_URL") or None,
-)
+# base_url is only passed when explicitly set -- the SDK's own default
+# (hosted https://api.supermemory.ai) only kicks in when the kwarg is
+# omitted entirely; passing base_url=None explicitly breaks it (resolves
+# to an empty base URL instead of falling back).
+_supermemory_kwargs = {"api_key": os.environ.get("SUPERMEMORY_API_KEY")}
+if os.environ.get("SUPERMEMORY_BASE_URL"):
+    _supermemory_kwargs["base_url"] = os.environ["SUPERMEMORY_BASE_URL"]
+
+client = Supermemory(**_supermemory_kwargs)
 
 
 def container_tag_for(deal_folder: str) -> str:
