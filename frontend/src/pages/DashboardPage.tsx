@@ -1,5 +1,6 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import { RosterGrid } from "../components/roster/RosterGrid";
+import { ApiKeySettings } from "../components/dashboard/ApiKeySettings";
 import { DashboardHeader } from "../components/dashboard/DashboardHeader";
 import { NewInteractionForm } from "../components/dashboard/NewInteractionForm";
 import { RememberCard } from "../components/insights/RememberCard";
@@ -96,6 +97,9 @@ export function DashboardPage() {
           selectedTag={selectedDeal?.containerTag ?? null}
           onSelect={handleSelectDeal}
         />
+        <div className="mt-4">
+          <ApiKeySettings />
+        </div>
       </aside>
 
       <main className="min-w-0 flex-1 space-y-4">

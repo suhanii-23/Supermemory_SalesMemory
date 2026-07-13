@@ -12,6 +12,24 @@ import { mockDeals } from "../data/mockDeals";
 const API_BASE = import.meta.env.VITE_API_BASE_URL ?? "http://localhost:8000";
 const USE_MOCK = import.meta.env.VITE_USE_MOCK === "true";
 
+// Bring-your-own-key: lets a visitor (e.g. a judge trying the deployed
+// demo) use their own Anthropic key instead of the team's. Stored only in
+// this browser's localStorage -- never sent anywhere but our own backend,
+// which uses it for one call and never persists it server-side.
+const API_KEY_STORAGE_KEY = "salesights_anthropic_api_key";
+
+export function getStoredApiKey(): string | null {
+  return localStorage.getItem(API_KEY_STORAGE_KEY);
+}
+
+export function setStoredApiKey(key: string): void {
+  localStorage.setItem(API_KEY_STORAGE_KEY, key);
+}
+
+export function clearStoredApiKey(): void {
+  localStorage.removeItem(API_KEY_STORAGE_KEY);
+}
+
 export class BriefFetchError extends Error {
   status: number;
 
@@ -51,7 +69,10 @@ export async function fetchBrief(
   }
 
   const params = new URLSearchParams({ deal, context, force: String(force) });
-  const res = await fetch(`${API_BASE}/api/brief?${params.toString()}`);
+  const apiKey = getStoredApiKey();
+  const res = await fetch(`${API_BASE}/api/brief?${params.toString()}`, {
+    headers: apiKey ? { "X-Anthropic-Api-Key": apiKey } : undefined,
+  });
 
   if (!res.ok) {
     const body = (await res.json().catch(() => null)) as ApiError | null;

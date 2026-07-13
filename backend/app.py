@@ -10,7 +10,7 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(REPO_ROOT))
 from mind import generate_brief, BriefGenerationError  # noqa: E402
 
-from fastapi import FastAPI, Body
+from fastapi import FastAPI, Body, Header
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 
@@ -50,7 +50,12 @@ def list_deals():
 
 
 @app.get("/api/brief")
-def get_brief(deal: str, context: str, force: bool = False):
+def get_brief(
+    deal: str,
+    context: str,
+    force: bool = False,
+    x_anthropic_api_key: str | None = Header(default=None),
+):
     if deal not in TAG_TO_DEAL_FOLDER:
         return JSONResponse(status_code=404, content={"error": f"Unknown deal '{deal}'"})
 
@@ -65,7 +70,10 @@ def get_brief(deal: str, context: str, force: bool = False):
     # middleware-ordering gotcha), which surfaced in the browser as an
     # opaque "CORS policy" failure instead of the real error message.
     try:
-        brief = generate_brief(deal, context)
+        # X-Anthropic-Api-Key lets a visitor bring their own Claude key
+        # (e.g. a judge trying the deployed demo) instead of spending the
+        # team's -- never persisted server-side, used for this one call.
+        brief = generate_brief(deal, context, anthropic_api_key=x_anthropic_api_key)
     except BriefGenerationError as err:
         return JSONResponse(status_code=503, content={"error": str(err)})
     except Exception as err:  # noqa: BLE001 -- deliberate catch-all, see comment above

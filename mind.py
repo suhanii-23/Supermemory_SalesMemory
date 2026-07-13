@@ -151,7 +151,11 @@ class BriefGenerationError(Exception):
     """Raised when generate_brief can't produce a usable brief."""
 
 
-def generate_brief(deal_container_tag: str, meeting_context: str) -> dict:
+def generate_brief(
+    deal_container_tag: str,
+    meeting_context: str,
+    anthropic_api_key: str | None = None,
+) -> dict:
     # 1. Profile (static facts + dynamic context + bundled memories) and
     # 2. document-level search (gives us category/date/title metadata so
     # Claude can attribute a quote to "Email, Ahmed Farouk, 3 days ago"
@@ -234,7 +238,11 @@ Use these for evidence and verbatim quotations.
 {json.dumps([_to_dict(r) for r in ranked_results], indent=2, default=str)}
 """
     # 3. Ask Claude to synthesize the brief in the dashboard's shape.
-    msg = claude.messages.create(
+    # A per-request key (e.g. a judge/user pasting their own Anthropic key
+    # into the dashboard) uses a throwaway client for just this call;
+    # otherwise falls back to the module-level client built from .env.
+    client = anthropic.Anthropic(api_key=anthropic_api_key) if anthropic_api_key else claude
+    msg = client.messages.create(
         model="claude-sonnet-4-6",
         max_tokens=10000,
         system=(
